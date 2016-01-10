@@ -1,0 +1,42 @@
+---
+layout: category
+title: Лекции
+permalink: /lectures/
+---
+
+<div>
+  <h1>Лекции</h1>
+  <p>
+    Люблю рассказывать про всякие интересные штуки. Питаю эго, очевидно.
+  </p>
+</div>
+
+<div class="posts">
+  {% for post in site.posts %}
+
+    {% assign author = site.authors[post.author] %}
+    {{ author.display_name }}
+
+  {% if post.category == 'Lectures' %}
+    <div class="post py3">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h4 class="post-title">{{ post.title }}</h4></a>
+
+      {% if post.video_id %}
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <p class="post-floating-video">
+            {% if post.video_provider == 'vimeo' %}
+            <img width="240" height="135" src="/images/vimeo.png">
+            {% else %}
+            <img width="240" height="135" src="http://img.youtube.com/vi/{{ post.video_id }}/mqdefault.jpg">
+            {% endif %}
+          </p>
+        </a>
+      {% endif %}
+
+      <p class="post-summary">
+        {{ post.summary }}
+      </p>
+    </div>
+  {% endif %}
+  {% endfor %}
+</div>

@@ -1,0 +1,36 @@
+---
+layout: category
+title: Английский язык
+permalink: /english/
+---
+
+<div>
+  <h1>Английский язык</h1>
+  <p>
+    Главный язык жителей планеты.
+  </p>
+</div>
+
+{% comment %} This is pretty horrible, fix me, please, I want to die. {% endcomment %}
+{% assign postCount = '1' %}
+{% for post in site.posts %}
+{% if post.category == 'English' %}
+{% capture postCount %}{{ postCount | plus: '1' }}{% endcapture %}
+{% endif %}
+{% endfor %}
+
+<table cellspacing="0" cellpadding="0" style="border: none;">
+{% for post in site.posts %}
+{% if post.category == 'English' %}
+{% capture postCount %}{{ postCount | minus: '1' }}{% endcapture %}
+    <tr>
+        <td style="text-align: right;border-top: none; width:2em;">§{{ postCount }}.</td>
+        <td style="text-align: left;border-top: none;">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+            {{ post.title }}
+          </a>
+        </td>
+    </tr>
+{% endif %}
+{% endfor %}
+</table>

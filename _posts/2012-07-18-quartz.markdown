@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Как работают кварцевые часы"
+original_url: http://lifehacker.ru/2012/07/18/video-kak-rabotayut-kvarcevye-chasy/
+original_url_source: Лайфхакер
+category: Translations
+subcat: Science_short
+minutes: 3
+summary: "Что общего между дешевыми наручными часами, настенными часами с маятником, золотом и нотой ля? Ответы на эти вопросы станут очевидными если разобраться в удивительном принципе работы привычных, дешевых кварцевых часов."
+video_id: ZFxs-PL-sTs
+video_provider: youtube
+---
+
+Что общего между дешевыми наручными часами, настенными часами с маятником, золотом и нотой ля? Ответы на эти вопросы станут очевидными если разобраться в удивительном принципе работы привычных, дешевых кварцевых часов.
+
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/ZFxs-PL-sTs?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

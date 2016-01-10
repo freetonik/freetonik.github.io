@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Состояние современной рекламы"
+category: Life
+---
+
+![ads today](/images/posts/notfree.png)

@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Ссылкомат #11"
+category: Linker
+---
+### Музыка
+
+1. Начнем с [Chrome Sparks – Marijuana](http://www.youtube.com/watch?v=_etVjH9db4U). У этого чувака по имени Джереми вообще [много](https://soundcloud.com/chrome-sparks) приятного.
+3. Вполне органично перейдем к нигерийскому афробиту [Fela Kuti & Egypt 80 – Beasts of No Nation](http://www.youtube.com/watch?v=XSEs2SunXag).
+4. Украинская группа Los Colorados уже довольно известна, но я к своему сожалению узнал о них буквально пару месяцев назад. Больше всего понравился [Du Hast](https://www.youtube.com/watch?v=a5xSxGhlHfc), но у них много прекрасного.
+4. Оказывается, скутеровский How Much Is The Fish это перепев песни группы [Bots – Zeven dagen lang](http://www.youtube.com/watch?v=le6uFnLwqYU), которая в свою очередь является версией старинной бретонской застольной песни Ev chistr 'ta Laou! Благодаря этому факту открыл для себя [Bots](http://en.wikipedia.org/wiki/Bots_(band)).
+5. Оцените милейший женский вокал Addie Hamilton: [Fever](http://www.youtube.com/watch?v=7_GK1UKvRwU) и [Blurred Lines](http://www.youtube.com/watch?v=ckDT0hGyofE).
+6. Обожаю языки северной Европы! Послушайте [Amhrán na gCupán – When I'm gone](http://www.youtube.com/watch?v=Hz63M3v11nE) на ирландском языке (можно [скачать](http://tglurgan.bandcamp.com/track/amhr-n-na-gcup-n)) студийную версию бесплатно). Разве не прекрасно? И вообще, послушайте ирландскую речь, [простую](http://www.youtube.com/watch?v=beRulDEAyqI) или [официальную](http://www.youtube.com/watch?v=e6JbUDBfY1E).
+
+
+### Музыка + Дизайн
+
+На стыке этих разделов лежит [Sonar – Music Video](http://www.youtube.com/watch?v=tqdha0XBexA).
+
+
+### Дизайн
+
+1. [Colourcode](http://colourco.de/) – офигенный инструмент для генерации цветовых комбинаций.
+2. Качественные [шаблоны](http://html5up.net/) на ХТМЛ5.
+3. [Будущее](http://www.f-i.com/fi/airlines/) сайтов авиакомпаний.
+3. [Советская эротическая азбука](http://wp.me/pgGDG-24m) 1931 года.
+4. Сборник хороших [css-эффектов](http://h5bp.github.io/Effeckt.css/dist/).
+5.
+
+### Программирование
+
+1. В Великобритании тоже задумались об интернет-фильтре, на этот раз – о порнофильтре. Народ решил поддержать правительство и сделал [порнофильтр](http://sicksad.com/blog/2013/07/28/dont-worry-government/), который блокирует все не-порно сайты. [The internet is for porn](http://www.youtube.com/watch?v=eWEjvCRPrCo)!
+2. [Почему мобильные приложения медленные](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/) и в ближайшее время ничего не изменится.
+3. Крутой эмулятор терминала [Final Term](http://finalterm.org/).
+
+*Ó, aireoidh tú uait mé 's gan mé ann...*

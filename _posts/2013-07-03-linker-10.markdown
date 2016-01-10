@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Ссылкомат #10"
+category: Linker
+---
+В сегодняшнем выпуске:
+
+### Фронт-энд разработчику
+
+1. Если вы делаете прототипы интерфейсов (особенно, каких-нибудь социальных штуковин), то вам может пригодится эдакий [lorem ipsum для аватаров](http://uifaces.com/), даже если вам [не нравятся люди](http://www.zooportraits.com/).
+1. Удобный [скрипт](http://heelhook.github.io/chardin.js/) для создания инструкций на вашем сайте.
+1. [Лучшие](http://superherojs.com/) статьи, видеоролики и презентации)) о разработке, тестировании и внедрение Javascript.
+1. В нашем современном интернете очень не хватает старых друзей. Например, [Клиппи](https://www.smore.com/clippy-js) из старого Офиса.
+1. Довольно [крутой сервис](http://clippingmagic.com/) для удаления фона с изображений.
+
+### Музыка
+
+1. Дурацкий Канье Уэст [украл](http://www.reddit.com/r/Music/comments/1eywlu/kanye_west_stole_hungarian_music/) венгерскую песню. Новость, конечно, никакая, зато позволила мне услышать эту чудесную песню: [Omega - Gyöngyhajú lány](http://www.youtube.com/watch?v=CGt-rTDkMcM).
+1. [The Strokes – Someday](http://www.youtube.com/watch?v=knU9gRUWCno) радует утром.
+1. [Familjen – Det Snurrar i Min Skalle](http://youtu.be/QfU-4Y4_akY) превращает любой день в солнечный.
+1. На закате играет [MOVITS! – Fel Del Av Gården](http://youtu.be/LnaeImQ0TSg).
+1. А [Elliphant – Down On Life](http://youtu.be/Ves2IImEWjM) провожают солнце.
+
+Боже, как я люблю скандинавов!
+
+### Видео
+
+1. Небольшой [рассказ про интернет-архив](http://vimeo.com/59207751).
+1. Компьютерная программа [учится играть в NES](http://youtu.be/xOCurBYI_gY) (Денди).
+1. [Акапелла-трейлер](http://youtu.be/d2yD4yDsiP4) к фильму "Начало"
+1. [Велопутешествие](http://youtu.be/3sZzPkFUZyc) Мэтта Хантера.

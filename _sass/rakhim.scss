@@ -1,0 +1,39 @@
+footer a {
+  color: inherit;
+  background-image: none;
+}
+
+header a {
+  background-image: none;
+}
+
+.intro {
+  background-color: $footer-bg-color;
+}
+
+.topline {
+  opacity: 0.75;
+}
+
+.topline .topline-block {
+  width: 20%;
+  display: inline;
+  float: left;
+  height: 5px;
+}
+
+.topline #topline-block-1 {
+  background-color: #44B3C2;
+}
+.topline #topline-block-2 {
+  background-color: #F1A94E;
+}
+.topline #topline-block-3 {
+  background-color: #E45641;
+}
+.topline #topline-block-4 {
+  background-color: #5D4C46;
+}
+.topline #topline-block-5 {
+  background-color: #7B8D8E;
+}

@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Диктум: интересные статьи вслух"
+---
+Иногда мне так нравится какая-нибудь статья (обычно – не своя), что хочется зачитать ее вслух, громко и на весь зал. Обычное подкастерское желание. Решил реализовать это желание в виде подкаста. Никакой определенной тематики нет, просто понравившиеся мне статьи или посты из блогов. Графика тоже нет – когда захотелось – записал. Сегодня, вот, захотелось прочитать статью Хеллера "((http://heller.ru/blog/2012/10/avtonom-article/ Школа рабства и послушания))".
+
+<object width="500" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa251512.xml"></param><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://s.rpod.ru/swf/playa.swf?xmlURL=http%3A%2F%2Fs.rpod.ru%2Fxml%2Faudio%2Fa251512.xml" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="40"></embed></object>
+
+Вот ((http://dictum.rpod.ru/rss_6mf_2c0d.xml РСС-поток)), можно сразу ((itpc://dictum.rpod.ru/rss_6mf_2c0d.xml добавить в iTunes)).

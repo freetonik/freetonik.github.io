@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Гексагон"
+---
+Недавно узнал, что Францию иногда называют Hexagone из-за ее формы:
+
+![](/images/posts/hexagone.gif)

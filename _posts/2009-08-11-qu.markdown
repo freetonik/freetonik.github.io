@@ -1,0 +1,6 @@
+---
+layout: post
+title: Q и u
+category: English
+---
+Если слово в английском языке начинается с «q», то вторая буква будет «u». Исключение составляют лишь некоторые [редко используемые иностранные слова](http://en.wikipedia.org/wiki/List_of_English_words_containing_Q_not_followed_by_U).

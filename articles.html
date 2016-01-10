@@ -1,0 +1,27 @@
+---
+layout: category
+title: Статьи
+permalink: /articles/
+---
+
+<p>
+  <h1>Статьи</h1>
+</p>
+
+<div class="posts">
+  {% for post in site.posts %}
+
+    {% assign author = site.authors[post.author] %}
+    {{ author.display_name }}
+
+  {% if post.category == 'Articles' %}
+  <div class="post py3">
+    <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
+    <p class="post-summary">
+      {{ post.summary }} <a href="{{ post.url | prepend: site.baseurl }}">Читать&nbsp;дальше&nbsp;→</a>
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>

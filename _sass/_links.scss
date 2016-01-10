@@ -1,0 +1,24 @@
+a {
+  color: $link-color;
+  background-image: linear-gradient(to top,
+    rgba(0,0,0,0) 13%,
+    rgba($link-color,.8) 13%,
+    rgba($link-color,.8) 17%,
+    rgba(0,0,0,0) 17%
+  );
+  text-shadow: white 1px 0px 0px, white -1px 0px 0px;
+}
+
+a:hover,
+a:focus,
+a:active {
+  border: 0;
+  color: $link-hover-color;
+  text-decoration: none;
+    background-image: linear-gradient(to top, transparent 13%, rgba(208,64,0,0.3) 13%, rgba(208,64,0,0.3) 17%, transparent 17%);
+  text-shadow: white 1px 0px 0px, white -1px 0px 0px;
+}
+
+a:link, * a:link *, * a:visited, * a:visited * {
+   transition: color 0.25s ease-out, background-color 0.25s ease-out, border-color 0.25s ease-out, box-shadow 0.25s ease-out;
+}

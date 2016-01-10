@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Непредубежденность"
+category: Translations
+original_url: http://geektimes.ru/post/59560/
+original_url_source: Geektimes
+subcat: Life
+minutes: 10
+summary: "На youtube есть канал молодого британца по имени Doug 'QualiaSoup'. Он один из борцов за здравый смысл и научный, логический подход к жизни. Его разъясняющие видеоролики мне лично очень нравятся. Представляю вам свой перевод самого популярного ролика QualiaSoup — Open Mindedness."
+video_id: d7AfafJYkno
+video_provider: youtube
+---
+
+На youtube есть канал молодого британца по имени Doug 'QualiaSoup'. Он один из борцов за здравый смысл и научный, логический подход к жизни. Его разъясняющие видеоролики мне лично очень нравятся. И хотя многие ошибочно его ставят в один ряд с воинствующими атеистами, видео от QualiaSoup отличаются трезвым разъяснением расхожих ошибок, ложных логических суждений и недопонимания науки, а не атакой на религию или мифы. Даг допускает существование любого мнения и борется лишь со слепой верой и непониманием.
+
+Представляю вам свой перевод самого популярного ролика QualiaSoup — Open Mindedness.
+
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/d7AfafJYkno?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+
+P.S. Даг получил от Youtube предложение о сотрудничестве, но вскоре заморозил свой проект и отказался, потому что администрация сайта закрыла без предупреждения такие каналы, как Cozmikzen и Adamatheatheist.

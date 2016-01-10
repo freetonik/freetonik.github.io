@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Ссылкомат #5"
+category: Linker
+---
+### Программирование
+
+1. [Поиск и сортировка в библиотеке](http://jorendorff.github.com/hackday/2012/library/). Человек, знакомый с базовыми алгоритмами не узнает ничего нового, но текст очень интересный, по-настоящему приятно читать.
+2. [Как проиндексировать четверть миллиарда страниц](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/) за 39 часов и 580 долларов. Помогает понять, насколько массивная это задача – быть поисковиком.
+
+### Дизайн
+
+1. [iOS 86 года](http://work.repponen.com/iOS-86).
+2. [Куча полезных ресурсов](http://www.designyourway.net/blog/resources/a-new-batch-of-resources-and-tools-for-web-designers-51-items/) для веб-дизайнера. Особенно понравилась [векторная карта](http://jvectormap.com/) Земли, [js-библиотека](https://github.com/mozilla/pdf.js) для рендера PDF-файлов и классный [плагин для типографики](http://daverupert.com/2010/09/lettering-js/) в вебе.
+
+Книги по дизайну, которые я хочу прочитать в ближайшие годы:
+
+1. [Universal Principles of Design](http://www.amazon.com/exec/obidos/ASIN/1592535879/). Настольная книга для начинающего дизайнера. Читать можно с любой страницы.
+2. [Non-Designer's Design Book](http://www.amazon.com/exec/obidos/ASIN/0321534042/). Название говорит само за себя. Дизайн для тех, кто не имеет отношения к дизайну.
+3. [Don't Make Me Think: A Common Sense Approach to Web Usability](http://www.amazon.com/exec/obidos/ASIN/0321344758/). Простая книга по веб-юзабилити, которая поможет понять, что дизайн это красота из функциональности, а не уродство из дисфункциональности.
+4. [Visual Thinking: for Design](http://www.amazon.com/exec/obidos/ASIN/0123708966/). Визуальный аспект дизайна. Желательно иметь некоторое представление о дизайне перед прочтением этой книги.
+5. [Список Артемия Лебедева](http://tema.livejournal.com/80379.html).
+6. Дизайн и проектирование интерфейсов, [список Артема Горбунова](http://www.artgorbunov.ru/bb/soviet/20071108/).
+7. [Леттердэй – о шрифтах и типографике](http://letterday.ru).

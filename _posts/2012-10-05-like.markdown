@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Избавляйтесь от слов-паразитов"
+category: Translations
+subcat: Life
+minutes: 4
+summary: "Американский слэм-поэт и юморист Тэйлор Мали рассуждает о словах-паразитах и о той невнятной манере, в которой разговаривает подавляющее большинство в нашем поколении."
+video_id: WjMfDSZVM6Y
+video_provider: youtube
+---
+
+Американский слэм-поэт и юморист Тэйлор Мали рассуждает о словах-паразитах и о той невнятной манере, в которой разговаривает подавляющее большинство в нашем поколении.
+
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/WjMfDSZVM6Y?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

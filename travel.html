@@ -1,0 +1,56 @@
+---
+layout: category
+title: Велопутешествия
+permalink: /travel/
+---
+
+<p>
+  <h1>Велопутешествия</h1>
+</p>
+
+<div class="posts">
+  {% for post in site.posts %}
+  {% if post.category == 'Travel' %}
+  <div class="post py3">
+    <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
+    <p class="post-summary">
+      <p>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <img width="100%" height="auto" src="{{ post.cover_url }}">
+        </a>
+      </p>
+      {{ post.summary }} <a class="bike" href="{{ post.url | prepend: site.baseurl }}">Поехали</a>&nbsp;<img src="/images/bike.jpg">
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+<script src="/js/jquery-2.1.0.min.js"></script>
+<script>
+// thank you, Kirill newhero129 ;-)
+$(document).ready(function() {
+	$("a.bike").click(function(event) {
+		var link = $(this);
+		var bike = $(this).next();
+		var coordinates = $(bike).offset();
+
+		$(bike).css({
+			"position": "absolute",
+			"display": "block",
+			"top": coordinates.top+"px",
+			"left": coordinates.left - parseInt($(bike).css("margin-left"))+"px"
+		});
+
+		$(bike).animate({
+			left: coordinates.left+100+"px",
+			opacity: 0
+		}, 350, function() {
+			window.location.href = $(link).attr("href");
+		});
+
+		return false;
+	});
+});
+</script>

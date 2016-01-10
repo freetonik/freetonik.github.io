@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
+
+  <div class="topline">
+    <div class="topline-block" id="topline-block-1"></div>
+    <div class="topline-block" id="topline-block-2"></div>
+    <div class="topline-block" id="topline-block-3"></div>
+    <div class="topline-block" id="topline-block-4"></div>
+    <div class="topline-block" id="topline-block-5"></div>
+  </div>
+
+  <div class="site-wrap">
+    {% include header.html %}
+
+    {% include intro.html %}
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>

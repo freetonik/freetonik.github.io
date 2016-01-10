@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Мудрость"
+---
+Один ((https://twitter.com/xapon хороший твиттерянин)) спросил недавно – "есть ли аналог ((http://pastebin.com/ pastebin)) для литературных цитат?" Мне очень понравилась эта идея, поэтому я собрал такой сайт на основе open source скрипта ((https://github.com/claudehohl/Stikked Stikked)). Сайт называется ((http://quoter.be/ Quoter.be)). На нем можно делиться цитатами и находить существующие.
+
+Screen-Shot-2012-10-11-at-6.14.54-PM.png
+
+UPD: Проект закрыт.

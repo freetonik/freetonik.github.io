@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Полный цикл разработки на JavaScript &#8211; Rakh.im</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="В этой открытой лекции я попытался сжато рассказать и показать полный цикл (full stack) разработки веб-приложений на JavaScript. Начнем с короткого введения в язык, потом в двух словах поговорим о клиентской части, в частности, об MVC фреймворках вроде Angular.js, после чего перейдем на серверную часть: Node.js и MongoDB.">
+    <meta name="author" content="Рахим Давлеткалиев">
+    <meta name="keywords" content="lectures">
+    <link rel="canonical" href="http://rakh.im/js_fullstack">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Rakh.im" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css?201601102011" type="text/css">
+
+    <!-- Fonts -->
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
+    
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+    
+
+    <!-- Verifications -->
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Полный цикл разработки на JavaScript">
+    <meta property="og:description" content="Блог Рахима Давлеткалиева">
+    <meta property="og:url" content="http://rakh.im/js_fullstack">
+    <meta property="og:site_name" content="Rakh.im">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    
+        <meta name="twitter:site" content="@freetonik" />
+    
+    <meta name="twitter:title" content="Полный цикл разработки на JavaScript" />
+    <meta name="twitter:description" content="В этой открытой лекции я попытался сжато рассказать и показать полный цикл (full stack) разработки веб-приложений на JavaScript. Начнем с короткого введения в язык, потом в двух словах поговорим о клиентской части, в частности, об MVC фреймворках вроде Angular.js, после чего перейдем на серверную часть: Node.js и MongoDB." />
+    <meta name="twitter:url" content="http://rakh.im/js_fullstack" />
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+    <meta name="application-name" content="&nbsp;"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="mstile-144x144.png" />
+    <meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    
+</head>
+
+<body class="site animated fade-in-down">
+
+  <div class="topline">
+    <div class="topline-block" id="topline-block-1"></div>
+    <div class="topline-block" id="topline-block-2"></div>
+    <div class="topline-block" id="topline-block-3"></div>
+    <div class="topline-block" id="topline-block-4"></div>
+    <div class="topline-block" id="topline-block-5"></div>
+  </div>
+
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="/" class="site-title">Rakh.im</a>
+      <nav class="site-nav">
+        
+  
+    <a class="fa fa-twitter" href="https://twitter.com/freetonik"></a>
+  
+  
+    <a class="fa fa-facebook" href="https://facebook.com/freetonik"></a>
+  
+  
+  
+  
+    <a class="fa fa-instagram" href="https://instagram.com/freetonik"></a>
+  
+  <a class="fa fa-rss" href="/feed.xml"></a>
+
+
+      </nav>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</header>
+
+
+    
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+
+
+<div class="post-header mb2">
+  <h1>Полный цикл разработки на JavaScript</h1>
+  <span class="post-meta">23.10.2013, 
+  Лекция
+
+</span><br>
+  
+  <span class="post-meta small">
+  
+    76 мин.
+  
+  </span>
+</div>
+
+<article class="post-content">
+  <div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/5S1mZiuvZkQ?color=white&amp;theme=light&amp;rel=0&amp;showinfo=0"></iframe></div>
+
+<p>В этой открытой лекции я попытался сжато рассказать и показать полный цикл (full stack) разработки веб-приложений на JavaScript.</p>
+
+<p>Начнем с короткого введения в язык, потом в двух словах поговорим о клиентской части, в частности, об MVC фреймворках вроде Angular.js, после чего перейдем на серверную часть: Node.js и MongoDB. В конце обсудим возможность автоматизации разработки и сборки проектов с помощью Grunt.js.</p>
+
+<p><i>Лекция была записана в офисе компании <a href="http://www.chocolife.me">Chocolife</a>, зрители – разработчики этой компании.</i></p>
+
+  
+    <p class="right-align">
+      <small>
+        <a target="_blank" href="http://habrahabr.ru/company/hexlet/blog/199472/">Впервые опубликовано на Habrahabr</a>
+
+        
+          
+        
+
+        
+      </small>
+    </p>
+  
+</article>
+
+
+
+
+  <div class="py2 post-footer">
+  <hr />
+  <img src="/images/me.jpeg" alt="Rakhim Davletkaliyev" class="avatar" />
+  <p>
+    Меня зовут Рахим. Я работаю над образовательным проектом <a href="https://hexlet.io?utm_medium=blog&utm_source=rakhim&utm_campaign=rakhim_homepage">Хекслет</a>. В этом блоге я пишу о жизни, компьютерах, людях и их языках. Особенно об английском. <a href="/subscribe">Подписывайтесь</a>.
+  </p>
+  <p>
+    А еще у меня есть <a href="https://twitter.com/freetonik">Твиттер</a>.
+  </p>
+</div>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    <small>
+      Тема оформления от <a href="http://johnotander.com">Джона Отандера</a>.<br>
+      Сделано на планете Земля.<br>
+      (Измерение C137)<br>
+    </small>
+    <div class="mt1">
+      &#127757;
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+---
+layout: post
+title: MongoDB
+---
+allPlans
+$query
+order of indexes
+mongotop with auth :( 2.0.2
+find().sort({ _id : -1 }) (разрешение 1 сек)
+NUMA
+ulimit + maxConn
+mongorestore and long index names – fail
+replication with auth using keyfiles
+nscanned and nyields

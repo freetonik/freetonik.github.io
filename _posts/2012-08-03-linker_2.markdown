@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Ссылкомат #2"
+category: Linker
+---
+
+### Дизайн
+
+1. Книгу Франка Химеро Shape of Design можно купить или [почитать](http://shapeofdesignbook.com) бесплатно у него на сайте.
+2. [Классный сайт про историю дизайна](http://www.designishistory.com) от 1450 года до наших дней.
+3. Никогда не используйте lorem ipsum, пишите или находите текст по теме. Ну, а если совсем лень, то можно использовать [Fifty Shades Generator](http://www.fiftyshadesgenerator.com).
+
+> I can't wait to devour the love mayonnaise from his chorizo howitzer. By now, my spunk dungeon was dripping like a leaky tap. With his cheese-crusted cock thrusting deep into my crusty fuck trench, the sensation of his love lollipop smashing my cervix made me quiver like a rat on acid.
+
+### Наука
+
+1. Хеллер начал писать [учебник по математике и логике](http://heller.ru/blog/category/учебник/). Учебник не для школ или вузов, а для людей. Зачем людям изучать математику и логику он тоже очень [хорошо объяснил](http://heller.ru/blog/2012/07/tutorial-introduction/).
+2. Про хорошо видимые [циклы в истории](http://www.nature.com/news/human-cycles-history-as-science-1.11078).
+
+### Остальное
+
+1. Максим Катц с Ильей Варламовым объясняют, [почему общественный транспорт это важно](http://maxkatz.livejournal.com/90818.html).
