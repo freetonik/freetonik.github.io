@@ -13,4 +13,4 @@ video_provider: youtube
 
 Подростковый возраст считают деструктивным хаосом и стараются как можно скорее «успокоить» непослушных детей, постоянно идущих наперекор взрослым. «Мы знаем, как сделать тебе лучше, ты вырастешь и всё поймешь» — говорят они. Взрослые ошибаются. Подростковое поведение — критический для выживания человечества инструмент, как и детское любопытство. В этом видео мы узнаем, почему.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/qaU7kCQpNw8?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/qaU7kCQpNw8?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

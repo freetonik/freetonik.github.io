@@ -13,4 +13,4 @@ video_provider: youtube
 
 Вселенная настолько огромна, что многим она может показаться пугающей, враждебной, а чувство собственной незначительности и крохотности может навевать уныние, но научное знание позволит ощутить себя не просто частью вселенной, а самой вселенной. Такое знание может изменить вашу жизнь.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/d8Vk37GL_f0?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/d8Vk37GL_f0?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

@@ -10,7 +10,7 @@ video_provider: youtube
 summary: "В этой открытой лекции я попытался сжато рассказать и показать полный цикл (full stack) разработки веб-приложений на JavaScript. Начнем с короткого введения в язык, потом в двух словах поговорим о клиентской части, в частности, об MVC фреймворках вроде Angular.js, после чего перейдем на серверную часть: Node.js и MongoDB."
 ---
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/5S1mZiuvZkQ?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/5S1mZiuvZkQ?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
 В этой открытой лекции я попытался сжато рассказать и показать полный цикл (full stack) разработки веб-приложений на JavaScript.
 

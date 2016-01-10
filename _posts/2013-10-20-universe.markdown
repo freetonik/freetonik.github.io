@@ -90,7 +90,7 @@ summary: "Мозг человека – удивительный генерат�
 
 - У большинства видео есть субтитры. В любом случае, не забывайте про первый пункт.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/5y26WJt_jUs?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/5y26WJt_jUs?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
 ## 5. Университет
 
@@ -102,7 +102,7 @@ summary: "Мозг человека – удивительный генерат�
 
 Плюс каждый университет регулярно выдает стипендии как гражданам своих стран, так и иностранцам. Этому нужно уделить много времени, но подходящая возможность обязательно найдется. Гугл в помощь.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/d8Vk37GL_f0?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/d8Vk37GL_f0?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
 И да, забудьте про возраст и прочие предрассудки. Учиться можно и нужно всю жизнь. Единственный, кого может удивлять ваш возраст в нормальном университете, это вы.
 
@@ -112,7 +112,7 @@ summary: "Мозг человека – удивительный генерат�
 
 Легче всего начать знакомство с этим миром через каталоги курсов, например, <a href="http://www.class-central.com">http://www.class-central.com</a> или <a href="http://www.eclass.cc">http://www.eclass.cc</a> Там можно подобрать курсы по интересам, языкам, университетам и форматам. Физика, медицина, программирование, юриспруденция, музыка – просто рай!
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/1yHWjRolWMw?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/1yHWjRolWMw?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
 ## 3. Практика
 
@@ -126,7 +126,7 @@ summary: "Мозг человека – удивительный генерат�
 
 Заведите блог и пишите о своих личных открытиях. Узнали что-то новое и странное о простом летнем дожде? Расскажите! Услышали краем уха интересный факт, проверили и изучили его? Поведайте! Вспомнили научный миф из детства и раскопали объяснение? Не держите в себе!
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/LCXXqdV0MLI?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/LCXXqdV0MLI?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
 Вторая часть: [http://www.youtube.com/watch?v=-IISRXrezN8](http://www.youtube.com/watch?v=-IISRXrezN8)
 
@@ -142,6 +142,6 @@ summary: "Мозг человека – удивительный генерат�
 
 Не бойтесь жить свободно. Вы никому ничего не должны. Вас не обязаны понимать и считать за своего. Зачем вы вообще об этом думаете, вы ведь смертельно больны. Вам осталось жить меньше века. У вас тяжелый случай прекрасной болезни под названием «жизнь».
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/eX5xgjYPdHo?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/eX5xgjYPdHo?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
 _Переводы видеороликов и озвучка авторские._

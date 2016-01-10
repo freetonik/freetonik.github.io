@@ -13,4 +13,4 @@ video_provider: youtube
 
 Ролик, призывающий заняться сейчас тем, чем вы всегда хотели заняться… и хороший пример визуальной мотивации.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/A2Ynq9cSIRs?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/A2Ynq9cSIRs?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

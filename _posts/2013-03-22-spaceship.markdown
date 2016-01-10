@@ -17,4 +17,4 @@ video_provider: youtube
 
 Предлагаю вам забыть на мгновение про продуктивность вашего рабочего дня, стратегии экономии семейного бюджета и планирование отпуска на лето, и задуматься о бесконечно изумительном факте: мы не знаем где мы, мы не знаем, как мы здесь оказались и что нас ждет, мы летим сквозь космос на громадном корабле и боимся выглянуть в окно…
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/CPBUBcTjK44?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/CPBUBcTjK44?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

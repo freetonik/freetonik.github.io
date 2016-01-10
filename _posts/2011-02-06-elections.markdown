@@ -13,7 +13,7 @@ video_provider: youtube
 
 Сегодня я хочу рассказать вам о том, как можно сделать процедуру голосования лучше и надежнее. Во-первых, советую <a href="http://www.ted.com/talks/david_bismark_e_voting_without_fraud.html">посмотреть</a> речь <a href="http://evoting.bismark.se/verifiable-electronic-voting/">Дэвида Бисмарка</a> на TED или здесь в моей озвучке (перевод Андрея Новика):
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/wmj0qjTLakc?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/wmj0qjTLakc?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
 <strong>Как это работает?</strong>
 

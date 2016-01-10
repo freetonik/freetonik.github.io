@@ -13,4 +13,4 @@ video_provider: youtube
 
 Коррозия или попросту ржавение металла – один из самых частых причин разрушения механизмов и устройств. Тем не менее, творческий инженерный подход может превратить этот процесс в удивительный инструмент укрепления и окраски поверхности металлов. Сегодняшнее видео – о секрете долговечности и красоты продуктов компании Apple, и о том, как инженеры используют разрушительный процесс в созидательных целях.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/jNMUnhtpXnY?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/jNMUnhtpXnY?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

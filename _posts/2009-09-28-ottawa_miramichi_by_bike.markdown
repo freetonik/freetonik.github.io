@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Оттава — Мирамичи на велосипеде"
-cover_url: http://img-fotki.yandex.ru/get/4612/25330526.17/0_6737d_4e5b6c3e_orig
+cover_url: https://img-fotki.yandex.ru/get/4612/25330526.17/0_6737d_4e5b6c3e_orig
 category: Travel
 minutes: 20
 summary: "Я никогда не видел океан. В начале осени я решил взять небольшой отпуск и попробовать проехать на велосипеде из Оттавы в Галифакс (1500 км), чтобы его увидеть. В итоге получилось доехать лишь до города Мирамичи (1100 км) и увидеть воды Атлантичекого океана в заливе имени Святого Лаврентия."
@@ -24,45 +24,45 @@ summary: "Я никогда не видел океан. В начале осен
 <p>За&nbsp;несколько дней до&nbsp;путешествия я&nbsp;собрал все необходимое. С&nbsp;собой я&nbsp;в&nbsp;очередной раз взял лишь один вело-рюкзак, ночевать планировал в&nbsp;bed&amp;breakfast&rsquo;ах или мотелях.<br />
 <span id="more-2538"></span></p>
 <p>Набор бумажных карт на&nbsp;случай, если телефон подведет; сумочка с&nbsp;инструментом и&nbsp;запасной камерой (под седло; в той же сумочке сигнальные огни); еще три запасных камеры; зарядное устройство для батареек; айфон; айпод шаффл + зарядное устройство + наушники; набор одноразовых контактных линз, пара постоянных линз, жидкость для линз; насос, отвертка, смазка для цепи, изолента, мешок.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5411/25330526.17/0_67378_aa5c4e17_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5411/25330526.17/0_67378_aa5c4e17_XL.jpg" alt="" /></p>
 <p>Дождевик, теплые нарукавники, теплые наколенники, трусы, носки, аптечка, энергетический напиток в&nbsp;виде белого разводимого порошка (углеводы + электролиты), сушеные фрукты, юзюм и&nbsp;орехи, энергетические батончики, бананы.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4709/25330526.17/0_67379_84eb4594_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4709/25330526.17/0_67379_84eb4594_XL.jpg" alt="" /></p>
 <p>К&nbsp;велосипеду (Trek&nbsp;1.1 2011, 56") купил &laquo;лежаки&raquo; (aero bars) для того, чтобы при езде можно было наклонятся и&nbsp;отдыхать (а&nbsp;также уменьшать сопротивление воздуха). В итоге пользовался ими довольно редко.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5814/25330526.16/0_6733f_53ca664e_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5814/25330526.16/0_6733f_53ca664e_XL.jpg" alt="" /></p>
 <p>Обновил контакты на&nbsp;велообуви (штуки крепко цепляются за&nbsp;педаль), эти прослужили примерно полторы тысячи километров:</p>
-<p><img src="http://img-fotki.yandex.ru/get/4412/25330526.16/0_67340_259b9c0e_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4412/25330526.16/0_67340_259b9c0e_XL.jpg" alt="" /></p>
 <p>А&nbsp;эти неплохо нагнали предыдущие всего за&nbsp;следующие 8&nbsp;дней:</p>
-<p><img src="http://img-fotki.yandex.ru/get/5309/25330526.16/0_67341_4e20acc2_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5309/25330526.16/0_67341_4e20acc2_XL.jpg" alt="" /></p>
 <p><strong>День&nbsp;1. Оттава&nbsp;&mdash; Бобриа (Монреаль). 180&nbsp;км.</strong></p>
 <p><a href="http://g.co/maps/vwxyd"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.20.48-PM.png" alt="" title="Screen shot 2011-09-26 at 9.20.48 PM" width="502" height="154" class="alignnone size-full wp-image-2543" /></a></p>
 <p><img src="http://freetonik.com/wp-content/uploads/2011/09/ottawa-–-boisbriand.png" alt="" title="ottawa – boisbriand" width="700" height="400" class="alignnone size-full wp-image-2537" /></a></p>
 <p>Утром второго сентября я&nbsp;поехал на&nbsp;работу, где встретился с&nbsp;вице-президентом компании и&nbsp;мы&nbsp;вместе выехали на&nbsp;восток. Он&nbsp;давно увлекается шоссейными велосипедами и&nbsp;находится в&nbsp;куда лучшей форме, чем я&nbsp;&mdash; его план был доехать до&nbsp;Квебека (примерно 550&nbsp;км) за&nbsp;два дня. Мой план&nbsp;&mdash; три дня, но&nbsp;вместе ехать веселей, поэтому мы&nbsp;начали вместе. Через километров 60&nbsp;я решил попрощаться&nbsp;&mdash; слишком уж&nbsp;он&nbsp;быстр. Дальше я&nbsp;поехал медленно и&nbsp;размеренно, с&nbsp;большой остановкой на&nbsp;обед.</p>
 <p>В&nbsp;первый день нужно добраться до&nbsp;пригорода Монреаля, благо, это расстояние уже было &laquo;взято&raquo; ранее. В&nbsp;этот раз маршрут был изменен, я&nbsp;ехал постоянно по&nbsp;северному берегу реки Оттава.</p>
 <p>Погода была чудная.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5812/25330526.17/0_6737a_16e49ea0_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5812/25330526.17/0_6737a_16e49ea0_XL.jpg" alt="" /></p>
 <p>Множество небольших городков по&nbsp;пути, все похожи друг на&nbsp;друга: главная улица вдоль берега, церковь в&nbsp;центре.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4414/25330526.16/0_67342_a04dc1b7_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4414/25330526.16/0_67342_a04dc1b7_XL.jpg" alt="" /></p>
 <p>Монтебелло. Километров 50&nbsp;от&nbsp;столицы, уже мало кто понимает по-английски .</p>
-<p><img src="http://img-fotki.yandex.ru/get/4414/25330526.16/0_67343_b50146b5_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4414/25330526.16/0_67343_b50146b5_XL.jpg" alt="" /></p>
 <p>Очень приятные поселения. Немногочисленные кафе и&nbsp;редкие заправочные станции&nbsp;&mdash; признак не-туристического района. Туристические обозначаются специальными указателями и&nbsp;отличаются наличием вышеперечисленных благ.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4413/25330526.16/0_67344_2d8fe035_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4413/25330526.16/0_67344_2d8fe035_XL.jpg" alt="" /></p>
 <p>Но&nbsp;самое интересное, конечно, там, где туристов мало. Здесь, в&nbsp;южном Квебеке, огромное количество ферм. Многие продают овощи, фрукты и&nbsp;ягоды прямо у&nbsp;дороги. </p>
-<p><img src="http://img-fotki.yandex.ru/get/4612/25330526.16/0_67345_98599ab2_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4612/25330526.16/0_67345_98599ab2_XL.jpg" alt="" /></p>
 <p>К&nbsp;8&nbsp;часам вечера я&nbsp;доехал до&nbsp;найденного с&nbsp;помощью <a href="http://airbnb.com">airbnb</a> дома, поел и&nbsp;принял душ. В&nbsp;предвкушении нового дня...</p>
-<p><img src="http://img-fotki.yandex.ru/get/5411/25330526.16/0_67347_e7f13938_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5411/25330526.16/0_67347_e7f13938_XL.jpg" alt="" /></p>
 <p>... я&nbsp;вырубился на&nbsp;большой кровати.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4814/25330526.16/0_67346_a913f71f_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4814/25330526.16/0_67346_a913f71f_XL.jpg" alt="" /></p>
 <p>В&nbsp;путешествиях намного интереснее останавливаться в&nbsp;живом доме у&nbsp;простых людей, чем в&nbsp;мотелях. Уютно и&nbsp;приятно, можно пообщаться с&nbsp;аборигенами. Заодно я&nbsp;постирал свою форму и&nbsp;заморозил две бутылки свежеразведенного напитка (тот белый порошок в&nbsp;мешочке, напоминающий кокаин из&nbsp;американских фильмов). Одну бутылку заполнил водой наполовину, вторую&nbsp;&mdash; полностью, и&nbsp;в&nbsp;морозильник. С&nbsp;утра&nbsp;ту, где половина, дозаполняешь водой и&nbsp;следующие три-четыре часа наслаждаешься холодным напитком (вторая бутылка тает, пока опустошаешь первую). </p>
 <p><strong>День&nbsp;2. Бобриа&nbsp;&mdash; Труа-Ривьер. 149&nbsp;км.</strong></p>
 <p><a href="http://g.co/maps/rs77w"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.23.23-PM.png" alt="" title="Boisbriand – Trois Riviere" width="520" height="477" class="alignnone size-full wp-image-2545" /></a><br />
 <img src="http://freetonik.com/wp-content/uploads/2011/09/boisbriand-–-trois_riviere.png" alt="" title="boisbriand – trois_riviere" width="700" height="400" class="alignnone size-full wp-image-2546" /></p>
 <p>Начинался замечательный день, и&nbsp;я&nbsp;чувствовал себя отлично!</p>
-<p><img src="http://img-fotki.yandex.ru/get/4814/25330526.16/0_67348_17f98674_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4814/25330526.16/0_67348_17f98674_XL.jpg" alt="" /></p>
 <p>Цель на&nbsp;второй день&nbsp;&mdash; Труа-Ривье (местные произносят просто &laquo;Тревье&raquo;), второе по&nbsp;древности поселение современной Канады (1634&nbsp;год). К&nbsp;сожалению, по&nbsp;большей части он&nbsp;выглядит так, как если&nbsp;бы был основан пятьдесят лет назад. Уступает по&nbsp;древности он&nbsp;только самому Квебеку (или Квебек-сити, чтобы не&nbsp;путать с&nbsp;провинцией), в&nbsp;который я&nbsp;попаду на&nbsp;третий день.</p>
 <p>Ничего примечательного по&nbsp;пути, все те&nbsp;же милые городки вдоль реки и&nbsp;фермы.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4709/25330526.16/0_67349_640cd5e2_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4709/25330526.16/0_67349_640cd5e2_XL.jpg" alt="" /></p>
 <p>Тривье&nbsp;&mdash; относительно крупный город, но&nbsp;airbnb ничего не&nbsp;нашел, поэтому пришлось ночевать в&nbsp;мотеле. </p>
-<p><img src="http://img-fotki.yandex.ru/get/4612/25330526.16/0_6734a_399c9d8b_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4612/25330526.16/0_6734a_399c9d8b_XL.jpg" alt="" /></p>
 <p>Не&nbsp;удалось даже постирать одежду. Отведав невкусной лазаньи (которую я&nbsp;с&nbsp;трудом заказал на&nbsp;ломаном французском), я&nbsp;отправился спать.</p>
 <p><strong>День&nbsp;3. Труа-Ривье&nbsp;&mdash; Квебек. 144&nbsp;км.</strong></p>
 <p><a href="http://g.co/maps/j3y7f"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.26.15-PM.png" alt="" title="trois riviere – quebec" width="434" height="233" class="alignnone size-full wp-image-2547" /></a><br />
@@ -72,36 +72,36 @@ summary: "Я никогда не видел океан. В начале осен
 <p>Квебек-Квебек-Квебек!</p>
 <p>Местные жители произносят &laquo;кебэк&raquo;, где вторая буква&nbsp;&mdash; нечто среднее между &laquo;и&raquo; и&nbsp;&laquo;е&raquo;.</p>
 <p>Велоформу я&nbsp;сполоснул и&nbsp;оставил сушиться на&nbsp;ночь, но&nbsp;прогадал и&nbsp;пришлось ехать под дождем во&nbsp;влажной форме под дождевиком. То&nbsp;есть упустил всю суть использования дождевика. К&nbsp;тому&nbsp;же, замерз, поэтому старался не&nbsp;останавливаться. К&nbsp;полудню устроил себе долгожданный второй завтрак.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4814/25330526.16/0_6734b_6f99ad1c_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4814/25330526.16/0_6734b_6f99ad1c_XL.jpg" alt="" /></p>
 <p>Тосты с&nbsp;маслом и&nbsp;джемом, паштет, сосиски, бекон, яичница, картошка, бобы, фрукты и&nbsp;кофе. М-м-м!..</p>
 <p>Вскоре дождь закончился и&nbsp;поехалось в&nbsp;разы веселее. Все еще очень плоский ландшафт позволил быстро войти в&nbsp;азарт.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4612/25330526.16/0_6734d_563d5230_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4612/25330526.16/0_6734d_563d5230_XL.jpg" alt="" /></p>
 <p>И&nbsp;быстро проехать фермы и&nbsp;редкие островки отдыха&nbsp;&mdash; небольшие парки с&nbsp;видом на&nbsp;реку, столами и&nbsp;туалетом. Туалетом, правда, никогда не&nbsp;пользовался&nbsp;&mdash; зачем, если вокруг километры лесов и&nbsp;полей.</p>
 <p>Было интересно наблюдать за&nbsp;реакцией тела на&nbsp;эту относительно новую для него нагрузку. К&nbsp;концу дня было ощущение, что я&nbsp;веду автомобиль: устал, да, но&nbsp;скорее морально, чем физически. Устал по-приятному, мягко, но&nbsp;даже подобные щадящие эмоции быстро затмевались красотами зеленых холмов, широких ярко-желтых полей и&nbsp;плоского зеркала реки. Стояла любимая мною облачная погода с&nbsp;запахом близкого дождя.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5411/25330526.16/0_6734e_d1c99297_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5411/25330526.16/0_6734e_d1c99297_XL.jpg" alt="" /></p>
 <p>Дождь постоянно то&nbsp;возвращался, то&nbsp;быстро исчезал, не&nbsp;успев начаться. Помогало постоянно оставаться свежим.</p>
 <p>Буквально на&nbsp;подъезде к&nbsp;Квебеку начались очень крутые холмы, а&nbsp;ремонт дороги не&nbsp;оставил шанса объехать большой спуск и&nbsp;расплату за&nbsp;него&nbsp;&mdash; подъем обратно. Спуск был офигенным и&nbsp;весьма опасным, а&nbsp;подъем мне не&nbsp;дался&nbsp;&mdash; градиент оказался процентов 15-17. Пришлось пройтись пешком.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4414/25330526.16/0_6734f_268bd3cb_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4414/25330526.16/0_6734f_268bd3cb_XL.jpg" alt="" /></p>
 <p>В&nbsp;городе несколько чудовищных мостов. Никогда раньше не&nbsp;видел железну дорогу так высоко.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4612/25330526.16/0_67351_ff1b2331_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4612/25330526.16/0_67351_ff1b2331_XL.jpg" alt="" /></p>
 <p>Разные берега широкой реки Святой Лаврентий соединяют несколько мостов.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5814/25330526.16/0_67352_162b06a4_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5814/25330526.16/0_67352_162b06a4_XL.jpg" alt="" /></p>
 <p>Проехав сам Квебек, я&nbsp;переехал по&nbsp;одному из&nbsp;мостов в&nbsp;южный город Леви.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4413/25330526.16/0_67354_484d57e8_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4413/25330526.16/0_67354_484d57e8_XL.jpg" alt="" /></p>
 <p>По&nbsp;этому жуткому сооружению.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4413/25330526.16/0_67353_65f8a8e_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4413/25330526.16/0_67353_65f8a8e_XL.jpg" alt="" /></p>
 <p>Узкая полоса металла (сантиметров&nbsp;30) над железной сеткой. Сугубо для пешеходов. Внизу&nbsp;&mdash; добрая сотня метров до&nbsp;воды, справа&nbsp;&mdash; постоянный поток машин за&nbsp;высокой перегородкой. </p>
-<p><img src="http://img-fotki.yandex.ru/get/4414/25330526.16/0_67355_f2faed74_L.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4414/25330526.16/0_67355_f2faed74_L.jpg" alt="" /></p>
 <p>Здесь я&nbsp;снова нашел дом с&nbsp;помощью airbnb, но&nbsp;хозяйка уехала в&nbsp;Монреаль и&nbsp;оставила ключ в&nbsp;почтовом ящике. За&nbsp;две минуты до&nbsp;моего прибытия дождь таки начался, поэтому я&nbsp;перепачкал пол в&nbsp;доме. Было стойкое ощущение, что я&nbsp;просто влез в&nbsp;чужую квартиру.</p>
 <p>У&nbsp;хозяйки&nbsp;&mdash; два кота. Второй постоянно сидел в&nbsp;шкафу. </p>
-<p><img src="http://img-fotki.yandex.ru/get/5814/25330526.16/0_67357_4adc4970_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5814/25330526.16/0_67357_4adc4970_XL.jpg" alt="" /></p>
 <p>Хозяйка еще предупредила про черного кота на&nbsp;балконе: его пускать нельзя, но&nbsp;пусть там сидит. Я&nbsp;проверил&nbsp;&mdash; и&nbsp;правда, сидит.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4709/25330526.16/0_67356_1552d735_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4709/25330526.16/0_67356_1552d735_XL.jpg" alt="" /></p>
 <p><strong>День четвертый. Квебек&nbsp;&mdash; Монмани. 53&nbsp;км.</strong></p>
 <p><a href="http://g.co/maps/twvca"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.29.51-PM.png" alt="" title="levis – montmagny" width="566" height="265" class="alignnone size-full wp-image-2549" /></a><br />
 <img src="http://freetonik.com/wp-content/uploads/2011/09/Levis-–-Montmagny.png" alt="" title="Levis – Montmagny" width="700" height="400" class="alignnone size-full wp-image-2550" /></p>
 <p>Утро казалось теплым и&nbsp;солнечным.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4814/25330526.17/0_6737b_89fc45ea_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4814/25330526.17/0_6737b_89fc45ea_XL.jpg" alt="" /></p>
 <p>Но&nbsp;температура упала до&nbsp;+15&nbsp;и&nbsp;задул восточный ветер (в&nbsp;морду) 15&nbsp;км/ч. Вскоре после выезда начался ливень. Айпод шаффл умер (как оказалось, просто села батарейка). Не&nbsp;выдержав больше 50&nbsp;километров, я&nbsp;остановился в&nbsp;городке Монмани. Расстроился.</p>
 <p>Стал понимать, что не&nbsp;успею.</p>
 <p>Я&nbsp;люблю путешествовать без четкого плана. Иметь цель и&nbsp;импровизировать намного интереснее. Я&nbsp;решил проверить расписание поездов, чтобы понять точно, сколько у&nbsp;меня осталось дней. Оказалось, поезд выезжает из&nbsp;Галифакса в&nbsp;полдень и&nbsp;едет в&nbsp;Оттаву сутки. Значит, через 5&nbsp;дней вечером уже нужно быть в&nbsp;Галифаксе, а&nbsp;ехать оставалось чуть меньше тысячи километров.</p>
@@ -111,25 +111,25 @@ summary: "Я никогда не видел океан. В начале осен
 <img src="http://freetonik.com/wp-content/uploads/2011/09/montmagny-–-notrdameduportage.png" alt="" title="montmagny – notrdameduportage" width="700" height="400" class="alignnone size-full wp-image-2552" /></p>
 <p>На&nbsp;пятый день вчерашние переживания растопило редкое, но&nbsp;все-таки солнце, ветер все еще дул в&nbsp;лицо, но&nbsp;дождя не&nbsp;было и&nbsp;последний речной город на&nbsp;моем пути был целью на&nbsp;вечер.</p>
 <p>Святой Лаврентий здесь уже довольно широкий, говорят, в&nbsp;этих местах уже можно встретить китовых.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5411/25330526.16/0_67358_84ce77ef_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5411/25330526.16/0_67358_84ce77ef_XL.jpg" alt="" /></p>
 <p>Яркость и&nbsp;настроение погоды резко менялось.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4709/25330526.17/0_6737c_fa60cb1c_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4709/25330526.17/0_6737c_fa60cb1c_XL.jpg" alt="" /></p>
 <p>Мутная, неспокойная вода, далекие синие холмы и&nbsp;тяжелое свинцовое небо&nbsp;&mdash; красота!</p>
-<p><img src="http://img-fotki.yandex.ru/get/4708/25330526.16/0_6735c_8159d86b_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4708/25330526.16/0_6735c_8159d86b_XL.jpg" alt="" /></p>
 <p>По&nbsp;размеру церкви можно судить о&nbsp;численности населения.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4814/25330526.16/0_67359_b7180f70_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4814/25330526.16/0_67359_b7180f70_XL.jpg" alt="" /></p>
 <p>Это путешествие вдоль реки Оттава, а&nbsp;потом Святой Лаврентий с&nbsp;востока на&nbsp;запад&nbsp;&mdash; ничто иное, как путешествие в&nbsp;прошлое. Первые колонизаторы начинали двигаться с&nbsp;западного побережья вглубь континента вдоль рек. Поэтому до&nbsp;Квебека каждый следующий город все древнее и&nbsp;древнее. </p>
 <p>Все речушки сливаются в&nbsp;залив, которые уже напоминает океан. В&nbsp;этих местах в&nbsp;реке уже есть приливы и&nbsp;отливы.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5411/25330526.16/0_6735a_e1d60a03_XL.jpg" alt="" /></p>
-<p><img src="http://img-fotki.yandex.ru/get/4414/25330526.16/0_6735b_2c3b9e28_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5411/25330526.16/0_6735a_e1d60a03_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4414/25330526.16/0_6735b_2c3b9e28_XL.jpg" alt="" /></p>
 <p>Продолжают встречаться островки отдыха с&nbsp;хорошим видом.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5813/25330526.17/0_6735d_fa8b488c_XL.jpg" alt="" /></p>
-<p><img src="http://img-fotki.yandex.ru/get/5812/25330526.17/0_6735e_8f1cfa3a_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5813/25330526.17/0_6735d_fa8b488c_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5812/25330526.17/0_6735e_8f1cfa3a_XL.jpg" alt="" /></p>
 <p>Эти места&nbsp;&mdash; бывшие земли первых народов (индейцев). Поэтому некоторая часть названий сильно контрастирует с&nbsp;классическими французскими:</p>
-<p><img src="http://img-fotki.yandex.ru/get/5308/25330526.17/0_6735f_37694871_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5308/25330526.17/0_6735f_37694871_XL.jpg" alt="" /></p>
 <p>Я&nbsp;произносил это &laquo;Камурящщщка!!!&raquo;, обязательно с&nbsp;выкрикивающим ударением на&nbsp;&laquo;я&raquo;.</p>
 <p>На&nbsp;этот раз я&nbsp;нашел настоящий коммерческий bed&amp;breakfast, но&nbsp;все таки в&nbsp;обычном доме, где живут люди. </p>
-<p><img src="http://img-fotki.yandex.ru/get/4412/25330526.17/0_67360_ec35f6c4_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4412/25330526.17/0_67360_ec35f6c4_XL.jpg" alt="" /></p>
 <p>В&nbsp;первые полчаса после остановки очень важно поесть. Поэтому первым делом я&nbsp;отправился в&nbsp;единственный в&nbsp;округе ресторан. Дальше выдержки из&nbsp;твиттера:</p>
 <blockquote>
 <p>Я&nbsp;оказался в&nbsp;непонятном, необычном месте. Ресторан на&nbsp;берегу&nbsp;св. Лаврентия, все говорят шепотом, всё вокруг из&nbsp;дерева и&nbsp;все изысканно пьют вина. </p>
@@ -145,85 +145,85 @@ summary: "Я никогда не видел океан. В начале осен
 <img src="http://freetonik.com/wp-content/uploads/2011/09/troisriviere-edmundston.png" alt="" title="troisriviere - edmundston" width="700" height="400" class="alignnone size-full wp-image-2555" /></p>
 <p>Самое классное утро!</p>
 <p>Прямо за&nbsp;двориком&nbsp;&mdash; водопад.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4413/25330526.17/0_67361_51e1b455_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4413/25330526.17/0_67361_51e1b455_XL.jpg" alt="" /></p>
 <p>А&nbsp;в&nbsp;другой стороне&nbsp;&mdash; залив.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5411/25330526.17/0_67362_a7e7f45a_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5411/25330526.17/0_67362_a7e7f45a_XL.jpg" alt="" /></p>
 <p>Цель&nbsp;&mdash; город Эдмундстон, провинция Нью-Бронсвик, почти на&nbsp;границе с&nbsp;США.</p>
 <p>Мелкие холмы закончились, начинаются горы, старые Апалачи. Первые 50&nbsp;километров&nbsp;&mdash; постоянный подъем. Удивительно, но&nbsp;ехать совсем не&nbsp;тяжело. Наступил какой-то велосипедный дзен, гармония и&nbsp;спокойствие. Кажется, что могу доехать куда захочу. Этот день я&nbsp;ехал по&nbsp;хайвею по&nbsp;широкой обочине для снегоходов и&nbsp;велосипедов.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5308/25330526.17/0_67363_95b42765_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5308/25330526.17/0_67363_95b42765_XL.jpg" alt="" /></p>
 <p>Чудовищно приятно остановиться, посмотреть назад, увидеть несколько рядов холмов и&nbsp;понять, что только что их&nbsp;проехал.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4519/25330526.17/0_67364_1eaa44d6_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4519/25330526.17/0_67364_1eaa44d6_XL.jpg" alt="" /></p>
 <p>Здесь я&nbsp;увидел самое классное название города&nbsp;&mdash; St-Louis-du-Ha! Ha!</p>
-<p><img src="http://img-fotki.yandex.ru/get/5812/25330526.17/0_67365_28a37196_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5812/25330526.17/0_67365_28a37196_XL.jpg" alt="" /></p>
 <p>Никогда раньше не&nbsp;встречал междометий и&nbsp;восклицательных знаков в&nbsp;названиях населенных пунктов. Это &laquo;хаха&raquo; меня так заинтересовало, что я&nbsp;решил пообедать там. Особенно забавно такое название выглядит в&nbsp;повседневном использовании.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4612/25330526.17/0_67366_ba5f4c45_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4612/25330526.17/0_67366_ba5f4c45_XL.jpg" alt="" /></p>
 <p>К&nbsp;вечеру я&nbsp;покинул провинцию Квебек и&nbsp;попал в&nbsp;Нью-Бронсвик. Указатели сразу заговорили на&nbsp;двух языках, и&nbsp;в&nbsp;магазинчике я&nbsp;впервые за&nbsp;последние несколько дней услышал английскую речь. Дорога стала откровенно хуже, широкая обочина исчезла.</p>
 <p>Эдмундстон оказался довольно унылым городом. </p>
-<p><img src="http://img-fotki.yandex.ru/get/5309/25330526.17/0_67367_1f2e994f_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5309/25330526.17/0_67367_1f2e994f_XL.jpg" alt="" /></p>
 <p>Снова пошел дождь и&nbsp;я&nbsp;остановился в&nbsp;мотеле.</p>
 <p><strong>День седьмой. Эдмундстон&nbsp;&mdash; Пластер Рок. 97&nbsp;км.</strong></p>
 <p><a href="http://g.co/maps/vcyhv"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.43.19-PM.png" alt="" title="edmundston – plaster rock" width="438" height="317" class="alignnone size-full wp-image-2556" /></a><br />
 <img src="http://freetonik.com/wp-content/uploads/2011/09/edmundston-–-plaster-rock.png" alt="" title="edmundston – plaster rock" width="700" height="400" class="alignnone size-full wp-image-2557" /></p>
 <p>Я&nbsp;решил свернуть на&nbsp;восток и&nbsp;поехать в&nbsp;Мирамичи, город недалеко от&nbsp;берега залива Святого Лаврентия. Это не&nbsp;открытый океан, но&nbsp;залив в&nbsp;Атлантическом океане. Поэтому в&nbsp;седьмой день я&nbsp;решил расслабиться и&nbsp;медленно и&nbsp;спокойной проехать 97&nbsp;км. Большая часть пути&nbsp;&mdash; вдоль границы с&nbsp;США. На&nbsp;другой стороне реки Мадаваска&nbsp;&mdash; такие&nbsp;же домики, церкви и&nbsp;люди. </p>
-<p><img src="http://img-fotki.yandex.ru/get/4612/25330526.17/0_6736a_796aa818_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4612/25330526.17/0_6736a_796aa818_XL.jpg" alt="" /></p>
 <p>Мадаваска, как вы&nbsp;наверное догадались, тоже индейское название.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4519/25330526.17/0_67368_c815700f_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4519/25330526.17/0_67368_c815700f_XL.jpg" alt="" /></p>
 <p>Людей, домов и&nbsp;населенных пунктов все меньше и&nbsp;меньше, совершенно не&nbsp;сравнить с&nbsp;южным Квебеком.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5813/25330526.17/0_6736b_33d08093_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5813/25330526.17/0_6736b_33d08093_XL.jpg" alt="" /></p>
 <p>Один из&nbsp;последних относительно крупных поселений на&nbsp;сегодня&nbsp;&mdash; Гранд Фоллс.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5308/25330526.17/0_6736c_293c4c0d_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5308/25330526.17/0_6736c_293c4c0d_XL.jpg" alt="" /></p>
 <p>Вскоре дорога сворачивает на&nbsp;восток, становится пустынной и&nbsp;тихой, телефон перестает ловить сигнал. Начинается настоящий Нью-Бронсвик.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5411/25330526.17/0_6736d_cf0cd947_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5411/25330526.17/0_6736d_cf0cd947_XL.jpg" alt="" /></p>
 <p>Время от&nbsp;времени еще встречаются одинокие дома.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4519/25330526.17/0_6736e_ba06a326_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4519/25330526.17/0_6736e_ba06a326_XL.jpg" alt="" /></p>
 <p>А&nbsp;редкие речушки зазывают отдохнуть.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4708/25330526.17/0_67370_f8b7931d_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4708/25330526.17/0_67370_f8b7931d_XL.jpg" alt="" /></p>
 <p>Замечательный день подошел к&nbsp;концу и&nbsp;я&nbsp;оказался в&nbsp;небольшом мотеле в&nbsp;молодом городе Пластер Рок, в&nbsp;котором все еще не&nbsp;было мобильного покрытия. Борясь с&nbsp;медленным интернетом, я&nbsp;сумел таки купить билет на&nbsp;поезд из&nbsp;Мирамичи в&nbsp;Оттаву на&nbsp;послезавтра, плотно поужинал и&nbsp;уснул.</p>
 <p><strong>День восьмой. Пластер Рок&nbsp;&mdash; Мирамичи. 166&nbsp;км.</strong></p>
 <p><a href="http://g.co/maps/bhyzs"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.46.04-PM.png" alt="" title="plaster rock – miramichi" width="743" height="206" class="alignnone size-full wp-image-2558" /></a><br />
 <img src="http://freetonik.com/wp-content/uploads/2011/09/plaster-rock-–-miramichi.png" alt="" title="plaster rock – miramichi" width="700" height="400" class="alignnone size-full wp-image-2559" /></p>
 <p>Финальный день. Марш-бросок через всю провинцию&nbsp;&mdash; почти от&nbsp;границы с&nbsp;США до&nbsp;восточного побережья. </p>
 <p>166 километров диких лесов, в&nbsp;которых я&nbsp;успел повидать лисицу и&nbsp;лося и&nbsp;лосеньком. Все еще никакого сигнала. Редкая машина раз в&nbsp;40-50 минут.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5812/25330526.17/0_67371_fa0ea4a9_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5812/25330526.17/0_67371_fa0ea4a9_XL.jpg" alt="" /></p>
 
 <p>От жажды меня спас лесник, который разговаривал на maritime English (диалект английского языка, основанный на ирландском, британском английских и франко-акадийском французском). А от голода меня спас единственный на этой дороге (с позволения сказать) отельчик. Хозяин накормил меня бесплатно, потому что любит велосипедистов и помогает всем немногочисленным путешественникам на двух колесах.</p>
 
 <p>Крутые холмы захватывают дух (в обоих смыслах этого слова).</p>
-<p><a href="http://img-fotki.yandex.ru/get/4612/25330526.17/0_6737d_4e5b6c3e_orig"><img src="http://img-fotki.yandex.ru/get/4612/25330526.17/0_6737d_4e5b6c3e_XL.jpg" alt="" /></a></p>
+<p><a href="https://img-fotki.yandex.ru/get/4612/25330526.17/0_6737d_4e5b6c3e_orig"><img src="https://img-fotki.yandex.ru/get/4612/25330526.17/0_6737d_4e5b6c3e_XL.jpg" alt="" /></a></p>
 <p>Только ради этих видов стоило ехать. Несколько минут я&nbsp;стоял с&nbsp;открытым ртом и&nbsp;улыбался, как дурак.</p>
-<p><a href="http://img-fotki.yandex.ru/get/5813/25330526.17/0_6737e_e0c8e390_orig"><img src="http://img-fotki.yandex.ru/get/5813/25330526.17/0_6737e_e0c8e390_XL.jpg" alt="" /></a></p>
-<p><a href="http://img-fotki.yandex.ru/get/4814/25330526.17/0_6737f_1fd8c03e_orig"><img src="http://img-fotki.yandex.ru/get/4814/25330526.17/0_6737f_1fd8c03e_XL.jpg" alt="" /></a></p>
+<p><a href="https://img-fotki.yandex.ru/get/5813/25330526.17/0_6737e_e0c8e390_orig"><img src="https://img-fotki.yandex.ru/get/5813/25330526.17/0_6737e_e0c8e390_XL.jpg" alt="" /></a></p>
+<p><a href="https://img-fotki.yandex.ru/get/4814/25330526.17/0_6737f_1fd8c03e_orig"><img src="https://img-fotki.yandex.ru/get/4814/25330526.17/0_6737f_1fd8c03e_XL.jpg" alt="" /></a></p>
 <p>И, естественно, наслаждался каждым справедливо заработанным спуском.</p>
-<p><a href="http://img-fotki.yandex.ru/get/4814/25330526.17/0_67380_cba67a7b_orig"><img src="http://img-fotki.yandex.ru/get/4814/25330526.17/0_67380_cba67a7b_XL.jpg" alt="" /></a></p>
+<p><a href="https://img-fotki.yandex.ru/get/4814/25330526.17/0_67380_cba67a7b_orig"><img src="https://img-fotki.yandex.ru/get/4814/25330526.17/0_67380_cba67a7b_XL.jpg" alt="" /></a></p>
 <p>Это опасное место, потому что сложно отвести взгляд от&nbsp;горизонта.</p>
 <p>Здорово было ощущать себя, как говорится, in&nbsp;the middle of&nbsp;nowhere.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4814/25330526.17/0_67372_72c36f6f_L.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4814/25330526.17/0_67372_72c36f6f_L.jpg" alt="" /></p>
 <p>Вечером я&nbsp;оказался в&nbsp;Мирамичи, знаки, названия и&nbsp;реклама намекали о&nbsp;близости океана, но&nbsp;было уже слишком поздно. Я&nbsp;поселился в&nbsp;мотель и&nbsp;лег спать.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5812/25330526.17/0_67373_ad422f26_XL.jpg" alt="" /></p>
-<p><img src="http://img-fotki.yandex.ru/get/4520/25330526.17/0_67374_4c154ed2_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5812/25330526.17/0_67373_ad422f26_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4520/25330526.17/0_67374_4c154ed2_XL.jpg" alt="" /></p>
 <p><strong>День девятый. Мирамичи. 60&nbsp;км.</strong></p>
 <p>Поезд отправлялся вечером, поэтому ближе к&nbsp;обеду, выспавшись, я&nbsp;поехал смотреть океан.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4414/25330526.17/0_67381_14da3845_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4414/25330526.17/0_67381_14da3845_XL.jpg" alt="" /></p>
 <p>Постоянно дул сильный и&nbsp;холодный ветер.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4414/25330526.17/0_67382_cbc6224d_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4414/25330526.17/0_67382_cbc6224d_XL.jpg" alt="" /></p>
 <p>Велосипед не&nbsp;подвел, даже камера ни&nbsp;разу не&nbsp;лопнула.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4413/25330526.17/0_67383_a7f51a77_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4413/25330526.17/0_67383_a7f51a77_XL.jpg" alt="" /></p>
 <p>Океан оказался очень... тяжелым.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4520/25330526.17/0_67385_a93ee808_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4520/25330526.17/0_67385_a93ee808_XL.jpg" alt="" /></p>
 <p>Это был офигенный момент... </p>
 <p>Но&nbsp;пора отправляться домой. Вокзал находился на&nbsp;другом конце города, поэтому я&nbsp;заодно осмотрел Мирамичи.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4612/25330526.17/0_67386_5bdf752a_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4612/25330526.17/0_67386_5bdf752a_XL.jpg" alt="" /></p>
 <p>В&nbsp;центре мило, но&nbsp;грустно.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5411/25330526.17/0_67387_2b1eb367_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5411/25330526.17/0_67387_2b1eb367_XL.jpg" alt="" /></p>
 <p>Везде морская тема.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4814/25330526.17/0_67389_d946e9c1_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4814/25330526.17/0_67389_d946e9c1_XL.jpg" alt="" /></p>
 <p>Отведав местной рыбы, я&nbsp;благополучно попал под очередной дождь, добрался до&nbsp;вокзала, получил билет и&nbsp;сдал велосипед. Поначалу я&nbsp;планировал разобрать его и&nbsp;сдать в&nbsp;обычный багаж, но&nbsp;оказалось для велосипедов есть специальная программа. </p>
 <p>Скоро дождь усилился, потом снова кончился и&nbsp;прибыл поезд.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5813/25330526.17/0_67375_1c6e5ce9_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5813/25330526.17/0_67375_1c6e5ce9_XL.jpg" alt="" /></p>
 <p>Ехать предстояло 16&nbsp;часов. Сидячие места оказались откровенно неудобными и&nbsp;холодными.</p>
-<p><img src="http://img-fotki.yandex.ru/get/4709/25330526.17/0_67376_b8dd9c1e_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/4709/25330526.17/0_67376_b8dd9c1e_XL.jpg" alt="" /></p>
 <p>Вскоре стемнело, я&nbsp;почитал Акунина и&nbsp;&laquo;лег&raquo; спать. На&nbsp;утро&nbsp;&mdash; пересадка в&nbsp;Монреале.</p>
-<p><img src="http://img-fotki.yandex.ru/get/5812/25330526.17/0_67377_61eaaa94_XL.jpg" alt="" /></p>
+<p><img src="https://img-fotki.yandex.ru/get/5812/25330526.17/0_67377_61eaaa94_XL.jpg" alt="" /></p>
 <p>По&nbsp;прибытию в&nbsp;Оттаву оказалось, что велосипед прилично пострадал при перевозке&nbsp;&mdash; переключатель скоростей, тормоз, лежаки и&nbsp;велокомпьютер были разбиты. В&nbsp;последствии Via Rail дали мне $250, но&nbsp;ремонт оказался дороже.</p>
 <p>Здорово осознавать, что пройденный маршрут виден даже в масштабах континента.</p>
 <p><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-28-at-10.29.08-PM.png" alt="" title="america" width="700" height="455" class="alignnone size-full wp-image-2588" /></p>

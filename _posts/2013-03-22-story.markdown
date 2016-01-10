@@ -11,4 +11,4 @@ video_provider: youtube
 
 Известный американский писатель Курт Воннегут («Завтрак для чемпионов», «Сирены Титана», «Мать Тьма», «Бойня номер пять, или Крестовый поход детей») дает советы о том как сочинить историю, которая всем понравится.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/US6G4XajGeQ?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/US6G4XajGeQ?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

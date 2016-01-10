@@ -13,4 +13,4 @@ video_provider: youtube
 
 Представьте, что первые 18 лет вашей жизни вам говорят, что Земля плоская, и только в университете впервые показывают глобус. Звучит смешно, но множество тем из школьного курса физики, на самом деле, безнадежно устарели, и мы продолжаем учить наших детей науке времен 18-19 века. В этом видео рассказывается о двух крупных научных мифах.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/S2pjQwpeAII?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/S2pjQwpeAII?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

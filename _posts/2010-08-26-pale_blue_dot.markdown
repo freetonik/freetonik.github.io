@@ -13,4 +13,4 @@ Pale Blue Dot или Бледно-голубая точка это знамен�
 
 В 1994 году вышла одноименная книга «Pale blue dot: a vision of the human future in space», а в 1996 году Карл Саган произносит свою вступительную речь. Именно ее я предлагаю вам послушать.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/eX5xgjYPdHo?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/eX5xgjYPdHo?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

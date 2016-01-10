@@ -13,4 +13,4 @@ video_provider: youtube
 
 Индийский йогин и мистик Джагги Васудев рассуждает о природе страха и о том, почему на самом деле весь страх основан на воображении. Конечно, это короткое видео не избавит вас от фундаментального чувства человеческой природы, но, возможно, заставит задуматься о том, на что мы тратим так много энергии, из-за чего так сильно страдаем, переживаем, делаем странные поступки, обманываем и вредим себе и близким.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/Y_AlOJ_vu1Q?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/Y_AlOJ_vu1Q?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

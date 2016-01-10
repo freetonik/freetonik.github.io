@@ -13,4 +13,4 @@ video_provider: youtube
 
 Согласно общепринятой модели, вселенная и само время появились в результате так называемого Большого Взрыва примерно 13 миллиардов лет назад. С тех пор вселенная сильно изменилась, но отголоски этого события наблюдаются учеными до сих пор. Самое удивительное то, что увидеть и услышать эти отголоски может каждый. Более того, вы скорее всего уже слышали и видели их.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/I0wzo5uReyY?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/I0wzo5uReyY?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

@@ -15,4 +15,4 @@ video_provider: youtube
 
 Нужно понимать, что речь идет не об экспоненциальном росте численности людей, а об экспоненциальном росте использования ресурсов планеты человечеством.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/JiwH1RRd7-g?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/JiwH1RRd7-g?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>

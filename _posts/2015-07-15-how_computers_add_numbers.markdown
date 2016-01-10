@@ -15,7 +15,7 @@ video_provider: youtube
 
 Публикуем перевод замечательного видео, в котором меньше чем за 15 минут объясняется, как компьютеры складывают числа с помощью транзисторов, двоичной системы счисления, простых логических схем и их хитрых комбинаций.
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/YuSgZ173Utg?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/YuSgZ173Utg?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
 Перевод Наталии Басс, озвучка моя.
 
