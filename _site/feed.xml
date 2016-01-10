@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rakh.im</title>
+    <title>Блог Рахима Давлеткалиева</title>
     <description>Блог Рахима Давлеткалиева</description>
     <link>http://rakh.im/</link>
     <atom:link href="http://rakh.im/feed.xml" rel="self" type="application/rss+xml" />
