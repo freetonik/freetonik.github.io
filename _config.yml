@@ -1,5 +1,6 @@
 # Site settings
 title:       "Блог Рахима Давлеткалиева"
+header_title: "Rakh.im"
 email:       freetonik@gmail.com
 author:      Рахим Давлеткалиев
 description: "Блог Рахима Давлеткалиева"
@@ -8,7 +9,7 @@ url:         "http://rakh.im"
 date_format: "%-d.%m.%Y"
 
 # Google services
-google_analytics:
+google_analytics: "UA-1360700-19"
 google_verification:
 
 # Optional features

@@ -652,6 +652,14 @@ a:active {
 a:link, * a:link *, * a:visited, * a:visited * {
   transition: color 0.25s ease-out, background-color 0.25s ease-out, border-color 0.25s ease-out, box-shadow 0.25s ease-out; }
 
+a.nodecoration {
+  background-image: none; }
+
+a.nodecoration:hover,
+a.nodecoration:focus,
+a.nodecoration:active {
+  background-image: none; }
+
 .left {
   float: left; }
 
