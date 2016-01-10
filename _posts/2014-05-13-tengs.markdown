@@ -17,7 +17,7 @@ category: Life
 
 Видео из теоретической части мы распространяем бесплатно, вот оно:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/E-q8b7Kc49w" frameborder="0" allowfullscreen></iframe>
+<div class="video-container mb3"><iframe width="560" height="315" src="//www.youtube.com/embed/E-q8b7Kc49w" frameborder="0" allowfullscreen></iframe></div>
 
 В остальном тенги платные, мы начали с $1.9 или 68 рублей, это чашка кофе (или кипяточек в Москве). 100% возврат денег без вопросов если вам что-то не понравится.
 

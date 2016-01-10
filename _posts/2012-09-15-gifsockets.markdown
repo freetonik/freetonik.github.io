@@ -6,6 +6,6 @@ title: gifsockets
 
 В действии этим фреймворком можно насладиться на видео:
 
-<iframe src="http://player.vimeo.com/video/49447841?title=0&amp;byline=0&amp;portrait=0&amp;color=000000" width="500" height="313" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="video-container mb3"><iframe src="http://player.vimeo.com/video/49447841?title=0&amp;byline=0&amp;portrait=0&amp;color=000000" width="500" height="313" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 Мне кажется, это чудовищно смешно и гениально. [Проект на GitHub'е](https://github.com/videlalvaro/gifsockets).

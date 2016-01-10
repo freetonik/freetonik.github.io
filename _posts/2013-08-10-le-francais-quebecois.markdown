@@ -10,23 +10,18 @@ title: Français québécois
 
 Удивительно, но Квебек, находящийся в Северной Америке, окруженный англоговорящими провинциями и штатами, умудрился защитить свой французский от англицизмов в отличие от Франции. Поэтому во Франции на дорожном знаке написано Stop, а в Квебеке – Arrêt.
 
-Вот еще примеры:
+Вот еще примеры:  
+Английский — Европейский французский — Квебекский французский  
+weekend — week-end — fin de semaine  
+ferryboat — ferry — traversier  
+shopping — shopping — magasinage  
+email — mél — courrier électronique  
 
-| Английский    | Европейский французский | Квебекский французский  |
-| ------------- |:-------------:| -----:|
-|weekend|week-end|fin de semaine|
-|ferryboat|ferry|traversier|
-|shopping|shopping|magasinage|
-|email|mél|courrier électronique|
+Но в разговорном квебекском зачастую все наоборот:  
 
-
-  
-Но в разговорном квебекском зачастую все наоборот:
-
-| Английский    | Европейский французский | Квебекский французский  |
-| ------------- |:-------------:| -----:|
-|car|voiture|char|
-|to check|vérifier|checker|
-|fake|faux|faker|
-|party|parti|party|
-|tough|difficile|tof|
+Английский — Европейский французский — Квебекский французский  
+car — voiture — char  
+to check — vérifier — checker  
+fake — faux — faker  
+party — parti — party  
+tough — difficile — tof  

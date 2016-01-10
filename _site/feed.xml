@@ -147,7 +147,7 @@ So, hopefully, a year from now I will feel embarrassed about some of my current 
 
 &lt;p&gt;Видео из теоретической части мы распространяем бесплатно, вот оно:&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/E-q8b7Kc49w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video-container mb3&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/E-q8b7Kc49w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 &lt;p&gt;В остальном тенги платные, мы начали с $1.9 или 68 рублей, это чашка кофе (или кипяточек в Москве). 100% возврат денег без вопросов если вам что-то не понравится.&lt;/p&gt;
 

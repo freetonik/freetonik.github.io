@@ -14,15 +14,15 @@ Sage имеет удобный веб-интерфейс, который пол�
 ####Скринкасты
 
 Вводный скринкаст о командной строке, справочной системе, Python'е и графиках.
-<iframe width="560" height="349" src="https://www.youtube.com/embed/PpIefy8hZyw" frameborder="0" allowfullscreen></iframe>
+<div class="video-container mb3"><iframe width="560" height="349" src="https://www.youtube.com/embed/PpIefy8hZyw" frameborder="0" allowfullscreen></iframe></div>
 
 
 Второй скринкаст: подробнее о двумерных графиках.
-<iframe width="560" height="349" src="https://www.youtube.com/embed/3n6mqs7CtE0" frameborder="0" allowfullscreen></iframe>
+<div class="video-container mb3"><iframe width="560" height="349" src="https://www.youtube.com/embed/3n6mqs7CtE0" frameborder="0" allowfullscreen></iframe></div>
 
 Третий скринкаст: работа с трехмерными графиками.
-<iframe width="560" height="349" src="https://www.youtube.com/embed/5qNbZZMLNzM" frameborder="0" allowfullscreen></iframe>
+<div class="video-container mb3"><iframe width="560" height="349" src="https://www.youtube.com/embed/5qNbZZMLNzM" frameborder="0" allowfullscreen></iframe></div>
 
 
 Четвертый скринкаст: @interact.
-<iframe width="560" height="349" src="https://www.youtube.com/embed/S6aBTseUHuM" frameborder="0" allowfullscreen></iframe>
+<div class="video-container mb3"><iframe width="560" height="349" src="https://www.youtube.com/embed/S6aBTseUHuM" frameborder="0" allowfullscreen></iframe></div>
