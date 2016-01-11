@@ -5,7 +5,7 @@ email:       freetonik@gmail.com
 author:      Рахим Давлеткалиев
 description: "Блог Рахима Давлеткалиева"
 baseurl:     ""
-url:         "http://rakh.im"
+url:         "https://rakh.im"
 date_format: "%-d.%m.%Y"
 
 # Google services
