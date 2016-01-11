@@ -12,6 +12,9 @@ date_format: "%-d.%m.%Y"
 google_analytics: "UA-1360700-19"
 google_verification:
 
+# Facebook
+facebook_app_id: "125006834268789"
+
 # Optional features
 animated:             true
 show_related_posts:   false
