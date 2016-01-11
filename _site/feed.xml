@@ -3,8 +3,31 @@
   <channel>
     <title>Блог Рахима Давлеткалиева</title>
     <description>Блог Рахима Давлеткалиева</description>
-    <link>http://rakh.im/</link>
-    <atom:link href="http://rakh.im/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://rakh.im/</link>
+    <atom:link href="https://rakh.im/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Обновление блога</title>
+        <description>&lt;p&gt;После долгих месяцев затишься я наконец-то обновил блог и собираюсь снова писать в него. Вместо &lt;a href=&quot;https://rakh.im//why-blogengine/&quot;&gt;Эгеи&lt;/a&gt; теперь &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Джекилл&lt;/a&gt;. Эгея все еще лучший движок для блога, и я продолжаю советовать ее всем, но сам от нее отказался вот почему:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Последовательно упрощаю все аспекты жизни, в том числе цифровой. Уменьшаю количество сервисов и технологий, храню текст исключительно в текстовых файлах и все такое. Надо будет отдельно написать об этом. Эгея это PHP, свои шаблоны, свой язык разметки. Джекилл это текстовые файлы, маркдаун, статические страницы и отсутствие движка. Мне так намного комфортнее.&lt;/li&gt;
+  &lt;li&gt;В том же стремлении захотелось упростить дизайн, сделать его примитивным и легким. Натягивать новую тему для Эгеи — довольно болезненная операция.&lt;/li&gt;
+  &lt;li&gt;Решил собрать все в одном месте — блог, статьи, переводы, лекции, путешествия. В старой версии для этого приходилось иметь Эгею для блога и Вордпресс для сайта (для всего остального). С Джекиллом получилось легче: все материалы это посты, не-блоговые материалы удобно вынесены в категории со своими кастомными страницами.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Теперь здесь можно найти &lt;a href=&quot;/translations/&quot;&gt;все переводы хороших видеороликов&lt;/a&gt; (например, лекции Краусса и речи Фейнмана), &lt;a href=&quot;/articles/&quot;&gt;избранные статьи&lt;/a&gt; (там пока не так много), &lt;a href=&quot;/lectures/&quot;&gt;лекции и доклады&lt;/a&gt; (самые интересные — про алгоритмы и английский язык, имхо), ну и &lt;a href=&quot;/travel/&quot;&gt;велопутешествия&lt;/a&gt; (пока только по одной стране). А еще все заметки &lt;a href=&quot;/english/&quot;&gt;про английский язык&lt;/a&gt; теперь доступны на одной странице милым списком.&lt;/p&gt;
+
+&lt;p&gt;Я сделал редирект со старого блога на новый, в том числе для RSS, но если вам не лень — будет круче переподписаться на новый фид — &lt;a href=&quot;https://rakh.im/feed.xml&quot;&gt;https://rakh.im/feed.xml&lt;/a&gt;. О новых заметках буду писать в &lt;a href=&quot;https://twitter.com/freetonik&quot;&gt;твиттер&lt;/a&gt; и &lt;a href=&quot;https://facebook.com/freetonik&quot;&gt;фейсбук&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Планирую продолжать писать про английский, но поменьше. Собираюсь писать о жизни, интерфейсах, медитации, книгах, бизнесе, обществе. Хочу вернуть этот клевый терапевтический эффект, связанный с последовательным, адекватным описанием некоторых идей, переживаний, мыслей. Видите, продолжаю жить конструктивным эгоизмом: думаю о блоге в первую очередь как о чем-то, что полезно &lt;em&gt;мне&lt;/em&gt;. Ну, вы ведь не обижаетесь?&lt;/p&gt;
+
+&lt;p&gt;Ах, да, теперь в блоге нет комментариев. Отдельно напишу почему.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 00:00:00 +0200</pubDate>
+        <link>https://rakh.im/new_blog/</link>
+        <guid isPermaLink="true">https://rakh.im/new_blog/</guid>
+      </item>
     
       <item>
         <title>Как компьютеры складывают числа</title>
@@ -19,8 +42,8 @@
 &lt;p&gt;&lt;em&gt;P.S. В начале видео ошибочно процессором называют северный мост.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Jul 2015 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/how_computers_add_numbers</link>
-        <guid isPermaLink="true">http://rakh.im/how_computers_add_numbers</guid>
+        <link>https://rakh.im/how_computers_add_numbers/</link>
+        <guid isPermaLink="true">https://rakh.im/how_computers_add_numbers/</guid>
       </item>
     
       <item>
@@ -57,8 +80,8 @@ embarrassment.&lt;/p&gt;
 So, hopefully, a year from now I will feel embarrassed about some of my current ideas and actions. The hard part is to accept the idea that you’re never perfect, you’re never the best. The idea is not to be the best, it is to be better.&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Dec 2014 00:00:00 +0200</pubDate>
-        <link>http://rakh.im/how_to_evaluate_personal_growth</link>
-        <guid isPermaLink="true">http://rakh.im/how_to_evaluate_personal_growth</guid>
+        <link>https://rakh.im/how_to_evaluate_personal_growth/</link>
+        <guid isPermaLink="true">https://rakh.im/how_to_evaluate_personal_growth/</guid>
       </item>
     
       <item>
@@ -70,8 +93,8 @@ So, hopefully, a year from now I will feel embarrassed about some of my current 
 &lt;p&gt;Пишите по любым вопросам на info@hexlet.io&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Aug 2014 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/hexlet-io</link>
-        <guid isPermaLink="true">http://rakh.im/hexlet-io</guid>
+        <link>https://rakh.im/hexlet-io/</link>
+        <guid isPermaLink="true">https://rakh.im/hexlet-io/</guid>
       </item>
     
       <item>
@@ -93,8 +116,8 @@ So, hopefully, a year from now I will feel embarrassed about some of my current 
 &lt;p&gt;P.S. В очередной раз спасибо &lt;a href=&quot;https://twitter.com/r_andrey&quot;&gt;Андрею&lt;/a&gt; за запись!&lt;/p&gt;
 </description>
         <pubDate>Mon, 28 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/english-at-ulcamp14</link>
-        <guid isPermaLink="true">http://rakh.im/english-at-ulcamp14</guid>
+        <link>https://rakh.im/english-at-ulcamp14/</link>
+        <guid isPermaLink="true">https://rakh.im/english-at-ulcamp14/</guid>
       </item>
     
       <item>
@@ -110,8 +133,8 @@ So, hopefully, a year from now I will feel embarrassed about some of my current 
 &lt;p&gt;P.S. Спасибо &lt;a href=&quot;https://twitter.com/r_andrey&quot;&gt;Андрею&lt;/a&gt; за запись!&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/no-online-edu</link>
-        <guid isPermaLink="true">http://rakh.im/no-online-edu</guid>
+        <link>https://rakh.im/no-online-edu/</link>
+        <guid isPermaLink="true">https://rakh.im/no-online-edu/</guid>
       </item>
     
       <item>
@@ -127,8 +150,8 @@ So, hopefully, a year from now I will feel embarrassed about some of my current 
 &lt;p&gt;Я не могу быть одержимым. И мне понадобилось 20 с лишним лет, чтобы понять, что мне на самом деле очень повезло.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Jun 2014 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/mechty-ob-oderzhimosti</link>
-        <guid isPermaLink="true">http://rakh.im/mechty-ob-oderzhimosti</guid>
+        <link>https://rakh.im/mechty-ob-oderzhimosti/</link>
+        <guid isPermaLink="true">https://rakh.im/mechty-ob-oderzhimosti/</guid>
       </item>
     
       <item>
@@ -156,8 +179,8 @@ So, hopefully, a year from now I will feel embarrassed about some of my current 
 &lt;p&gt;UPD: Этот прототип превратился в новую версию &lt;a href=&quot;https://hexlet.io&quot;&gt;Хекслета&lt;/a&gt; спустя несколько месяцев.&lt;/p&gt;
 </description>
         <pubDate>Tue, 13 May 2014 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/tengs</link>
-        <guid isPermaLink="true">http://rakh.im/tengs</guid>
+        <link>https://rakh.im/tengs/</link>
+        <guid isPermaLink="true">https://rakh.im/tengs/</guid>
       </item>
     
       <item>
@@ -171,8 +194,8 @@ So, hopefully, a year from now I will feel embarrassed about some of my current 
 &lt;p&gt;Если на вас нападает собака, которую на поводке держит хозяин, то стрелять нужно сначала в собаку.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 May 2014 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/shoot-the-dog</link>
-        <guid isPermaLink="true">http://rakh.im/shoot-the-dog</guid>
+        <link>https://rakh.im/shoot-the-dog/</link>
+        <guid isPermaLink="true">https://rakh.im/shoot-the-dog/</guid>
       </item>
     
       <item>
@@ -180,39 +203,8 @@ So, hopefully, a year from now I will feel embarrassed about some of my current 
         <description>&lt;p&gt;Мы с &lt;a href=&quot;http://unno.me/&quot;&gt;Федором&lt;/a&gt; открыли новый проект про сериалы – &lt;a href=&quot;http://enterta.ru/&quot;&gt;Энтерта&lt;/a&gt;. Там публикуются &lt;a href=&quot;http://enterta.ru/articles/&quot;&gt;статьи&lt;/a&gt; и &lt;a href=&quot;http://enterta.ru/news/&quot;&gt;новости&lt;/a&gt; про нашу любимую прелесть – сериалы. Там есть постоянно растущая &lt;a href=&quot;http://enterta.ru/shows/&quot;&gt;база сериалов&lt;/a&gt;, в которой можно искать себе занятие на выходные. А еще на Энтерте можно следить за выходом новых серий – в разделе &lt;a href=&quot;http://enterta.ru/schedule/&quot;&gt;расписание&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 May 2014 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/enterta</link>
-        <guid isPermaLink="true">http://rakh.im/enterta</guid>
-      </item>
-    
-      <item>
-        <title>Все будет хорошо</title>
-        <description>&lt;p&gt;Я ненавижу “Русское радио” по многим причинам, но больше всего меня злит их слоган “все будет хорошо”. На первый взгляд (на первый вслух?) может показаться, что это такой оптимизм. И, возможно, это проблема моего восприятия, но я вижу в десяти годах использования этого слогана очередное проявление страдальческого менталитета (когда я уже напишу пост про страдальческий менталитет?).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Все будет хорошо.&lt;br /&gt;
-Все будет хорошо.&lt;br /&gt;
-Все будет хорошо.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Дебильные ведущие передают приветы и пожелания “здоровья и любви родным и близким”, поздравляют всех с пятницей и включают дебильные песни. На меня накатывает хандра. Это же безысходность и пустота. Где жизнь, где интересы, где страсть, где увлечения? “Хочу поздравить своего брата с днем рождения, пожелать ему счастья, любви, но самое главное – здоровья!”. Ах, как прекрасно сказано, давайте послушаем песню “С днем рождения, успехов-радости-везения!”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Все будет хорошо.&lt;br /&gt;
-Все будет хорошо.&lt;br /&gt;
-Все будет хорошо.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Это ведь та же хрень, за которую страдали поколениями. Не мы, так наши дети заживут. Все будет хорошо. Изначально проигрышная стратегия. Все должно быть хорошо уже сейчас. Если это не так – то есть проблема, которую нужно решать (на самом деле – нужно &lt;strong&gt;было&lt;/strong&gt; решать), а надеяться на “хорошо”, которое само вдруг когда-нибудь “будет” – глупо.&lt;/p&gt;
-
-&lt;p&gt;На бога надейся, а сам… а все. Надейся просто. Все будет хорошо.&lt;/p&gt;
-
-&lt;p&gt;Нет, конечно, надеяться на лучшее будущее это не плохо. Но надеяться нужно на себя. Ничего не будет “хорошо” само по себе.&lt;/p&gt;
-
-&lt;p&gt;При этом я слышу “Русское радио” буквально раз в две недели в такси.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Apr 2014 00:00:00 +0300</pubDate>
-        <link>http://rakh.im/vse-budet-horosho</link>
-        <guid isPermaLink="true">http://rakh.im/vse-budet-horosho</guid>
+        <link>https://rakh.im/enterta/</link>
+        <guid isPermaLink="true">https://rakh.im/enterta/</guid>
       </item>
     
   </channel>
