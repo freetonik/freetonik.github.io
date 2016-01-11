@@ -56,7 +56,7 @@ share_hackernews: false
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    "/:title"
+permalink:    "/:title/"
 paginate:     15
 sass:
   compressed: true
