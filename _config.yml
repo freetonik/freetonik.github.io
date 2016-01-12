@@ -16,7 +16,7 @@ google_verification:
 facebook_app_id: "125006834268789"
 
 # Optional features
-animated:             true
+animated:             false
 show_related_posts:   false
 show_post_footers:    true
 show_social_icons:    true
