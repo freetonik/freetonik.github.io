@@ -9,7 +9,7 @@ layout: default
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta">{{ page.date | date: site.date_format }}, {% include post_meta_category.html %}</span><br>
+  <span class="post-meta">{{ page.date | date: site.date_format }} {% include post_meta_category.html %}</span><br>
   {% if page.update_date %}
     <span class="post-meta">UPD: {{ page.update_date | date: site.date_format }}</span><br>
   {% endif %}
