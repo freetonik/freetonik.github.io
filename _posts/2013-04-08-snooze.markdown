@@ -7,9 +7,9 @@ category: Translations
 subcat: Science_short
 minutes: 3
 summary: "Многие из нас начинают утро с нажатия кнопки «подремать» (snooze) ради нескольких минут сладкого сна, после которого будильник неизбежно звонит снова. Кажется, это так хорошо и правильно – позволить себе поспать еще немного… и еще… и еще чуть-чуть в последний раз…"
-video_id: CPBUBcTjK44
+video_id: YjPjIahy3Xo
 ---
 
 Многие из нас начинают утро с нажатия кнопки «подремать» (snooze) ради нескольких минут сладкого сна, после которого будильник неизбежно звонит снова. Кажется, это так хорошо и правильно – позволить себе поспать еще немного… и еще… и еще чуть-чуть в последний раз…
 
-<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/CPBUBcTjK44?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
+<div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/YjPjIahy3Xo?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
