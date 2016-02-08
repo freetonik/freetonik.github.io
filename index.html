@@ -13,30 +13,17 @@ layout: default
             {% if post.featured %}&nbsp;★{% endif %}
           </h3>
         </a>
-        {% if post.cover_url %}
-          <p>
-            <a href="{{ post.url | prepend: site.baseurl }}">
-              <img width="100%" height="auto" src="{{ post.cover_url }}">
-            </a>
-          </p>
+        {% if post.category == 'Travel' %}
+          {% if post.cover_url %}
+            <p>
+              <a href="{{ post.url | prepend: site.baseurl }}">
+                <img width="100%" height="auto" src="{{ post.cover_url }}">
+              </a>
+            </p>
+          {% endif %}
         {% endif %}
         <p class="post-summary">
-          {% if post.summary %}
-            {% if post.video_id %}
-              <p>
-              <div class="video-container">
-                {% if post.video_provider == 'youtube' %}
-                  <iframe width="560" height="420" src="https://www.youtube.com/embed/{{ post.video_id }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-                {% else if post.video_provider == 'vimeo' %}
-                  <iframe width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen src="https://player.vimeo.com/video/{{ post.video_id }}?color=2980b9&title=0&byline=0&portrait=0\"></iframe>
-                {% endif %}
-              </div>
-              </p>
-            {% endif %}
-            {{ post.summary }} <a href="{{ post.url | prepend: site.baseurl }}">Продолжить&nbsp;→</a>
-          {% else %}
             {{ post.content }}
-          {% endif %}
         </p>
       </div>
     {% endfor %}
