@@ -6,51 +6,67 @@ category: English
 Интересная тема в лингвистике – названия групп животных. Стадо баранов, стая птиц, косяк рыб, табун лошадей, львиный прайд, рой пчел. В английском языке все еще более занятно.
 
 Ворона? Темная, жуткая птица. Поэтому убийство!
->Murder of crows.
+
+> Murder of crows.
 
 Ворон? Чуть добрее вороны, но все равно какое-то зло.
->Недоброта! Unkindness of ravens.
+
+> Недоброта! Unkindness of ravens.
 
 Человекоподобная обезьяна? Посмотрите в ее человечьи глаза! Проницательность.
->Shrewdness of apes.
+
+> Shrewdness of apes.
 
 Барракуды? Атакуют ровными группами как на войне.
->Батарея! Battery of barracudas.
+
+> Батарея! Battery of barracudas.
 
 Бабочки? Цветные и красивые! Калейдоскоп!
->Kaleidoscope of butterflies.
+
+> Kaleidoscope of butterflies.
 
 Умные, мудрые совы? Парламент!
->Parliament of owls.
+
+> Parliament of owls.
 
 Жуткая, загадочная кобра. Трепет!
->Quiver of cobras.
+
+> Quiver of cobras.
 
 Павлины, гордо демонстрирующие свои яркие наряды? Хвастовство!
->Ostentation of peacocks.
+
+> Ostentation of peacocks.
 
 Унылые, но суровые пингвины? Лежбище. Или даже притон.
->Rookery of penguins.
+
+> Rookery of penguins.
 
 Крутейшие орлы объявляют съезд.
->Convocation of eagles.
+
+> Convocation of eagles.
 
 С дикобразами не особо заморачивались. Колючка.
->Prickle of porcupines.
+
+> Prickle of porcupines.
 
 Милый зяблик? Шарм.
->Charm of finches.
+
+> Charm of finches.
 
 Акулы-убийцы! Дрожь! Трепет!
->Shiver of sharks.
+
+> Shiver of sharks.
 
 Золотые рыбки какие-то подозрительные, нервно плавают туда-сюда. Поэтому тревога.
->Troubling of goldfish.
+
+> Troubling of goldfish.
 
 Кенгуру – довольно агрессивные, поэтому мы – банда!
->Mob of kangaroos.
+
+> Mob of kangaroos.
 
 Ну и усердие зебр, конечно.
->Zeal of zebras.
+
+> Zeal of zebras.
 
 Интересно, что в русском языке названия групп животных чаще всего – специальные слова. Рой, стадо, отара – используются только для описания животных и депутатов. Как вам известно, в английском у слов может быть очень много значений, поэтому использование привычных, людских названий групп для обозначения животных – совершенно нормально. Ну и весело, согласитесь.
