@@ -14,7 +14,7 @@ summary: "11 июня я присоединился к почти 2 тысяча
 
 <p>Вот сумка собрана и&nbsp;форма готова к&nbsp;бою.</p>
 <p><img src="https://img-fotki.yandex.ru/get/5011/paxme.16/0_622cb_83c5e7db_XXXL.jpg" border="0" alt="" /></p>
-<p>Велорюкзак стал уже привычным, с&nbsp;ним я&nbsp;<a href="http://freetonik.com/text/ottawa_montreal_by_bike/">проехал немало.</p>
+<p>Велорюкзак стал уже привычным, с&nbsp;ним я&nbsp;<a href="http://freetonik.com/text/ottawa_montreal_by_bike/">проехал немало.</a></p>
 <p><img src="https://img-fotki.yandex.ru/get/5608/paxme.16/0_622ca_d0bf771b_XXXL.jpg" border="0" alt="" /></p>
 <p>Тут тоже всё на&nbsp;готове.</p>
 <p><img src="https://img-fotki.yandex.ru/get/4704/paxme.16/0_622c9_3a6086eb_XXXL.jpg" border="0" alt="" /></p>
@@ -30,12 +30,12 @@ summary: "11 июня я присоединился к почти 2 тысяча
 <p><img src="https://img-fotki.yandex.ru/get/5409/paxme.16/0_622c5_dc6ae687_XXXL.jpg" border="0" alt="" /></p>
 <p>Первая остановка в&nbsp;городке Эштон, 40&nbsp;км позади. Длинные очереди в&nbsp;туалет.</p>
 <p><img src="https://img-fotki.yandex.ru/get/5304/paxme.16/0_622c4_8f1b8006_XXXL.jpg" border="0" alt="" /></p>
-<p>Коротка <a href="http://twitter.com/#!/freetonik/status/79533623820292097">передышка...</p>
+<p>Короткая <a href="http://twitter.com/#!/freetonik/status/79533623820292097">передышка...</a></p>
 <p><img src="https://img-fotki.yandex.ru/get/4608/paxme.16/0_622c3_757925a4_XXXL.jpg" border="0" alt="" /></p>
 <p><img src="https://img-fotki.yandex.ru/get/5806/paxme.16/0_622c2_94cc57fa_XXXL.jpg" border="0" alt="" /></p>
 <p>...и продолжаем. У&nbsp;меня был слишком легкий завтрак, останавливаюсь поесть ветчины и&nbsp;справить нужду.</p>
 <p><img src="https://img-fotki.yandex.ru/get/4517/paxme.16/0_622c1_1dbe3c23_XXXL.jpg" border="0" alt="" /></p>
-<p>Скоро еще одна <a href="http://twitter.com/#!/freetonik/status/79556939926880256">остановка, 77&nbsp;км позади, город Перт.</p>
+<p>Скоро еще одна <a href="http://twitter.com/#!/freetonik/status/79556939926880256">остановка</a>, 77&nbsp;км позади, город Перт.</p>
 <p><img src="https://img-fotki.yandex.ru/get/5906/paxme.16/0_622c0_48115b9f_XXXL.jpg" border="0" alt="" /></p>
 <p>Город очень красивый, но&nbsp;у&nbsp;меня не&nbsp;получилось много фотографировать&nbsp;&mdash; передышки старался не&nbsp;растягивать, иначе труднее ехать.</p>
 <p><img src="https://img-fotki.yandex.ru/get/5708/paxme.16/0_622bf_98ebabeb_XXXL.jpg" border="0" alt="" /><br />
