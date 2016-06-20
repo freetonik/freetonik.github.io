@@ -23,7 +23,7 @@ summary: "11 июня я присоединился к почти 2 тысяча
 <p>А&nbsp;это топливо для него.</p>
 <p>Бананов нужно брать больше. Хлеба меньше. Две бутылки воды заморозить полностью.</p>
 <p><img src="https://img-fotki.yandex.ru/get/5708/paxme.16/0_622c7_43be880b_XXXL.jpg" border="0" alt="" /></p>
-<p><a href="http://twitter.com/#!/freetonik/status/79500768431972352">Утро.</p>
+<p><a href="http://twitter.com/#!/freetonik/status/79500768431972352">Утро</a>.</p>
 <p>Старт&nbsp;&mdash; в&nbsp;университете Карлтон, велосипедисты получают номерки и&nbsp;ленточки для багажа.</p>
 <p><img src="https://img-fotki.yandex.ru/get/4608/paxme.16/0_622c6_b796b76f_XXXL.jpg" border="0" alt="" /></p>
 <p>Оставляют багаж вот тут в&nbsp;ровные кучки и&nbsp;потихоньку отъезжают. Кто по&nbsp;одиночке, кто небольшими группами, кто&nbsp;&mdash; командами.&nbsp;99% велосипедов&nbsp;&mdash; шоссейные.</p>
