@@ -63,3 +63,6 @@ permalink:    "/:title/"
 paginate:     15
 sass:
   compressed: true
+
+# Gems
+gems: [jekyll-paginate]
