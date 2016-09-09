@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Интерфейсы пока не для людей"
+title: "Продукты пока не для людей"
 category: "Life"
 featured: yes
 cover_url: "/images/posts/ncommander.png"
