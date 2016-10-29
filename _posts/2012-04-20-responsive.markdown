@@ -6,7 +6,7 @@ title: "Адаптивный веб-дизайн"
 
 ![rakhim davletkaliyev habrahabr almaty](/images/posts/me_at_habraparty.jpg)
 
-Вот – <a href="http://www.youtube.com/watch?v=VsYdMZj6Ut4"/>видео</a> и <a href="http://www.slideshare.net/freetonik/ss-13003605">сами слайды</a>.
+Вот – <a href="http://www.youtube.com/watch?v=VsYdMZj6Ut4">видео</a> и <a href="http://www.slideshare.net/freetonik/ss-13003605">сами слайды</a>.
 
 А вот ссылки из презентации:
 <ul>

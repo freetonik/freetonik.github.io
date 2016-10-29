@@ -23,8 +23,8 @@ minutes: 38
 
 Видео разбито на две части (<a href="http://www.youtube.com/watch?v=LCXXqdV0MLI">один</a>, <a href="http://www.youtube.com/watch?v=-IISRXrezN8">два</a>). Чтобы пропустить введение – начинайте смотреть с <a href="https://youtu.be/LCXXqdV0MLI?t=2m56s">2:56</a>.
 
-####Часть 1
+#### Часть 1
 <div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/LCXXqdV0MLI?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
 
-####Часть 2
+#### Часть 2
 <div class="video-container mb3"><iframe width="560" height="420" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/-IISRXrezN8?color=white&theme=light&rel=0&amp;showinfo=0"></iframe></div>
