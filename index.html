@@ -23,7 +23,20 @@ layout: default
           {% endif %}
         {% endif %}
         <p class="post-summary">
+          {% if post.excerpt_separator %}
+            {{ post.excerpt }}
+
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              {% if post.excerpt_text %}
+                {{ post.excerpt_text }}
+              {% else %}
+                Читать дальше
+              {% endif %}
+              →
+            </a>
+          {% else %}
             {{ post.content }}
+          {% endif %}
         </p>
       </div>
     {% endfor %}
