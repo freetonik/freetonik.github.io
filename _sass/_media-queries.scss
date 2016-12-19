@@ -1,8 +1,21 @@
-@media screen and (min-width: $viewport-small) {
-  html {
-    font-size: 16px;
+// phones
+@media screen and (max-device-width: $viewport-small) {
+  h1,
+  .h1 {
+    font-size: $h1-narrow;
   }
 
+  ol, ul {
+    padding-left: 1.2rem;
+  }
+
+  .intro {
+    padding: 1.25rem;
+  }
+
+}
+
+@media screen and (min-width: $viewport-small) {
   h1,
   .h1 {
     font-size: $h1;
@@ -44,13 +57,16 @@
     padding-top: 0.4em;
   }
 
+  .intro {
+    padding: 2rem;
+  }
+
+  ol, ul {
+    padding-left: 2rem;
+  }
 }
 
 @media screen and (min-width: $viewport-medium) {
-  html {
-    font-size: 18px;
-  }
-
   .post .post-floating-video {
     float: left;
     padding-right: 1em;
