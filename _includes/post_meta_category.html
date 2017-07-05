@@ -1,13 +1,15 @@
 {% if page.category == "Translations" %}
-  / Перевод
+  / <a href="/translations">Переводы</a>
 {% elsif page.category == "Lectures" %}
-  / Лекция
+  / <a href="/lectures">Лекции</a>
 {% elsif page.category == "Articles" %}
-  / Статья
+  / <a href="/articles">Статьи</a>
 {% elsif page.category == "English" %}
-  / Английский язык
+  / <a href="/english">Английский язык</a>
 {% elsif page.category == "Video" %}
   / Видео
+{% elsif page.category == "Linker" %}
+  / <a href="/linker">Ссылкомат</a>
 {% elsif page.category == "Notes" %}
   / Заметки
 {% endif %}

@@ -3,7 +3,7 @@ title:       "Блог Рахима Давлеткалиева"
 header_title: "Rakh.im"
 email:       freetonik@gmail.com
 author:      Рахим Давлеткалиев
-description: "Блог Рахима Давлеткалиева"
+description: "О технологиях, жизни, идеях и науке."
 baseurl:     ""
 url:         "https://rakh.im"
 date_format: "%-d.%m.%Y"
@@ -33,7 +33,7 @@ stackoverflow_id:
 twitter_username: freetonik
 google_plus_id:
 linkedin_username:
-facebook_username: freetonik
+facebook_username:
 angellist_username:
 medium_id:
 bitcoin_url:
