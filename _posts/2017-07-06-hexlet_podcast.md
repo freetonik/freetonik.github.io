@@ -2,7 +2,7 @@
 layout: post
 title: Как я записываю подкаст Хекслет
 featured: yes
-cover_url: "/images/posts/hexpod.png"
+cover_url: "/images/posts/podcast_notes.jpg"
 summary: "Описываю процесс подготовки и записи научного-популярного подкаста Хекслет."
 ---
 
