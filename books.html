@@ -1,0 +1,25 @@
+---
+layout: category
+title: Книги
+permalink: /books/
+---
+
+<p>
+  <h1>Книги</h1>
+  <p>Рекомендую прочитанные книги.</p>
+</p>
+
+<div class="posts">
+  {% for post in site.posts %}
+
+  {% if post.category == 'Books' %}
+  <div class="post py3">
+    <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
+    <p class="post-summary">
+      {{ post.content }}
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
