@@ -1,0 +1,1193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"container"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"зареги",
+				"зарегистрироваться"
+			],
+			[
+				"типи",
+				"типизированный"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"репозит",
+				"репозитория"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Reac",
+				"ReactRouter"
+			],
+			[
+				"prog",
+				"progLength"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"btn-outline-",
+				"btn-outline-primary"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"bash_",
+				"bash_profile"
+			],
+			[
+				"jekyl",
+				"jekyll_post"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"yml",
+				"Set Syntax: YAML"
+			],
+			[
+				"semar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"setbabe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"lintersett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"column",
+				"SublimeLinter: No Column Only Marks Gutter"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"linmode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"eslint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"setmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"makr",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"setjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"preview",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"syntaxmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enablelin",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"disable",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lintsett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"sublimelintersett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ermove",
+				"Package Control: Remove Package"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rakhim/code/rakh.im"
+	],
+	"file_history":
+	[
+		"/Users/rakhim/code/courses/git_course/spec.yml",
+		"/Users/rakhim/Dropbox/Apps/Editorial/ego is the enemy.md",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-12-lock_in.md",
+		"/Users/rakhim/code/hguides/_includes/footer.html",
+		"/Users/rakhim/code/hguides/_includes/head.html",
+		"/Users/rakhim/code/hguides/_posts/2017-07-10-markdown.md",
+		"/Users/rakhim/code/hguides/_posts/2017-07-10-bootstrap.md",
+		"/Users/rakhim/code/hguides/css/hexlet_guides.css",
+		"/Users/rakhim/code/hguides/_includes/header.html",
+		"/Users/rakhim/code/hguides/_posts/2017-07-10-ssh.md",
+		"/Users/rakhim/code/hguides/CNAME",
+		"/Users/rakhim/code/hguides/_layouts/post.html",
+		"/Users/rakhim/code/hguides/_config.yml",
+		"/Users/rakhim/code/hguides/index.html",
+		"/Users/rakhim/code/hguides/_includes/share_buttons.html",
+		"/Users/rakhim/code/hguides/_posts/2017-07-10-ssh2.md",
+		"/Users/rakhim/code/hguides/_layouts/default.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-07-lock_in.md",
+		"/Users/rakhim/code/rakh.im/books.html",
+		"/Users/rakhim/code/rakh.im/_includes/post_meta_category.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-07-weak.md",
+		"/Users/rakhim/code/rakh.im/_layouts/category.html",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/12-mutators/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/08-recursion/README.md",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/08-recursion/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/09-iterative/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/17-types/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/14-modules/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/10-while/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/05-functions/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/15-expressions/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/16-env/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/07-errors/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/03-hello/questions.yml",
+		"/Users/rakhim/code/courses/q.txt",
+		"/Users/rakhim/code/courses/programming_basics_course/allq.txt",
+		"/Users/rakhim/code/courses/introq.txt",
+		"/Users/rakhim/code/courses/missing.txt",
+		"/Users/rakhim/code/rakh.im/_posts/2017-01-11-producing_a_lesson.md",
+		"/Users/rakhim/code/rakh.im/_sass/_links.scss",
+		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
+		"/Users/rakhim/code/rakh.im/css/pixyll.scss",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/18-pure/questions.yml",
+		"/Users/rakhim/code/rakh.im/_site/css/pixyll.css",
+		"/Users/rakhim/code/rakh.im/_sass/_posts.scss",
+		"/Users/rakhim/code/rakh.im/courses.html",
+		"/Users/rakhim/code/rakh.im/_includes/head.html",
+		"/Users/rakhim/code/rakh.im/_config.yml",
+		"/Users/rakhim/code/rakh.im/translations.html",
+		"/Users/rakhim/Desktop/new.txt",
+		"/Users/rakhim/Desktop/comm.txt",
+		"/Users/rakhim/Desktop/old.txt",
+		"/Users/rakhim/Desktop/f.mdown",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/lessons/theory_unit.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/lessons/_theory.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/config/locales/en.views.yml",
+		"/Users/rakhim/code/hexlet/services/web/config/locales/ru.views.yml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/users/new.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/sessions/new.html.haml",
+		"/Users/rakhim/Google Drive/Incoming and private/Translations/Navigating the Command Line.md",
+		"/Users/rakhim/code/courses/programming_basics_course/150-errors/README.md",
+		"/Users/rakhim/code/courses/programming_basics_course/160-tests/README.md",
+		"/Users/rakhim/code/courses/programming_basics_course/110-modules/README.md",
+		"/Users/rakhim/code/courses/programming_basics_course/040-arithmetic/README.md",
+		"/Users/rakhim/code/courses/programming_basics_course/080-const/README.md",
+		"/Users/rakhim/code/courses/programming_basics_course/090-functions/README.md",
+		"/Users/rakhim/code/courses/programming_basics_course/035-hexlet/README.md",
+		"/Users/rakhim/code/courses/programming_basics_course/001-intro/README.md",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/lessons/quiz_unit.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/challenges/_theory.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/javascript/packs/user_preferences/index.jsx",
+		"/Users/rakhim/code/hexlet/services/web/app/javascript/packs/user_preferences/containers/Wizard.js",
+		"/Users/rakhim/code/hexlet/services/web/test/fixtures/users.yml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/pages/about.ru.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/variables.scss",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/my/application.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_landing.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_for_member.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/professions/_landing.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/projects/index.ru.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/pages/about.en.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/_footer.en.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/shared/_catalog_menu.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/admin/courses/index.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/teams/index.ru.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/landings/_footer.ru.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/welcome/index.en.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/_footer.ru.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/welcome/index.ru.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/shared/course_challenges/_menu.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/categories/courses/index.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/welcome.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/account/subscriptions/_enabled_subscription.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/userpages.scss",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/professions/_for_member.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/account/subscriptions/show.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/pricing/show.ru.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/shared/_plans.ru.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/application.scss",
+		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/welcome.scss",
+		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/pricing.scss",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/blog/posts/show.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/controllers/concerns/custom_url_helpers.rb",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/deps/_helpscout_beacon.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/javascript/packs/challenge/components/RemovedParts.jsx",
+		"/Users/rakhim/code/hexlet/services/web/app/javascript/packs/challenge/components/Solution.jsx",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/email_unsubscribe_reasons/new.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/landings/_footer.en.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/jobs/_submit_request_modal.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/show.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/courses.scss",
+		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/18-pure/Pure functions_ru.md",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/16-env/spec.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/17-types/spec.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/17-types/README.md",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/16-env/README.md",
+		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/16-env/Environment_ru.md",
+		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/16-env/README.md",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/business/welcome/index.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/_header.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/stack_members/project_session_group.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/pages/help.ru.haml",
+		"/Users/rakhim/code/hexlet/docker-compose.yml",
+		"/Users/rakhim/code/hexlet/Makefile",
+		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/15-expressions/Expressions_ru.md",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/13-tests/questions.yml",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/14-modules/README.md",
+		"/Users/rakhim/code/courses/intro_to_programming_ru_course/14-modules/spec.yml"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/rakhim/code/hguides",
+			"/Users/rakhim/code/courses/intro_to_programming_ru_course",
+			"/Users/rakhim/code/rakh.im",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/courses/intro_to_web_development_course",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/courses/intro_to_web_development_course",
+			"/Users/rakhim/code/courses/english_language",
+			"/Users/rakhim/code/courses/intro_to_programming_ru_course",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/hexlet/app/controllers",
+			"/Users/rakhim/code/hexlet/app/frontend",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/hexlet/app/assets/stylesheets",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/hexlet/app/frontend",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/metaport",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/metaport",
+			"/Users/rakhim/code/courses/intro_to_programming_course",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/hexlet/app/assets",
+			"/Users/rakhim/code/hexlet",
+			"/Users/rakhim/code/rakh.im/_posts",
+			"/Users/rakhim/code/rakh.im/_sass",
+			"/Users/rakhim/code/hexlet"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http:",
+			"http://",
+			"http://i.",
+			"http:/",
+			"реез",
+			"page.",
+			"favicon",
+			"likely",
+			"примеры",
+			"при меры",
+			"success",
+			"→",
+			"pre",
+			"likely",
+			"hexlet-header-icon",
+			"href=\"",
+			"class=\"progress\"",
+			"hexlet_guides_markdown_examples",
+			"...",
+			"src=\"...\"",
+			"4",
+			"111.111.11.111",
+			", ",
+			".",
+			"<code>",
+			"hexlet_guides_source",
+			"id=",
+			"Лого",
+			"hexlet_guies_rendered",
+			"2B3A67",
+			"-md",
+			"## ",
+			"внутр",
+			"%40",
+			"https://dashboard.stripe.com/search?query=",
+			"с помощью рекурсии",
+			"для всех наборов данных",
+			"assertion error",
+			"насколько важно",
+			"термина",
+			"NaN",
+			"расшифровывается `NaN`",
+			"Как правильно импортировать функцию",
+			"конфликт имен",
+			"ту же, которую решают модули: конфликт имен",
+			"hexlet-3365",
+			"3163",
+			"break",
+			"выйти из беск",
+			"правильно решают поставленную задачу",
+			"bool-3779",
+			"bool-3135",
+			"сумма по кредиту",
+			":  ",
+			"  ",
+			"^\\s\\s\\w.*",
+			"  ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"@",
+			"3813",
+			"208,64,0,0.3",
+			".post-link .post-title",
+			"weight",
+			".post-link .post-title",
+			"weigh",
+			"К курсу",
+			"introduction_to_programming",
+			"introduction_to_c",
+			"swift_101",
+			"javascript_101",
+			"introduction_to_algorithms",
+			"introduction_to_c",
+			"operating_systems",
+			"logic",
+			"introduction_to_programming",
+			"4",
+			"category: video",
+			"http:",
+			"h1",
+			" $24",
+			" $9",
+			" $14",
+			" $9",
+			"+ ",
+			"for_members",
+			"video_only_for_member",
+			"Video is available to course",
+			"Video is available to course members with paid membership\nVideo is available to course members with paid membership",
+			"De",
+			"exit",
+			"user_preferences_wizard",
+			"modal-backdrop",
+			"http",
+			"%h4 ",
+			"%img.img-fluid.rounded.float-left.mr-3.mb-2",
+			"%a",
+			"a",
+			"%a",
+			"        %p",
+			"loat-left.mr-3",
+			".row",
+			".col-10.mb-5",
+			".mr-3",
+			"%strong",
+			".col-12.col-lg-6.mb-5",
+			".col-xs-12",
+			"%h3 ",
+			"%h3",
+			"%h3.h2",
+			"%strong",
+			"%h3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"статич",
+			"img-fluid",
+			"a",
+			";\n",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 835.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 136.0
+	},
+	"output.sftp":
+	{
+		"height": 136.0
+	},
+	"pinned_build_system": "",
+	"project": "rakhim_blog.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"post_meta_category.html",
+				"_includes/post_meta_category.html"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"lockin",
+				"_posts/2017-07-07-lock_in.md"
+			],
+			[
+				"foote",
+				"_includes/footer.html"
+			],
+			[
+				"ssh",
+				"_posts/2017-07-10-ssh.md"
+			],
+			[
+				"fooe",
+				"_includes/footer.html"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"cname",
+				"CNAME"
+			],
+			[
+				"bootst",
+				"_posts/2017-07-10-bootstrap.md"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"markdo",
+				"_posts/2017-07-10-markdown.md"
+			],
+			[
+				"ss",
+				"_posts/2017-07-10-ssh.md"
+			],
+			[
+				"hexcss",
+				"css/hexlet_guides.css"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"hex",
+				"css/hexlet_guides.css"
+			],
+			[
+				"posth",
+				"_layouts/post.html"
+			],
+			[
+				"head.",
+				"_includes/head.html"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"markd",
+				"_posts/2017-07-10-markdown.md"
+			],
+			[
+				"mark",
+				"_posts/2017-07-10-markdown.md"
+			],
+			[
+				"hecss",
+				"css/hexlet_guides.css"
+			],
+			[
+				"foot",
+				"_includes/footer.html"
+			],
+			[
+				"categ",
+				"_layouts/category.html"
+			],
+			[
+				"testq",
+				"13-tests/questions.yml"
+			],
+			[
+				"recurq",
+				"08-recursion/questions.yml"
+			],
+			[
+				"recur",
+				"08-recursion/README.md"
+			],
+			[
+				"muta",
+				"12-mutators/questions.yml"
+			],
+			[
+				"mutat",
+				"12-mutators/questions.yml"
+			],
+			[
+				"mutatq",
+				"12-mutators/questions.yml"
+			],
+			[
+				"hexpodca",
+				"_posts/2017-07-06-hexlet_podcast.md"
+			],
+			[
+				"produ",
+				"_posts/2017-01-11-producing_a_lesson.md"
+			],
+			[
+				"links",
+				"_sass/_links.scss"
+			],
+			[
+				"rak",
+				"_sass/rakhim.scss"
+			],
+			[
+				"pixy",
+				"css/pixyll.scss"
+			],
+			[
+				"pureq",
+				"18-pure/questions.yml"
+			],
+			[
+				"09-iterative/questions.yml",
+				"09-iterative/questions.yml"
+			],
+			[
+				"iterativequ",
+				"09-iterative/questions.yml"
+			],
+			[
+				"varia",
+				"_sass/_variables.scss"
+			],
+			[
+				"linkcs",
+				"_sass/_links.scss"
+			],
+			[
+				"rakcss",
+				"_sass/rakhim.scss"
+			],
+			[
+				"rakhimcs",
+				"_sass/rakhim.scss"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"trans",
+				"translations.html"
+			],
+			[
+				"transl",
+				"translations.html"
+			],
+			[
+				"intro",
+				"_includes/intro.html"
+			],
+			[
+				"welcomeru",
+				"services/web/app/views/web/welcome/index.ru.html.haml"
+			],
+			[
+				"ruview",
+				"services/web/config/locales/ru.views.yml"
+			],
+			[
+				"sessnewham",
+				"services/web/app/views/web/sessions/new.html.haml"
+			],
+			[
+				"usernewham",
+				"services/web/app/views/web/users/new.html.haml"
+			],
+			[
+				"theoryun",
+				"services/web/app/views/web/courses/lessons/theory_unit.html.haml"
+			],
+			[
+				"quizuni",
+				"services/web/app/views/web/courses/lessons/quiz_unit.html.haml"
+			],
+			[
+				"theoryham",
+				"services/web/app/views/web/courses/lessons/_theory.html.haml"
+			],
+			[
+				"_theo",
+				"services/web/app/views/web/courses/challenges/_theory.html.haml"
+			],
+			[
+				"theoryhaml",
+				"services/web/app/views/web/courses/lessons/theory_unit.html.haml"
+			],
+			[
+				"fixusers",
+				"services/web/test/fixtures/users.yml"
+			],
+			[
+				"aboutru",
+				"services/web/app/views/web/pages/about.ru.html.haml"
+			],
+			[
+				"abouten",
+				"services/web/app/views/web/pages/about.en.html.haml"
+			],
+			[
+				"projectsruham",
+				"services/web/app/views/web/projects/index.ru.html.haml"
+			],
+			[
+				"proflandin",
+				"services/web/app/views/web/professions/_landing.html.haml"
+			],
+			[
+				"abputru",
+				"services/web/app/views/web/pages/about.ru.html.haml"
+			],
+			[
+				"coursemem",
+				"services/web/app/views/web/courses/_for_member.html.haml"
+			],
+			[
+				"courseland",
+				"services/web/app/views/web/courses/_landing.html.haml"
+			],
+			[
+				"vari",
+				"services/web/app/assets/stylesheets/variables.scss"
+			],
+			[
+				"myhaml",
+				"services/web/app/views/layouts/web/my/application.html.haml"
+			],
+			[
+				"teamsru",
+				"services/web/app/views/web/teams/index.ru.html.haml"
+			],
+			[
+				"landfooter",
+				"services/web/app/views/layouts/web/landings/_footer.ru.html.haml"
+			],
+			[
+				"welcomeindeen",
+				"services/web/app/views/web/welcome/index.en.html.haml"
+			],
+			[
+				"menuhaml",
+				"services/web/app/views/web/shared/_catalog_menu.html.haml"
+			],
+			[
+				"coursemenu",
+				"services/web/app/views/web/shared/course_challenges/_menu.html.haml"
+			],
+			[
+				"coursesindexhaml",
+				"services/web/app/views/web/categories/courses/index.html.haml"
+			],
+			[
+				"coursesindex",
+				"services/web/app/views/web/admin/courses/index.html.haml"
+			],
+			[
+				"laywelcome",
+				"services/web/app/views/layouts/web/welcome.html.haml"
+			],
+			[
+				"welcomeruham",
+				"services/web/app/views/web/welcome/index.ru.html.haml"
+			],
+			[
+				"footeen",
+				"services/web/app/views/layouts/_footer.en.html.haml"
+			],
+			[
+				"footeren",
+				"services/web/app/views/layouts/_footer.en.html.haml"
+			],
+			[
+				"varscss",
+				"services/web/app/assets/stylesheets/variables.scss"
+			],
+			[
+				"profformember",
+				"services/web/app/views/web/professions/_for_member.html.haml"
+			],
+			[
+				"footerru",
+				"services/web/app/views/layouts/_footer.ru.html.haml"
+			],
+			[
+				"curl",
+				"services/web/app/controllers/concerns/custom_url_helpers.rb"
+			],
+			[
+				"blogshow",
+				"services/web/app/views/web/blog/posts/show.html.haml"
+			],
+			[
+				"pric",
+				"services/web/app/assets/stylesheets/pricing.scss"
+			],
+			[
+				"appscss",
+				"services/web/app/assets/stylesheets/application.scss"
+			],
+			[
+				"welcomcss",
+				"services/web/app/assets/stylesheets/welcome.scss"
+			],
+			[
+				"scss",
+				"services/web/app/assets/stylesheets/application.scss"
+			],
+			[
+				"web/shared/plans",
+				"services/web/app/views/web/shared/_plans.ru.html.haml"
+			],
+			[
+				"pricing",
+				"services/web/app/views/web/pricing/show.ru.html.haml"
+			],
+			[
+				"ruvi",
+				"services/web/config/locales/ru.views.yml"
+			],
+			[
+				"enabled_subscription",
+				"services/web/app/views/web/account/subscriptions/_enabled_subscription.html.haml"
+			],
+			[
+				"subscshow",
+				"services/web/app/views/web/account/subscriptions/show.html.haml"
+			],
+			[
+				"aboutr",
+				"services/web/app/views/web/pages/about.ru.html.haml"
+			],
+			[
+				"helpsco",
+				"services/web/app/views/layouts/deps/_helpscout_beacon.html.haml"
+			],
+			[
+				"ruactive",
+				"services/web/config/locales/ru.activerecord.yml"
+			],
+			[
+				"hrhaml",
+				"services/web/app/views/web/hr/index.html.haml"
+			],
+			[
+				"ruv",
+				"services/web/config/locales/ru.views.yml"
+			],
+			[
+				"_unsubscribe_modal.html.haml",
+				"services/web/app/views/web/account/subscriptions/_unsubscribe_modal.html.haml"
+			],
+			[
+				"unsubreasonham",
+				"services/web/app/views/web/email_unsubscribe_reasons/new.html.haml"
+			],
+			[
+				"enview",
+				"services/web/config/locales/en.views.yml"
+			],
+			[
+				"solujsx",
+				"services/web/app/javascript/packs/challenge/components/Solution.jsx"
+			],
+			[
+				"profileedit",
+				"services/web/app/views/web/account/profiles/edit.html.haml"
+			],
+			[
+				"subscrihaml",
+				"services/web/app/views/web/account/subscriptions/show.html.haml"
+			],
+			[
+				"modalhaml",
+				"services/web/app/views/web/shared/challenge/_readme_modal.html.haml"
+			],
+			[
+				"unsubhaml",
+				"services/web/app/views/web/account/subscriptions/_unsubscribe_modal.html.haml"
+			],
+			[
+				"freehaml",
+				"services/web/app/views/web/courses/free.html.haml"
+			],
+			[
+				"sharedcourses",
+				"services/web/app/views/web/shared/course_challenges/_menu.html.haml"
+			],
+			[
+				"_coursehaml",
+				"services/web/app/views/web/shared/_course.html.haml"
+			],
+			[
+				"courseshaml",
+				"services/web/app/views/web/courses/show.html.haml"
+			],
+			[
+				"about",
+				"services/web/app/views/web/pages/about.ru.html.haml"
+			],
+			[
+				"courscss",
+				"services/web/app/assets/stylesheets/courses.scss"
+			],
+			[
+				"theory",
+				"services/web/app/views/web/courses/lessons/_theory.html.haml"
+			],
+			[
+				"coursecss",
+				"services/web/app/assets/stylesheets/courses.scss"
+			],
+			[
+				"ee.",
+				"_posts/2010-04-26-ee.markdown"
+			],
+			[
+				"pipie",
+				"_posts/2011-02-12-pi_pie.markdown"
+			],
+			[
+				"businessindex",
+				"services/web/app/views/web/business/welcome/index.html.haml"
+			],
+			[
+				"hedaer",
+				"services/web/app/views/layouts/_header.html.haml"
+			],
+			[
+				"pehader",
+				"services/web/app/views/layouts/_header.html.haml"
+			],
+			[
+				"profelanding",
+				"services/web/app/views/web/professions/_landing.html.haml"
+			],
+			[
+				"projectindexru",
+				"services/web/app/views/web/projects/index.ru.html.haml"
+			],
+			[
+				"projruha",
+				"services/web/app/views/web/stack_members/project_session_group.html.haml"
+			],
+			[
+				"projectsruhaml",
+				"services/web/app/views/web/projects/index.ru.html.haml"
+			],
+			[
+				"docker-compose",
+				"docker-compose.yml"
+			],
+			[
+				"quizbox",
+				"services/web/app/frontend/quiz/components/QuizBox.js"
+			],
+			[
+				"variables",
+				"services/web/app/assets/stylesheets/variables.scss"
+			],
+			[
+				"appscs",
+				"services/web/app/assets/stylesheets/application.scss"
+			],
+			[
+				"exerciseunit",
+				"services/web/app/views/web/courses/lessons/exercise_unit.html.haml"
+			],
+			[
+				"theoryunit",
+				"services/web/app/views/web/courses/lessons/theory_unit.html.haml"
+			],
+			[
+				"boolea/",
+				"06-boolean/README.md"
+			],
+			[
+				"welcomeindex",
+				"services/web/app/views/web/welcome/index.ru.html.haml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
