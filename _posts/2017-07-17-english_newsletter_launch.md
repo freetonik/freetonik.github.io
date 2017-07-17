@@ -13,7 +13,7 @@ category: English
 <div style="text-align: center; margin-bottom: 0.75rem;">
 <iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D1%80%D0%B0%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D1%83%20%D0%BE%D0%B1%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%81%D1%8F%D1%86&targets-hint=&default-sum=300&button-text=12&payment-type-choice=on&mobile-payment-type-choice=on&mail=on&hint=&successURL=https%3A%2F%2Frakh.im%2Fenglish_newsletter_thanks&quickpay=shop&account=41001240061025" width="450" height="213" frameborder="0" allowtransparency="true" scrolling="no"></iframe></div>
 
-При оплате нужно будет заполнить поле "email" — на этот адрес будет приходить рассылка.
+При оплате нужно будет заполнить поле «Электронная почта» — на этот адрес будет приходить рассылка.
 
 Вот первый выпуск. Он бесплатный, чтобы было понятно, на что вы соглашаетесь. А под ним — вопросы и ответы.
 
