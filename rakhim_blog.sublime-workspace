@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
 				"co",
 				"container"
 			],
@@ -75,6 +87,51 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/rakhim/Desktop/engnews1.mdown",
+			"settings":
+			{
+				"buffer_size": 7233,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "1"
+			}
+		},
+		{
+			"file": "_posts/2017-07-17-english_newsletter_launch.md",
+			"settings":
+			{
+				"buffer_size": 11873,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/intro.html",
+			"settings":
+			{
+				"buffer_size": 1887,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/post_footer.html",
+			"settings":
+			{
+				"buffer_size": 737,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "thanks.md",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -257,6 +314,10 @@
 	],
 	"file_history":
 	[
+		"/Users/rakhim/code/rakh.im/english_newsletter_thanks.md",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-16-weekend_cleanup.md",
+		"/Users/rakhim/.bash_profile",
+		"/Users/rakhim/code/rakh.im/rakhim_blog.sublime-project",
 		"/Users/rakhim/code/courses/git_course/spec.yml",
 		"/Users/rakhim/Dropbox/Apps/Editorial/ego is the enemy.md",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-12-lock_in.md",
@@ -380,15 +441,11 @@
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/stack_members/project_session_group.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/pages/help.ru.haml",
 		"/Users/rakhim/code/hexlet/docker-compose.yml",
-		"/Users/rakhim/code/hexlet/Makefile",
-		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/15-expressions/Expressions_ru.md",
-		"/Users/rakhim/code/courses/intro_to_programming_ru_course/13-tests/questions.yml",
-		"/Users/rakhim/code/courses/intro_to_programming_ru_course/14-modules/README.md",
-		"/Users/rakhim/code/courses/intro_to_programming_ru_course/14-modules/spec.yml"
+		"/Users/rakhim/code/hexlet/Makefile"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -429,6 +486,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"след",
+			" (",
+			"-",
 			"http:",
 			"http://",
 			"http://i.",
@@ -553,9 +613,6 @@
 			".col-12.col-lg-6.mb-5",
 			".col-xs-12",
 			"%h3 ",
-			"%h3",
-			"%h3.h2",
-			"%strong",
 			"%h3"
 		],
 		"highlight": true,
@@ -579,8 +636,164 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/rakhim/Desktop/engnews1.mdown",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								7233
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2017-07-17-english_newsletter_launch.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								127
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/intro.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								808
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/post_footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "thanks.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								132
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -644,6 +857,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"postfoo",
+				"_includes/post_footer.html"
+			],
+			[
+				"intro",
+				"_includes/intro.html"
+			],
+			[
+				"than",
+				"thanks.md"
+			],
 			[
 				"post_meta_category.html",
 				"_includes/post_meta_category.html"
@@ -823,10 +1048,6 @@
 			[
 				"transl",
 				"translations.html"
-			],
-			[
-				"intro",
-				"_includes/intro.html"
 			],
 			[
 				"welcomeru",
@@ -1147,14 +1368,6 @@
 			[
 				"theoryunit",
 				"services/web/app/views/web/courses/lessons/theory_unit.html.haml"
-			],
-			[
-				"boolea/",
-				"06-boolean/README.md"
-			],
-			[
-				"welcomeindex",
-				"services/web/app/views/web/welcome/index.ru.html.haml"
 			]
 		],
 		"width": 0.0
@@ -1184,7 +1397,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":
