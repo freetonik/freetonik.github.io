@@ -1,3 +1,17 @@
+<div class="posts">
+  {% for post in site.posts limit: 8 %}
+
+  {% if post.featured %}
+  <div class="post">
+    <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="post-title">{{ post.title }}</h3></a>
+
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+
 <div class="py2 post-footer">
   <hr />
   <img src="/images/me.jpeg" alt="Rakhim Davletkaliyev" class="avatar" />

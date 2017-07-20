@@ -6,7 +6,7 @@
 .site-header a {
   color: #333;
   font-size: $h3;
-  font-weight: 300;
+  border: none;
 }
 
 .site-header .site-title {
@@ -41,7 +41,7 @@
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
-  opacity: 0.88;
+  opacity: 0.90;
 }
 
 .site-header {
