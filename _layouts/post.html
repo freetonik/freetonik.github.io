@@ -47,6 +47,31 @@ layout: default
   {% include share_buttons.html %}
 {% endif %}
 
+<div class="mt4">
+  {% if page.previous.url %}
+    <small><a class="prev" href="{{page.previous.url}}">{{page.previous.title}}</a> ←</small>
+  {% endif %}
+  {% if page.next.url %}
+    <small class="ml2">→ <a class="next" href="{{page.next.url}}">{{page.next.title}}</a></small>
+  {% endif %}
+</div>
+
+<div class="pt3">
+  {% for post in site.posts limit:8 %}
+
+    {% if post.featured %}
+    <p>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+        {{ post.title }}
+      </a>
+    </p>
+    {% endif %}
+
+  {% endfor %}
+</div>
+
+
+
 {% if site.show_post_footers %}
   {% include post_footer.html %}
 {% endif %}

@@ -42,3 +42,11 @@ header a {
 li {
   margin-bottom: 0.5em;
 }
+
+.likely__widget_twitter, .likely__widget_facebook, .likely__widget_vkontakte, .likely__widget_telegram {
+  fill: #333333;
+}
+
+.likely .likely__widget {
+  padding: 2px 4px;
+}
