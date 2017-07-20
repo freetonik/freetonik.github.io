@@ -9,10 +9,10 @@ layout: default
         <p class="post-meta">{{ post.date | date: site.date_format }}</p>
         
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <h3 class="h2 post-title">
+          <h2 post-title">
             {{ post.title }}
             {% if post.featured %}&nbsp;★{% endif %}
-          </h3>
+          </h2>
         </a>
         {% if post.category == 'Travel' %}
           {% if post.cover_url %}
