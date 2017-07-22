@@ -51,11 +51,16 @@ li {
   padding: 2px 4px;
 }
 
+.site-header .site-nav {
+  display: flex;
+}
+
 #subscribe-btn {
   font-size: 0.75rem;
-  padding: 0.35rem 1rem;
+  padding: 0.25rem 1rem;
   background-color: #5d0081;
   color: white;
   border-radius: 0.2rem;
   margin-top: -0.4rem;
+  margin-left: 2em;
 }
