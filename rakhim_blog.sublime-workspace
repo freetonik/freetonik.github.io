@@ -88,47 +88,22 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/rakhim/Desktop/engnews1.mdown",
+			"contents": "§---\nlayout: category\ntitle: Английский язык\npermalink: /english/\n---\n\n<div>\n  <h1>Английский язык</h1>\n  <p>\n    Главный язык жителей планеты.\n  </p>\n</div>\n\n{% comment %} This is pretty horrible, fix me, please, I want to die. {% endcomment %}\n{% assign postCount = '1' %}\n{% for post in site.posts %}\n{% if post.category == 'English' %}\n{% capture postCount %}{{ postCount | plus: '1' }}{% endcapture %}\n{% endif %}\n{% endfor %}\n\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"border: none;\">\n{% for post in site.posts %}\n{% if post.category == 'English' %}\n{% capture postCount %}{{ postCount | minus: '1' }}{% endcapture %}\n    <tr>\n        <td style=\"text-align: right;border-top: none; width:2em;\">§{{ postCount }}.</td>\n        <td style=\"text-align: left;border-top: none;\">\n          <a href=\"{{ post.url | prepend: site.baseurl }}\" class=\"post-link\">\n            {{ post.title }}\n          </a>\n        </td>\n    </tr>\n{% endif %}\n{% endfor %}\n</table>\n",
+			"file": "english.html",
+			"file_size": 1016,
+			"file_write_time": 131251519640000000,
 			"settings":
 			{
-				"buffer_size": 7233,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "1"
-			}
-		},
-		{
-			"file": "_posts/2017-07-17-english_newsletter_launch.md",
-			"settings":
-			{
-				"buffer_size": 11873,
+				"buffer_size": 963,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/intro.html",
+			"file": "rakhim_blog.sublime-project",
 			"settings":
 			{
-				"buffer_size": 1887,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/post_footer.html",
-			"settings":
-			{
-				"buffer_size": 737,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "thanks.md",
-			"settings":
-			{
-				"buffer_size": 132,
+				"buffer_size": 45,
 				"line_ending": "Unix"
 			}
 		}
@@ -140,8 +115,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 307.0,
-		"last_filter": "mark",
+		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -289,7 +264,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 467.0
+		"width": 485.0
 	},
 	"console":
 	{
@@ -314,6 +289,11 @@
 	],
 	"file_history":
 	[
+		"/Users/rakhim/code/rakh.im/thanks.md",
+		"/Users/rakhim/code/rakh.im/_includes/post_footer.html",
+		"/Users/rakhim/code/rakh.im/_includes/intro.html",
+		"/Users/rakhim/Desktop/engnews1.mdown",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-17-english_newsletter_launch.md",
 		"/Users/rakhim/code/rakh.im/english_newsletter_thanks.md",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-16-weekend_cleanup.md",
 		"/Users/rakhim/.bash_profile",
@@ -436,12 +416,7 @@
 		"/Users/rakhim/code/courses/intro_to_programming_ru_course/16-env/README.md",
 		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/16-env/Environment_ru.md",
 		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/16-env/README.md",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/business/welcome/index.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/_header.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/stack_members/project_session_group.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/pages/help.ru.haml",
-		"/Users/rakhim/code/hexlet/docker-compose.yml",
-		"/Users/rakhim/code/hexlet/Makefile"
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/business/welcome/index.html.haml"
 	],
 	"find":
 	{
@@ -641,79 +616,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/rakhim/Desktop/engnews1.mdown",
+					"file": "english.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7233,
+						"buffer_size": 963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								7233
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 294.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2017-07-17-english_newsletter_launch.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11873,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								115,
-								127
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/intro.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1887,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								227,
-								808
+								1,
+								1
 							]
 						],
 						"settings":
@@ -729,47 +644,16 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_includes/post_footer.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 737,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								729,
-								729
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "thanks.md",
-					"semi_transient": false,
+					"buffer": 1,
+					"file": "rakhim_blog.sublime-project",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 132,
+						"buffer_size": 45,
 						"regions":
 						{
 						},
@@ -777,7 +661,7 @@
 						[
 							[
 								0,
-								132
+								0
 							]
 						],
 						"settings":
@@ -785,13 +669,13 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -857,6 +741,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"engh",
+				"english.html"
+			],
 			[
 				"postfoo",
 				"_includes/post_footer.html"
@@ -1364,22 +1252,22 @@
 			[
 				"exerciseunit",
 				"services/web/app/views/web/courses/lessons/exercise_unit.html.haml"
-			],
-			[
-				"theoryunit",
-				"services/web/app/views/web/courses/lessons/theory_unit.html.haml"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/Dropbox/Writing/writing.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -1397,7 +1285,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":

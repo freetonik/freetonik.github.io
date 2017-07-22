@@ -40,6 +40,7 @@ bitcoin_url:
 paypal_url:
 flattr_button:
 instagram_username: freetonik
+youtube_username: freetonik
 
 # Post sharing icons
 show_sharing_icons: true
