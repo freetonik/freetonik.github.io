@@ -128,7 +128,8 @@ cover_url: "/images/posts/me_happy_eng.jpg"
 
 <p>Посмотрите видео в первый раз:</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/txtqmHmWJvg" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/txtqmHmWJvg" frameborder="0" allowfullscreen></iframe></div>
 
 <p>Потом изучите эти слова:</p>
 
@@ -210,7 +211,8 @@ cover_url: "/images/posts/me_happy_eng.jpg"
 
 <p>Вот мой пример:</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G02AEnl81E4" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G02AEnl81E4" frameborder="0" allowfullscreen></iframe></div>
 
 <p>Будет круто, если вы тоже запишете свою попытку и пришлете мне. Я включу ее в следующий выпуск.</p>
 

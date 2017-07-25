@@ -55,25 +55,15 @@ li {
   display: flex;
 }
 
-.navigation-cta-btn {
-  font-size: 0.75rem !important;
-  padding: 0.25rem 1rem;
-  border-radius: 0.2rem;
-  margin-top: -0.4rem;
-  white-space: nowrap;
-}
 
 #subscribe-btn {
-  background-color: #5d0081;
-  color: white;
-  margin-left: 1.5em;
+  color: #6b0055;
+  border-bottom: 1px solid rgba(107, 0, 85, 0.36);
 }
 
 #donate-btn {
-  background-color: #ab7e00;
-  color: white;
-  margin-left: 0.5em;
-  margin-right: 1.5em;
+  color: #866800;
+  border-bottom: 1px solid rgba(134, 104, 0, 0.28);
 }
 
 .post hr {
