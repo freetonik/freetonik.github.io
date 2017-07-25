@@ -7,7 +7,7 @@ layout: default
     {% for post in paginator.posts %}
       <div class="post py3">        
         
-        <h2 class="post-title mt0 mb0">
+        <h2 class="post-title mt0">
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
           {{ post.title }}
           {% if post.featured %}&nbsp;★{% endif %}
