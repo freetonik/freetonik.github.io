@@ -55,16 +55,25 @@ li {
   display: flex;
 }
 
-#subscribe-btn {
-  font-size: 0.75rem;
+.navigation-cta-btn {
+  font-size: 0.75rem !important;
   padding: 0.25rem 1rem;
-  background-color: #5d0081;
-  color: white;
   border-radius: 0.2rem;
   margin-top: -0.4rem;
-  margin-left: 1em;
-  margin-right: 1em;
   white-space: nowrap;
+}
+
+#subscribe-btn {
+  background-color: #5d0081;
+  color: white;
+  margin-left: 1.5em;
+}
+
+#donate-btn {
+  background-color: #ab7e00;
+  color: white;
+  margin-left: 0.5em;
+  margin-right: 1.5em;
 }
 
 .post hr {

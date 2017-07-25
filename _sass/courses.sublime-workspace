@@ -88,28 +88,17 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2017-07-25-instagram.md",
 			"settings":
 			{
-				"buffer_size": 9787,
-				"encoding": "UTF-8",
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "/Users/rakhim/Google Drive/Translations/The bad reasons you’re forced to work long hours.md",
 			"settings":
 			{
-				"buffer_size": 1454,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_posts.scss",
-			"settings":
-			{
-				"buffer_size": 597,
+				"buffer_size": 5642,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -123,16 +112,20 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "jekyl",
+		"last_filter": "marked",
 		"selected_items":
 		[
 			[
-				"jekyl",
-				"Jekyll: New post"
+				"marked",
+				"Marked"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"jekyl",
+				"Jekyll: New post"
 			],
 			[
 				"preview",
@@ -283,7 +276,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 485.0
+		"width": 557.0
 	},
 	"console":
 	{
@@ -304,8 +297,9 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/rakhim/code/rakh.im",
-		"/Users/rakhim/code/rakh.im/css"
+		"/Users/rakhim/code/courses",
+		"/Users/rakhim/code/courses/git_course",
+		"/Users/rakhim/code/courses/git_course/470-git-branching"
 	],
 	"file_history":
 	[
@@ -440,7 +434,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -635,47 +629,15 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2017-07-25-instagram.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9787,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								850,
-								850
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1454,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -689,11 +651,7 @@
 						"settings":
 						{
 							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -703,20 +661,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "_sass/_posts.scss",
+					"buffer": 1,
+					"file": "/Users/rakhim/Google Drive/Translations/The bad reasons you’re forced to work long hours.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 597,
+						"buffer_size": 5642,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								101,
-								101
+								772,
+								772
 							]
 						],
 						"settings":
@@ -724,9 +682,7 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -740,7 +696,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 35.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -786,7 +742,7 @@
 		"height": 136.0
 	},
 	"pinned_build_system": "",
-	"project": "rakhim_blog.sublime-project",
+	"project": "courses.sublime-project",
 	"replace":
 	{
 		"height": 50.0
@@ -1321,7 +1277,7 @@
 		[
 			[
 				"",
-				"~/code/hexlet/hexlet.sublime-project"
+				"~/code/rakh.im/rakhim_blog.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -1342,7 +1298,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 251.0,
 	"status_bar_visible": true,
 	"template_settings":
