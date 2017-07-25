@@ -5,15 +5,15 @@ layout: default
 <div class="home">
   <div class="posts">
     {% for post in paginator.posts %}
-      <div class="post py3">
-        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+      <div class="post py3">        
         
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <h2 class="post-title">
-            {{ post.title }}
-            {% if post.featured %}&nbsp;★{% endif %}
-          </h2>
-        </a>
+        <h2 class="post-title mt0 mb0">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+          {{ post.title }}
+          {% if post.featured %}&nbsp;★{% endif %}
+          </a>
+        </h2>
+        
         {% if post.category == 'Travel' %}
           {% if post.cover_url %}
             <p>
@@ -23,7 +23,8 @@ layout: default
             </p>
           {% endif %}
         {% endif %}
-        <p class="post-summary">
+
+        <article class="post-summary">
           {% if post.excerpt_separator %}
             {{ post.excerpt }}
 
@@ -38,8 +39,19 @@ layout: default
           {% else %}
             {{ post.content }}
           {% endif %}
-        </p>
+        </article>
+
+        <div>
+          <span class="post-meta">
+            <small>
+              {{ post.date | date: site.date_format }} {% include post_meta_category.html %}
+            </small>
+          </span>
+        </div>
       </div>
+
+
+
     {% endfor %}
   </div>
 

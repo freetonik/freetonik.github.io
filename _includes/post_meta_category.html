@@ -1,17 +1,17 @@
-{% if page.category == "Translations" %}
+{% if page.category == "Translations" or post.category == "Translations" %}
   · <a href="/translations">Переводы</a>
-{% elsif page.category == "Lectures" %}
+{% elsif page.category == "Lectures" or post.category == "Lectures" %}
   · <a href="/lectures">Лекции</a>
-{% elsif page.category == "Articles" %}
+{% elsif page.category == "Articles" or post.category == "Articles" %}
   · <a href="/articles">Статьи</a>
-{% elsif page.category == "English" %}
+{% elsif page.category == "English" or post.category == "English" %}
   · <a href="/english">Английский язык</a>
-{% elsif page.category == "Video" %}
+{% elsif page.category == "Video" or post.category == "Video" %}
   · Видео
-{% elsif page.category == "Linker" %}
+{% elsif page.category == "Linker" or post.category == "Linker" %}
   · <a href="/linker">Ссылкомат</a>
-{% elsif page.category == "Notes" %}
-  · Заметки
-  {% elsif page.category == "Books" %}
+{% elsif page.category == "Books" or post.category == "Books" %}
   · Книги
+{% else %}
+  · Заметки
 {% endif %}

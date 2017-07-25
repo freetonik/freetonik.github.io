@@ -22,3 +22,15 @@ a.nodecoration:focus,
 a.nodecoration:active {
   background-image: none;
 }
+
+
+a.post-link {
+  color: #333;
+  border: none;
+}
+
+a.post-link:hover,
+a.nodecoration:focus,
+a.nodecoration:active {
+  color: #48046f;
+}
