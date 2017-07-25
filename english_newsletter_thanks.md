@@ -6,4 +6,4 @@ permalink: /english_newsletter_thanks/
 
 Супер! Вы купили месяц подписки на рассылку об английском языке. 
 
-**[Обратно в блог →](/english_newsletter_launch/).**
+**[Обратно в блог →](/english_newsletter_launch/)**
