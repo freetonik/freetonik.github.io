@@ -88,22 +88,72 @@
 	"buffers":
 	[
 		{
-			"contents": "§---\nlayout: category\ntitle: Английский язык\npermalink: /english/\n---\n\n<div>\n  <h1>Английский язык</h1>\n  <p>\n    Главный язык жителей планеты.\n  </p>\n</div>\n\n{% comment %} This is pretty horrible, fix me, please, I want to die. {% endcomment %}\n{% assign postCount = '1' %}\n{% for post in site.posts %}\n{% if post.category == 'English' %}\n{% capture postCount %}{{ postCount | plus: '1' }}{% endcapture %}\n{% endif %}\n{% endfor %}\n\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"border: none;\">\n{% for post in site.posts %}\n{% if post.category == 'English' %}\n{% capture postCount %}{{ postCount | minus: '1' }}{% endcapture %}\n    <tr>\n        <td style=\"text-align: right;border-top: none; width:2em;\">§{{ postCount }}.</td>\n        <td style=\"text-align: left;border-top: none;\">\n          <a href=\"{{ post.url | prepend: site.baseurl }}\" class=\"post-link\">\n            {{ post.title }}\n          </a>\n        </td>\n    </tr>\n{% endif %}\n{% endfor %}\n</table>\n",
-			"file": "english.html",
-			"file_size": 1016,
-			"file_write_time": 131251519640000000,
+			"file": "_sass/_basscss.scss",
 			"settings":
 			{
-				"buffer_size": 963,
+				"buffer_size": 580,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "rakhim_blog.sublime-project",
+			"file": "_sass/rakhim.scss",
 			"settings":
 			{
-				"buffer_size": 45,
+				"buffer_size": 1043,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/basscss/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 2827,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/intro.html",
+			"settings":
+			{
+				"buffer_size": 2030,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/navigation.html",
+			"settings":
+			{
+				"buffer_size": 458,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rakhim/Dropbox/Writing/English Newsletter/2.md",
+			"settings":
+			{
+				"buffer_size": 7830,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rakhim/Dropbox/Writing/English Newsletter/2.html",
+			"settings":
+			{
+				"buffer_size": 9770,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -119,6 +169,22 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markprev",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markdprev",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"mark",
 				"Set Syntax: Markdown"
@@ -142,10 +208,6 @@
 			[
 				"htm",
 				"Set Syntax: HTML"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"setmar",
@@ -216,10 +278,6 @@
 				"Set Syntax: JavaScript"
 			],
 			[
-				"preview",
-				"Markdown Preview: Copy to Clipboard"
-			],
-			[
 				"syntaxmar",
 				"Set Syntax: Markdown"
 			],
@@ -264,7 +322,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 485.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -285,15 +343,51 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/rakhim/code/rakh.im"
+		"/Users/rakhim/code/rakh.im",
+		"/Users/rakhim/code/rakh.im/_layouts",
+		"/Users/rakhim/code/rakh.im/_sass/bootstrap",
+		"/Users/rakhim/code/rakh.im/css"
 	],
 	"file_history":
 	[
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/2.md",
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/2.html",
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/Prepaid subscribers.txt",
+		"/Users/rakhim/Downloads/history-24.07.2017-18_18.csv",
+		"/Users/rakhim/Downloads/English Newsletter Subscribers - Sheet2.csv",
+		"/Users/rakhim/code/rakh.im/_posts/2009-08-21-aint.markdown",
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/_template.md",
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/1.md",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-17-english_newsletter_launch.md",
+		"/Users/rakhim/Downloads/history-24.07.2017-12_16.csv",
+		"/Users/rakhim/code/rakh.im/js/likely.js",
+		"/Users/rakhim/code/rakh.im/_sass/bootstrap/_variables.scss",
+		"/Users/rakhim/code/rakh.im/css/pixyll.scss",
+		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
+		"/Users/rakhim/code/rakh.im/_layouts/default.html",
+		"/Users/rakhim/code/rakh.im/_includes/intro.html",
+		"/Users/rakhim/code/rakh.im/_sass/_variables.scss",
+		"/Users/rakhim/code/rakh.im/_includes/header.html",
+		"/Users/rakhim/code/rakh.im/_site/css/pixyll.css",
+		"/Users/rakhim/code/rakh.im/_sass/_measure.scss",
+		"/Users/rakhim/code/rakh.im/index.html",
+		"/Users/rakhim/code/rakh.im/_sass/_header.scss",
+		"/Users/rakhim/code/rakh.im/_sass/_media-queries.scss",
+		"/Users/rakhim/code/rakh.im/_sass/_typography.scss",
+		"/Users/rakhim/code/rakh.im/_sass/_code.scss",
+		"/Users/rakhim/code/rakh.im/_sass/basscss/_base-typography.scss",
+		"/Users/rakhim/code/rakh.im/_sass/_basscss.scss",
+		"/Users/rakhim/code/rakh.im/_sass/_base.scss",
+		"/Users/rakhim/code/rakh.im/_includes/navigation.html",
+		"/Users/rakhim/code/rakh.im/donate.html",
+		"/Users/rakhim/code/rakh.im/_sass/_links.scss",
+		"/Users/rakhim/code/rakh.im/_config.yml",
+		"/Users/rakhim/code/rakh.im/english.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-22-tools_overhead.md",
+		"/Users/rakhim/code/rakh.im/.gitignore",
 		"/Users/rakhim/code/rakh.im/thanks.md",
 		"/Users/rakhim/code/rakh.im/_includes/post_footer.html",
-		"/Users/rakhim/code/rakh.im/_includes/intro.html",
 		"/Users/rakhim/Desktop/engnews1.mdown",
-		"/Users/rakhim/code/rakh.im/_posts/2017-07-17-english_newsletter_launch.md",
 		"/Users/rakhim/code/rakh.im/english_newsletter_thanks.md",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-16-weekend_cleanup.md",
 		"/Users/rakhim/.bash_profile",
@@ -337,15 +431,10 @@
 		"/Users/rakhim/code/courses/introq.txt",
 		"/Users/rakhim/code/courses/missing.txt",
 		"/Users/rakhim/code/rakh.im/_posts/2017-01-11-producing_a_lesson.md",
-		"/Users/rakhim/code/rakh.im/_sass/_links.scss",
-		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
-		"/Users/rakhim/code/rakh.im/css/pixyll.scss",
 		"/Users/rakhim/code/courses/intro_to_programming_ru_course/18-pure/questions.yml",
-		"/Users/rakhim/code/rakh.im/_site/css/pixyll.css",
 		"/Users/rakhim/code/rakh.im/_sass/_posts.scss",
 		"/Users/rakhim/code/rakh.im/courses.html",
 		"/Users/rakhim/code/rakh.im/_includes/head.html",
-		"/Users/rakhim/code/rakh.im/_config.yml",
 		"/Users/rakhim/code/rakh.im/translations.html",
 		"/Users/rakhim/Desktop/new.txt",
 		"/Users/rakhim/Desktop/comm.txt",
@@ -388,45 +477,18 @@
 		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/_footer.ru.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/welcome/index.ru.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/shared/course_challenges/_menu.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/categories/courses/index.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/welcome.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/account/subscriptions/_enabled_subscription.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/userpages.scss",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/professions/_for_member.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/account/subscriptions/show.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/pricing/show.ru.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/shared/_plans.ru.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/application.scss",
-		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/welcome.scss",
-		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/pricing.scss",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/blog/posts/show.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/controllers/concerns/custom_url_helpers.rb",
-		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/deps/_helpscout_beacon.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/javascript/packs/challenge/components/RemovedParts.jsx",
-		"/Users/rakhim/code/hexlet/services/web/app/javascript/packs/challenge/components/Solution.jsx",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/email_unsubscribe_reasons/new.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/landings/_footer.en.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/jobs/_submit_request_modal.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/show.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/courses.scss",
-		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/18-pure/Pure functions_ru.md",
-		"/Users/rakhim/code/courses/intro_to_programming_ru_course/16-env/spec.yml",
-		"/Users/rakhim/code/courses/intro_to_programming_ru_course/17-types/spec.yml",
-		"/Users/rakhim/code/courses/intro_to_programming_ru_course/17-types/README.md",
-		"/Users/rakhim/code/courses/intro_to_programming_ru_course/16-env/README.md",
-		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/16-env/Environment_ru.md",
-		"/Users/rakhim/Google Drive/Content/Courses/Intro to programming/16-env/README.md",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/business/welcome/index.html.haml"
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/categories/courses/index.html.haml"
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
 		"height": 93.0,
 		"where_history":
 		[
+			"/Users/rakhim/code/rakh.im",
 			"/Users/rakhim/code/hguides",
 			"/Users/rakhim/code/courses/intro_to_programming_ru_course",
 			"/Users/rakhim/code/rakh.im",
@@ -461,6 +523,30 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"div",
+			"<img",
+			"sm-col-6",
+			"img src",
+			"iframe",
+			"<img src=",
+			";29",
+			".;;",
+			"sm-",
+			" class=\"post-summary\"",
+			"col col-6",
+			"header",
+			"$measure-width",
+			"base-font-size",
+			"h",
+			"header",
+			"container",
+			"h1-narrow",
+			"$h3",
+			"$base-font-size",
+			"monospace-font-family",
+			"monospace",
+			"heading-font-family",
+			"$heading-font-family",
 			"след",
 			" (",
 			"-",
@@ -564,31 +650,7 @@
 			" $9",
 			" $14",
 			" $9",
-			"+ ",
-			"for_members",
-			"video_only_for_member",
-			"Video is available to course",
-			"Video is available to course members with paid membership\nVideo is available to course members with paid membership",
-			"De",
-			"exit",
-			"user_preferences_wizard",
-			"modal-backdrop",
-			"http",
-			"%h4 ",
-			"%img.img-fluid.rounded.float-left.mr-3.mb-2",
-			"%a",
-			"a",
-			"%a",
-			"        %p",
-			"loat-left.mr-3",
-			".row",
-			".col-10.mb-5",
-			".mr-3",
-			"%strong",
-			".col-12.col-lg-6.mb-5",
-			".col-xs-12",
-			"%h3 ",
-			"%h3"
+			"+ "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -611,24 +673,121 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "english.html",
+					"file": "_sass/_basscss.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 963,
+						"buffer_size": 580,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1,
-								1
+								578,
+								578
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_sass/rakhim.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1041,
+								1041
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_sass/basscss/_grid.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								8
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/intro.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								760,
+								760
 							]
 						],
 						"settings":
@@ -644,16 +803,80 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "rakhim_blog.sublime-project",
-					"semi_transient": true,
+					"buffer": 4,
+					"file": "_includes/header.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								221
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_includes/navigation.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								400
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/rakhim/Dropbox/Writing/English Newsletter/2.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7830,
 						"regions":
 						{
 						},
@@ -669,13 +892,44 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/rakhim/Dropbox/Writing/English Newsletter/2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -683,7 +937,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -732,7 +986,7 @@
 	"project": "rakhim_blog.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -742,16 +996,140 @@
 		"selected_items":
 		[
 			[
+				"rakcss",
+				"_sass/rakhim.scss"
+			],
+			[
+				"aint",
+				"_posts/2009-08-21-aint.markdown"
+			],
+			[
+				"english_newsletter_launch",
+				"_posts/2017-07-17-english_newsletter_launch.md"
+			],
+			[
+				"navigation",
+				"_includes/navigation.html"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"likel",
+				"js/likely.js"
+			],
+			[
+				"intro",
+				"_includes/intro.html"
+			],
+			[
+				"gridscss",
+				"_sass/basscss/_grid.scss"
+			],
+			[
+				"bascss",
+				"_sass/_basscss.scss"
+			],
+			[
+				"pixcs",
+				"_site/css/pixyll.css"
+			],
+			[
+				"rak",
+				"_sass/rakhim.scss"
+			],
+			[
+				"rakh",
+				"_sass/rakhim.scss"
+			],
+			[
+				"varia",
+				"_sass/_variables.scss"
+			],
+			[
+				"bootvari",
+				"_sass/bootstrap/_variables.scss"
+			],
+			[
+				"indexht",
+				"index.html"
+			],
+			[
+				"pix",
+				"css/pixyll.scss"
+			],
+			[
+				"typog",
+				"_sass/_typography.scss"
+			],
+			[
+				"typo",
+				"_sass/_typography.scss"
+			],
+			[
+				"css/pixyll.scss",
+				"css/pixyll.scss"
+			],
+			[
+				"bootsvaria",
+				"_sass/bootstrap/_variables.scss"
+			],
+			[
+				"base",
+				"_sass/_base.scss"
+			],
+			[
+				"var",
+				"_sass/_variables.scss"
+			],
+			[
+				"nav",
+				"_includes/navigation.html"
+			],
+			[
+				"navig",
+				"_includes/navigation.html"
+			],
+			[
+				"lincss",
+				"_sass/_links.scss"
+			],
+			[
+				"donta",
+				"donate.html"
+			],
+			[
+				"basscss",
+				"_sass/_basscss.scss"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"navi",
+				"_includes/navigation.html"
+			],
+			[
+				"tools",
+				"_posts/2017-07-22-tools_overhead.md"
+			],
+			[
 				"engh",
 				"english.html"
 			],
 			[
 				"postfoo",
 				"_includes/post_footer.html"
-			],
-			[
-				"intro",
-				"_includes/intro.html"
 			],
 			[
 				"than",
@@ -784,10 +1162,6 @@
 			[
 				"fooe",
 				"_includes/footer.html"
-			],
-			[
-				"header",
-				"_includes/header.html"
 			],
 			[
 				"cname",
@@ -828,10 +1202,6 @@
 			[
 				"head.",
 				"_includes/head.html"
-			],
-			[
-				"config",
-				"_config.yml"
 			],
 			[
 				"markd",
@@ -890,10 +1260,6 @@
 				"_sass/_links.scss"
 			],
 			[
-				"rak",
-				"_sass/rakhim.scss"
-			],
-			[
 				"pixy",
 				"css/pixyll.scss"
 			],
@@ -910,24 +1276,12 @@
 				"09-iterative/questions.yml"
 			],
 			[
-				"varia",
-				"_sass/_variables.scss"
-			],
-			[
 				"linkcs",
 				"_sass/_links.scss"
 			],
 			[
-				"rakcss",
-				"_sass/rakhim.scss"
-			],
-			[
 				"rakhimcs",
 				"_sass/rakhim.scss"
-			],
-			[
-				"conf",
-				"_config.yml"
 			],
 			[
 				"trans",
@@ -1152,106 +1506,6 @@
 			[
 				"profileedit",
 				"services/web/app/views/web/account/profiles/edit.html.haml"
-			],
-			[
-				"subscrihaml",
-				"services/web/app/views/web/account/subscriptions/show.html.haml"
-			],
-			[
-				"modalhaml",
-				"services/web/app/views/web/shared/challenge/_readme_modal.html.haml"
-			],
-			[
-				"unsubhaml",
-				"services/web/app/views/web/account/subscriptions/_unsubscribe_modal.html.haml"
-			],
-			[
-				"freehaml",
-				"services/web/app/views/web/courses/free.html.haml"
-			],
-			[
-				"sharedcourses",
-				"services/web/app/views/web/shared/course_challenges/_menu.html.haml"
-			],
-			[
-				"_coursehaml",
-				"services/web/app/views/web/shared/_course.html.haml"
-			],
-			[
-				"courseshaml",
-				"services/web/app/views/web/courses/show.html.haml"
-			],
-			[
-				"about",
-				"services/web/app/views/web/pages/about.ru.html.haml"
-			],
-			[
-				"courscss",
-				"services/web/app/assets/stylesheets/courses.scss"
-			],
-			[
-				"theory",
-				"services/web/app/views/web/courses/lessons/_theory.html.haml"
-			],
-			[
-				"coursecss",
-				"services/web/app/assets/stylesheets/courses.scss"
-			],
-			[
-				"ee.",
-				"_posts/2010-04-26-ee.markdown"
-			],
-			[
-				"pipie",
-				"_posts/2011-02-12-pi_pie.markdown"
-			],
-			[
-				"businessindex",
-				"services/web/app/views/web/business/welcome/index.html.haml"
-			],
-			[
-				"hedaer",
-				"services/web/app/views/layouts/_header.html.haml"
-			],
-			[
-				"pehader",
-				"services/web/app/views/layouts/_header.html.haml"
-			],
-			[
-				"profelanding",
-				"services/web/app/views/web/professions/_landing.html.haml"
-			],
-			[
-				"projectindexru",
-				"services/web/app/views/web/projects/index.ru.html.haml"
-			],
-			[
-				"projruha",
-				"services/web/app/views/web/stack_members/project_session_group.html.haml"
-			],
-			[
-				"projectsruhaml",
-				"services/web/app/views/web/projects/index.ru.html.haml"
-			],
-			[
-				"docker-compose",
-				"docker-compose.yml"
-			],
-			[
-				"quizbox",
-				"services/web/app/frontend/quiz/components/QuizBox.js"
-			],
-			[
-				"variables",
-				"services/web/app/assets/stylesheets/variables.scss"
-			],
-			[
-				"appscs",
-				"services/web/app/assets/stylesheets/application.scss"
-			],
-			[
-				"exerciseunit",
-				"services/web/app/views/web/courses/lessons/exercise_unit.html.haml"
 			]
 		],
 		"width": 0.0
@@ -1285,8 +1539,8 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 224.0,
+	"side_bar_visible": false,
+	"side_bar_width": 251.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -1,23 +1,10 @@
-{% if site.show_social_icons %}
-  {% if site.twitter_username %}
-    <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"></a>
-  {% endif %}
-  {% if site.youtube_username %}
-    <a class="fa fa-youtube-play" href="https://youtube.com/user/{{ site.youtube_username }}"></a>
-  {% endif %}
-  {% if site.facebook_username %}
-    <a class="fa fa-facebook" href="https://facebook.com/{{ site.facebook_username }}"></a>
-  {% endif %}
-  {% if site.linkedin_username %}
-    <a class="fa fa-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"></a>
-  {% endif %}
-  {% if site.github_username %}
-    <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
-  {% endif %}
-  {% if site.instagram_username %}
-    <a class="fa fa-instagram" href="https://instagram.com/{{ site.instagram_username }}"></a>
-  {% endif %}
+<div>
+
+  <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"></a>
+  <a class="fa fa-youtube-play" href="https://youtube.com/user/{{ site.youtube_username }}"></a>
+  <a class="fa fa-instagram" href="https://instagram.com/{{ site.instagram_username }}"></a>
   <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"></a>
-{% endif %}
 
 <a href="/subscribe" id="subscribe-btn" class="btn nodecoration">Подписаться на блог</a>
+
+</div>
