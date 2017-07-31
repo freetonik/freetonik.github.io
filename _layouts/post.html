@@ -24,24 +24,6 @@ layout: default
   {% if page.update_date %}
     <span class="post-meta">UPD: {{ page.update_date | date: site.date_format }}</span><br>
   {% endif %}
-
-  {% if page.original_url || page.original_url_trans %}
-    <p class="right-align">
-      <small>
-        <a target="_blank" href="{{ page.original_url }}">Впервые опубликовано на {{ page.original_url_source }}</a>
-
-        {% if page.original_url %}
-          {% if page.original_url_trans %}
-            /
-          {% endif %}
-        {% endif %}
-
-        {% if page.original_url_trans %}
-          <a target="_blank" href="{{ page.original_url_trans }}">Оригинал от {{ page.original_author_trans }}</a>
-        {% endif %}
-      </small>
-    </p>
-  {% endif %}
 </div>
 
 <div class="mt3">

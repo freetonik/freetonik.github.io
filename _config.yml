@@ -66,4 +66,6 @@ sass:
   compressed: true
 
 # Gems
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - jekyll-redirect-from
