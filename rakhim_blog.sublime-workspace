@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
 				"text-",
 				"text-align"
 			],
@@ -24,10 +32,6 @@
 				"container"
 			],
 			[
-				"mar",
-				"margin-bottom"
-			],
-			[
 				"зареги",
 				"зарегистрироваться"
 			],
@@ -46,10 +50,6 @@
 			[
 				"max-",
 				"max-width"
-			],
-			[
-				"margin",
-				"margin-right"
 			],
 			[
 				"fun",
@@ -88,29 +88,55 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2017-07-25-instagram.md",
+			"file": "english_letter/index.html",
 			"settings":
 			{
-				"buffer_size": 9787,
+				"buffer_size": 2212,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "_includes/intro.html",
 			"settings":
 			{
-				"buffer_size": 1454,
+				"buffer_size": 2019,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_sass/_posts.scss",
+			"file": "_posts/2017-07-31-english_newsletter_update.markdown",
 			"settings":
 			{
-				"buffer_size": 597,
+				"buffer_size": 1554,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "english_newsletter_thanks.md",
+			"settings":
+			{
+				"buffer_size": 210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1455,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 232,
 				"line_ending": "Unix"
 			}
 		}
@@ -122,17 +148,25 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "jekyl",
+		"height": 87.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"jekyl",
+				"newpost",
 				"Jekyll: New post"
 			],
 			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jekyl",
+				"Jekyll: New post"
 			],
 			[
 				"preview",
@@ -149,10 +183,6 @@
 			[
 				"mark",
 				"Set Syntax: Markdown"
-			],
-			[
-				"html",
-				"Set Syntax: HTML"
 			],
 			[
 				"yml",
@@ -283,7 +313,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 485.0
+		"width": 557.0
 	},
 	"console":
 	{
@@ -305,24 +335,40 @@
 	"expanded_folders":
 	[
 		"/Users/rakhim/code/rakh.im",
-		"/Users/rakhim/code/rakh.im/css"
+		"/Users/rakhim/code/rakh.im/_posts",
+		"/Users/rakhim/code/rakh.im/_sass/basscss",
+		"/Users/rakhim/code/rakh.im/css",
+		"/Users/rakhim/code/rakh.im/english_letter"
 	],
 	"file_history":
 	[
-		"/Users/rakhim/code/rakh.im/_includes/intro.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-17-english_newsletter_launch.md",
+		"/Users/rakhim/code/rakh.im/_includes/head.html",
+		"/Users/rakhim/code/rakh.im/thanks.md",
 		"/Users/rakhim/code/rakh.im/_layouts/post.html",
+		"/Users/rakhim/code/rakh.im/_config.yml",
+		"/Users/rakhim/code/rakh.im/english_club/english_letter_issue_1.html",
+		"/Users/rakhim/code/rakh.im/english_club/index.html",
+		"/Users/rakhim/code/rakh.im/_sass/_links.scss",
+		"/Users/rakhim/code/rakh.im/english_letter.html",
+		"/Users/rakhim/code/rakh.im/_sass/basscss/_utility-white-space.scss",
+		"/Users/rakhim/Downloads/members.csv",
+		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
+		"/Users/rakhim/code/rakh.im/_includes/navigation.html",
+		"/Users/rakhim/code/rakh.im/_sass/basscss/_buttons-blue.scss",
+		"/Users/rakhim/code/rakh.im/donate.html",
+		"/Users/rakhim/code/rakh.im/english_newsletter_thanks.md",
+		"/Users/rakhim/code/rakh.im/_sass/_media-queries.scss",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-14-dil_jalay.md",
 		"/Users/rakhim/code/rakh.im/_sass/_posts.scss",
-		"/Users/rakhim/code/rakh.im/_includes/post_meta_category.html",
 		"/Users/rakhim/code/rakh.im/index.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-25-instagram.md",
+		"/Users/rakhim/code/rakh.im/_includes/header.html",
+		"/Users/rakhim/code/rakh.im/_sass/_header.scss",
+		"/Users/rakhim/code/rakh.im/_includes/intro.html",
+		"/Users/rakhim/code/rakh.im/_includes/post_meta_category.html",
 		"/Users/rakhim/code/rakh.im/_layouts/default.html",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-24-boring.md",
-		"/Users/rakhim/code/rakh.im/_posts/2017-07-25-instagram.md",
-		"/Users/rakhim/code/rakh.im/_sass/_header.scss",
-		"/Users/rakhim/code/rakh.im/_includes/header.html",
-		"/Users/rakhim/code/rakh.im/_config.yml",
-		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_links.scss",
-		"/Users/rakhim/code/rakh.im/_includes/navigation.html",
 		"/Users/rakhim/Dropbox/Writing/English Newsletter/2.html",
 		"/Users/rakhim/Dropbox/Writing/English Newsletter/2.md",
 		"/Users/rakhim/code/rakh.im/_sass/basscss/_grid.scss",
@@ -333,7 +379,6 @@
 		"/Users/rakhim/code/rakh.im/_posts/2009-08-21-aint.markdown",
 		"/Users/rakhim/Dropbox/Writing/English Newsletter/_template.md",
 		"/Users/rakhim/Dropbox/Writing/English Newsletter/1.md",
-		"/Users/rakhim/code/rakh.im/_posts/2017-07-17-english_newsletter_launch.md",
 		"/Users/rakhim/Downloads/history-24.07.2017-12_16.csv",
 		"/Users/rakhim/code/rakh.im/js/likely.js",
 		"/Users/rakhim/code/rakh.im/_sass/bootstrap/_variables.scss",
@@ -341,19 +386,15 @@
 		"/Users/rakhim/code/rakh.im/_sass/_variables.scss",
 		"/Users/rakhim/code/rakh.im/_site/css/pixyll.css",
 		"/Users/rakhim/code/rakh.im/_sass/_measure.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_media-queries.scss",
 		"/Users/rakhim/code/rakh.im/_sass/_typography.scss",
 		"/Users/rakhim/code/rakh.im/_sass/_code.scss",
 		"/Users/rakhim/code/rakh.im/_sass/basscss/_base-typography.scss",
 		"/Users/rakhim/code/rakh.im/_sass/_base.scss",
-		"/Users/rakhim/code/rakh.im/donate.html",
 		"/Users/rakhim/code/rakh.im/english.html",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-22-tools_overhead.md",
 		"/Users/rakhim/code/rakh.im/.gitignore",
-		"/Users/rakhim/code/rakh.im/thanks.md",
 		"/Users/rakhim/code/rakh.im/_includes/post_footer.html",
 		"/Users/rakhim/Desktop/engnews1.mdown",
-		"/Users/rakhim/code/rakh.im/english_newsletter_thanks.md",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-16-weekend_cleanup.md",
 		"/Users/rakhim/.bash_profile",
 		"/Users/rakhim/code/rakh.im/rakhim_blog.sublime-project",
@@ -397,7 +438,6 @@
 		"/Users/rakhim/code/rakh.im/_posts/2017-01-11-producing_a_lesson.md",
 		"/Users/rakhim/code/courses/intro_to_programming_ru_course/18-pure/questions.yml",
 		"/Users/rakhim/code/rakh.im/courses.html",
-		"/Users/rakhim/code/rakh.im/_includes/head.html",
 		"/Users/rakhim/code/rakh.im/translations.html",
 		"/Users/rakhim/Desktop/new.txt",
 		"/Users/rakhim/Desktop/comm.txt",
@@ -429,14 +469,7 @@
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_landing.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_for_member.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/professions/_landing.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/projects/index.ru.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/pages/about.en.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/_footer.en.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/shared/_catalog_menu.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/admin/courses/index.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/teams/index.ru.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/landings/_footer.ru.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/welcome/index.en.html.haml"
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/projects/index.ru.html.haml"
 	],
 	"find":
 	{
@@ -447,6 +480,9 @@
 		"height": 93.0,
 		"where_history":
 		[
+			"/Users/rakhim/code/rakh.im",
+			"/Users/rakhim/code/rakh.im/_sass",
+			"/Users/rakhim/code/rakh.im/css",
 			"/Users/rakhim/code/rakh.im/_sass",
 			"/Users/rakhim/code/rakh.im/css",
 			"/Users/rakhim/code/rakh.im/_sass",
@@ -485,6 +521,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"github",
+			"redirect",
+			"p>",
+			"p",
+			"a:",
+			"i",
+			"<iframe src=\"https://money",
+			"<iframe ",
+			"id=\"subscribe-btn\" ",
+			"yout",
+			"div",
+			".site-header .site-title",
+			"px-responsive",
+			"site-header",
+			"navigation-cta-btn",
+			" i",
 			"p",
 			".post-meta",
 			"page",
@@ -596,23 +648,7 @@
 			"3813",
 			"208,64,0,0.3",
 			".post-link .post-title",
-			"weight",
-			".post-link .post-title",
-			"weigh",
-			"К курсу",
-			"introduction_to_programming",
-			"introduction_to_c",
-			"swift_101",
-			"javascript_101",
-			"introduction_to_algorithms",
-			"introduction_to_c",
-			"operating_systems",
-			"logic",
-			"introduction_to_programming",
-			"4",
-			"category: video",
-			"http:",
-			"h1"
+			"weight"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -640,19 +676,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2017-07-25-instagram.md",
+					"file": "english_letter/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9787,
+						"buffer_size": 2212,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								850,
-								850
+								70,
+								84
 							]
 						],
 						"settings":
@@ -660,7 +696,9 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -671,19 +709,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "index.html",
+					"file": "_includes/intro.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1454,
+						"buffer_size": 2019,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								645,
+								645
 							]
 						],
 						"settings":
@@ -704,19 +742,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "_sass/_posts.scss",
+					"file": "_posts/2017-07-31-english_newsletter_update.markdown",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 597,
+						"buffer_size": 1554,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								101,
-								101
+								1554,
+								1554
 							]
 						],
 						"settings":
@@ -724,15 +762,106 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "english_newsletter_thanks.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1201.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -799,16 +928,96 @@
 		"selected_items":
 		[
 			[
+				"thanks",
+				"english_newsletter_thanks.md"
+			],
+			[
+				"intro",
+				"_includes/intro.html"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"_layouts/post.html",
+				"_layouts/post.html"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"launc",
+				"_posts/2017-07-17-english_newsletter_launch.md"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"laun",
+				"_posts/2017-07-17-english_newsletter_launch.md"
+			],
+			[
+				"launch",
+				"_posts/2017-07-17-english_newsletter_launch.md"
+			],
+			[
+				"whites",
+				"_sass/basscss/_utility-white-space.scss"
+			],
+			[
+				"links",
+				"_sass/_links.scss"
+			],
+			[
+				"button",
+				"_sass/basscss/_buttons-blue.scss"
+			],
+			[
+				"englaun",
+				"_posts/2017-07-17-english_newsletter_launch.md"
+			],
+			[
+				"navi",
+				"_includes/navigation.html"
+			],
+			[
+				"dil",
+				"_posts/2017-07-14-dil_jalay.md"
+			],
+			[
+				"mediaq",
+				"_sass/_media-queries.scss"
+			],
+			[
+				"rakcss",
+				"_sass/rakhim.scss"
+			],
+			[
+				"navig",
+				"_includes/navigation.html"
+			],
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"donta",
+				"donate.html"
+			],
+			[
 				"posts",
 				"_sass/_posts.scss"
 			],
 			[
 				"index",
 				"index.html"
-			],
-			[
-				"intro",
-				"_includes/intro.html"
 			],
 			[
 				"instag",
@@ -835,10 +1044,6 @@
 				"_sass/_posts.scss"
 			],
 			[
-				"rakcss",
-				"_sass/rakhim.scss"
-			],
-			[
 				"conf",
 				"_config.yml"
 			],
@@ -853,14 +1058,6 @@
 			[
 				"layout",
 				"_layouts/default.html"
-			],
-			[
-				"header",
-				"_sass/_header.scss"
-			],
-			[
-				"links",
-				"_sass/_links.scss"
 			],
 			[
 				"categ",
@@ -947,16 +1144,8 @@
 				"_sass/_variables.scss"
 			],
 			[
-				"navig",
-				"_includes/navigation.html"
-			],
-			[
 				"lincss",
 				"_sass/_links.scss"
-			],
-			[
-				"donta",
-				"donate.html"
 			],
 			[
 				"basscss",
@@ -965,14 +1154,6 @@
 			[
 				"gitig",
 				".gitignore"
-			],
-			[
-				"config",
-				"_config.yml"
-			],
-			[
-				"navi",
-				"_includes/navigation.html"
 			],
 			[
 				"tools",
@@ -1017,10 +1198,6 @@
 			[
 				"bootst",
 				"_posts/2017-07-10-bootstrap.md"
-			],
-			[
-				"head",
-				"_includes/head.html"
 			],
 			[
 				"markdo",
@@ -1261,54 +1438,6 @@
 			[
 				"footerru",
 				"services/web/app/views/layouts/_footer.ru.html.haml"
-			],
-			[
-				"curl",
-				"services/web/app/controllers/concerns/custom_url_helpers.rb"
-			],
-			[
-				"blogshow",
-				"services/web/app/views/web/blog/posts/show.html.haml"
-			],
-			[
-				"pric",
-				"services/web/app/assets/stylesheets/pricing.scss"
-			],
-			[
-				"appscss",
-				"services/web/app/assets/stylesheets/application.scss"
-			],
-			[
-				"welcomcss",
-				"services/web/app/assets/stylesheets/welcome.scss"
-			],
-			[
-				"scss",
-				"services/web/app/assets/stylesheets/application.scss"
-			],
-			[
-				"web/shared/plans",
-				"services/web/app/views/web/shared/_plans.ru.html.haml"
-			],
-			[
-				"pricing",
-				"services/web/app/views/web/pricing/show.ru.html.haml"
-			],
-			[
-				"ruvi",
-				"services/web/config/locales/ru.views.yml"
-			],
-			[
-				"enabled_subscription",
-				"services/web/app/views/web/account/subscriptions/_enabled_subscription.html.haml"
-			],
-			[
-				"subscshow",
-				"services/web/app/views/web/account/subscriptions/show.html.haml"
-			],
-			[
-				"aboutr",
-				"services/web/app/views/web/pages/about.ru.html.haml"
 			]
 		],
 		"width": 0.0
@@ -1316,12 +1445,16 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "wri",
 		"selected_items":
 		[
 			[
+				"wri",
+				"~/Dropbox/Writing/writing.sublime-project"
+			],
+			[
 				"",
-				"~/code/hexlet/hexlet.sublime-project"
+				"~/code/rakh.im/rakhim_blog.sublime-project"
 			]
 		],
 		"width": 380.0
