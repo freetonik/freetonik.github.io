@@ -31,4 +31,3 @@ cover_url: "/images/posts/me_happy_eng.jpg"
 
 1. Во-первых, спасибо! Вы первыми поверили в этот проект и стали [early adopter](https://en.wikipedia.org/wiki/Early_adopter)'ом :)
 2. Вам на почту придет купон на 30% скидку на первые два месяца рассылки по новой системе.
-3. Вы
