@@ -4,22 +4,6 @@
 		"selected_items":
 		[
 			[
-				"text-",
-				"text-align"
-			],
-			[
-				"margin-",
-				"margin-bottom"
-			],
-			[
-				"text",
-				"text-align"
-			],
-			[
-				"bacl",
-				"background-color"
-			],
-			[
 				"co",
 				"container"
 			],
@@ -50,6 +34,10 @@
 			[
 				"margin",
 				"margin-right"
+			],
+			[
+				"text-",
+				"text-decoration"
 			],
 			[
 				"fun",
@@ -87,22 +75,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/rakhim/Google Drive/Translations/The bad reasons you’re forced to work long hours.md",
-			"settings":
-			{
-				"buffer_size": 5642,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -118,26 +90,6 @@
 			[
 				"marked",
 				"Marked"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"jekyl",
-				"Jekyll: New post"
-			],
-			[
-				"preview",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"markprev",
-				"Markdown Preview: Save to HTML"
-			],
-			[
-				"markdprev",
-				"Markdown Preview: Save to HTML"
 			],
 			[
 				"mark",
@@ -162,6 +114,10 @@
 			[
 				"htm",
 				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
 			],
 			[
 				"setmar",
@@ -232,6 +188,10 @@
 				"Set Syntax: JavaScript"
 			],
 			[
+				"preview",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
 				"syntaxmar",
 				"Set Syntax: Markdown"
 			],
@@ -295,60 +255,53 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/rakhim/code/courses",
-		"/Users/rakhim/code/courses/git_course",
-		"/Users/rakhim/code/courses/git_course/470-git-branching"
-	],
 	"file_history":
 	[
-		"/Users/rakhim/code/rakh.im/_includes/intro.html",
-		"/Users/rakhim/code/rakh.im/_layouts/post.html",
-		"/Users/rakhim/code/rakh.im/_sass/_posts.scss",
-		"/Users/rakhim/code/rakh.im/_includes/post_meta_category.html",
-		"/Users/rakhim/code/rakh.im/index.html",
-		"/Users/rakhim/code/rakh.im/_layouts/default.html",
-		"/Users/rakhim/code/rakh.im/_posts/2017-07-24-boring.md",
-		"/Users/rakhim/code/rakh.im/_posts/2017-07-25-instagram.md",
-		"/Users/rakhim/code/rakh.im/_sass/_header.scss",
-		"/Users/rakhim/code/rakh.im/_includes/header.html",
-		"/Users/rakhim/code/rakh.im/_config.yml",
-		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_links.scss",
-		"/Users/rakhim/code/rakh.im/_includes/navigation.html",
-		"/Users/rakhim/Dropbox/Writing/English Newsletter/2.html",
-		"/Users/rakhim/Dropbox/Writing/English Newsletter/2.md",
-		"/Users/rakhim/code/rakh.im/_sass/basscss/_grid.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_basscss.scss",
-		"/Users/rakhim/Dropbox/Writing/English Newsletter/Prepaid subscribers.txt",
-		"/Users/rakhim/Downloads/history-24.07.2017-18_18.csv",
-		"/Users/rakhim/Downloads/English Newsletter Subscribers - Sheet2.csv",
-		"/Users/rakhim/code/rakh.im/_posts/2009-08-21-aint.markdown",
 		"/Users/rakhim/Dropbox/Writing/English Newsletter/_template.md",
-		"/Users/rakhim/Dropbox/Writing/English Newsletter/1.md",
-		"/Users/rakhim/code/rakh.im/_posts/2017-07-17-english_newsletter_launch.md",
-		"/Users/rakhim/Downloads/history-24.07.2017-12_16.csv",
-		"/Users/rakhim/code/rakh.im/js/likely.js",
-		"/Users/rakhim/code/rakh.im/_sass/bootstrap/_variables.scss",
-		"/Users/rakhim/code/rakh.im/css/pixyll.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_variables.scss",
-		"/Users/rakhim/code/rakh.im/_site/css/pixyll.css",
-		"/Users/rakhim/code/rakh.im/_sass/_measure.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_media-queries.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_typography.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_code.scss",
-		"/Users/rakhim/code/rakh.im/_sass/basscss/_base-typography.scss",
-		"/Users/rakhim/code/rakh.im/_sass/_base.scss",
-		"/Users/rakhim/code/rakh.im/donate.html",
-		"/Users/rakhim/code/rakh.im/english.html",
+		"/Users/rakhim/Library/Application Support/Marked 2/Custom CSS/Custom Example.css",
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/HTML/3.html",
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/3.md",
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/3.html",
+		"/Users/rakhim/Dropbox/Writing/English Newsletter/2.md",
+		"/Users/rakhim/Dropbox/Writing/Mindfool telegram/3 Three.md",
+		"/Users/rakhim/Dropbox/Writing/writing.sublime-project",
+		"/Users/rakhim/Dropbox/Writing/Mindfool telegram/2 Two",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-22-tools_overhead.md",
-		"/Users/rakhim/code/rakh.im/.gitignore",
-		"/Users/rakhim/code/rakh.im/thanks.md",
+		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
+		"/Users/rakhim/code/rakh.im/_posts/2012-08-19-quebec_profanity.markdown",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-19-cpu_vs_gpu.md",
+		"/Users/rakhim/code/rakh.im/_sass/_basscss.scss",
+		"/Users/rakhim/code/rakh.im/subscribe.html",
+		"/Users/rakhim/code/rakh.im/_includes/navigation.html",
+		"/Users/rakhim/code/rakh.im/_includes/header.html",
+		"/Users/rakhim/code/rakh.im/_layouts/default.html",
 		"/Users/rakhim/code/rakh.im/_includes/post_footer.html",
-		"/Users/rakhim/Desktop/engnews1.mdown",
-		"/Users/rakhim/code/rakh.im/english_newsletter_thanks.md",
-		"/Users/rakhim/code/rakh.im/_posts/2017-07-16-weekend_cleanup.md",
+		"/Users/rakhim/code/rakh.im/_posts/2014-07-28-english-at-ulcamp14.markdown",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-14-dil_jalay.md",
+		"/Users/rakhim/code/rakh.im/_sass/_variables.scss",
+		"/Users/rakhim/code/rakh.im/_layouts/post.html",
+		"/Users/rakhim/code/rakh.im/index.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-18-mindfool.md",
+		"/Users/rakhim/code/rakh.im/_sass/_header.scss",
+		"/Users/rakhim/code/rakh.im/_sass/_links.scss",
+		"/Users/rakhim/code/rakh.im/_includes/head.html",
+		"/Users/rakhim/code/rakh.im/css/pixyll.scss",
+		"/Users/rakhim/code/rakh.im/_sass/basscss/_base-buttons.scss",
+		"/Users/rakhim/code/rakh.im/_sass/_footer.scss",
+		"/Users/rakhim/code/rakh.im/_sass/_posts.scss",
+		"/Users/rakhim/code/rakh.im/_config.yml",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-20-linker_16.md",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-20-finnish_pronouns.md",
+		"/Users/rakhim/code/rakh.im/_includes/share_buttons.html",
+		"/Users/rakhim/code/rakh.im/_site/css/pixyll.css",
+		"/Users/rakhim/code/rakh.im/_sass/_typography.scss",
+		"/Users/rakhim/code/rakh.im/_sass/likely.scss",
+		"/Users/rakhim/Downloads/ilya-birman-likely-2.2.1/likely.js",
+		"/Users/rakhim/code/rakh.im/_sass/basscss/_utility-white-space.scss",
+		"/Users/rakhim/code/rakh.im/lectures.html",
+		"/Users/rakhim/code/rakh.im/english.html",
+		"/Users/rakhim/Dropbox/Apps/Editorial/Mindfool telegram/1 One.md",
+		"/Users/rakhim/code/rakh.im/_posts/2009-10-10-feynman_chess.markdown",
 		"/Users/rakhim/.bash_profile",
 		"/Users/rakhim/code/rakh.im/rakhim_blog.sublime-project",
 		"/Users/rakhim/code/courses/git_course/spec.yml",
@@ -370,6 +323,7 @@
 		"/Users/rakhim/code/hguides/_layouts/default.html",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-07-lock_in.md",
 		"/Users/rakhim/code/rakh.im/books.html",
+		"/Users/rakhim/code/rakh.im/_includes/post_meta_category.html",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-07-weak.md",
 		"/Users/rakhim/code/rakh.im/_layouts/category.html",
 		"/Users/rakhim/code/courses/intro_to_programming_ru_course/12-mutators/questions.yml",
@@ -391,7 +345,6 @@
 		"/Users/rakhim/code/rakh.im/_posts/2017-01-11-producing_a_lesson.md",
 		"/Users/rakhim/code/courses/intro_to_programming_ru_course/18-pure/questions.yml",
 		"/Users/rakhim/code/rakh.im/courses.html",
-		"/Users/rakhim/code/rakh.im/_includes/head.html",
 		"/Users/rakhim/code/rakh.im/translations.html",
 		"/Users/rakhim/Desktop/new.txt",
 		"/Users/rakhim/Desktop/comm.txt",
@@ -430,19 +383,19 @@
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/admin/courses/index.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/teams/index.ru.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/landings/_footer.ru.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/welcome/index.en.html.haml"
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/welcome/index.en.html.haml",
+		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/_footer.ru.html.haml"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
 		"height": 93.0,
 		"where_history":
 		[
-			"/Users/rakhim/code/rakh.im/_sass",
-			"/Users/rakhim/code/rakh.im/css",
+			"/Users/rakhim/code/courses/intro_to_programming_ru_course",
 			"/Users/rakhim/code/rakh.im/_sass",
 			"/Users/rakhim/code/rakh.im",
 			"/Users/rakhim/code/hguides",
@@ -479,38 +432,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"p",
-			".post-meta",
-			"page",
-			"post-link",
-			"/ ",
-			"div",
 			"<img",
-			"sm-col-6",
-			"img src",
-			"iframe",
-			"<img src=",
-			";29",
-			".;;",
-			"sm-",
-			" class=\"post-summary\"",
-			"col col-6",
-			"header",
-			"$measure-width",
-			"base-font-size",
-			"h",
-			"header",
-			"container",
-			"h1-narrow",
-			"$h3",
-			"$base-font-size",
-			"monospace-font-family",
-			"monospace",
-			"heading-font-family",
-			"$heading-font-family",
-			"след",
-			" (",
-			"-",
+			"- ",
+			"console.log",
+			"rakhim",
+			"h3",
+			".post-footer",
+			".site-header a",
+			"serif",
+			"lato",
+			"script",
+			"likely.js",
+			"Video",
+			"\"category: Video\"",
 			"http:",
 			"http://",
 			"http://i.",
@@ -606,7 +540,26 @@
 			"4",
 			"category: video",
 			"http:",
-			"h1"
+			"h1",
+			" $24",
+			" $9",
+			" $14",
+			" $9",
+			"+ ",
+			"for_members",
+			"video_only_for_member",
+			"Video is available to course",
+			"Video is available to course members with paid membership\nVideo is available to course members with paid membership",
+			"De",
+			"exit",
+			"user_preferences_wizard",
+			"modal-backdrop",
+			"http",
+			"%h4 ",
+			"%img.img-fluid.rounded.float-left.mr-3.mb-2",
+			"%a",
+			"a",
+			"%a"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -629,74 +582,14 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/rakhim/Google Drive/Translations/The bad reasons you’re forced to work long hours.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5642,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								772,
-								772
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 35.0
 	},
 	"input":
 	{
@@ -745,7 +638,7 @@
 	"project": "courses.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -755,63 +648,31 @@
 		"selected_items":
 		[
 			[
-				"posts",
-				"_sass/_posts.scss"
+				"rakcsss",
+				"_sass/rakhim.scss"
+			],
+			[
+				"tools",
+				"_posts/2017-07-22-tools_overhead.md"
+			],
+			[
+				"ssh",
+				"_posts/2017-07-10-ssh.md"
+			],
+			[
+				"mindfoo",
+				"_posts/2017-07-18-mindfool.md"
 			],
 			[
 				"index",
 				"index.html"
 			],
 			[
-				"intro",
-				"_includes/intro.html"
+				"subscr",
+				"subscribe.html"
 			],
 			[
-				"instag",
-				"_posts/2017-07-25-instagram.md"
-			],
-			[
-				"layo",
-				"_layouts/default.html"
-			],
-			[
-				"post",
-				"_layouts/post.html"
-			],
-			[
-				"post_meta_category",
-				"_includes/post_meta_category.html"
-			],
-			[
-				"intr",
-				"_includes/intro.html"
-			],
-			[
-				"postcs",
-				"_sass/_posts.scss"
-			],
-			[
-				"rakcss",
-				"_sass/rakhim.scss"
-			],
-			[
-				"conf",
-				"_config.yml"
-			],
-			[
-				"haeder",
-				"_includes/header.html"
-			],
-			[
-				"nav",
-				"_includes/navigation.html"
-			],
-			[
-				"layout",
-				"_layouts/default.html"
-			],
-			[
-				"header",
+				"headcss",
 				"_sass/_header.scss"
 			],
 			[
@@ -819,132 +680,172 @@
 				"_sass/_links.scss"
 			],
 			[
-				"categ",
-				"_includes/post_meta_category.html"
-			],
-			[
-				"boring",
-				"_posts/2017-07-24-boring.md"
-			],
-			[
-				"aint",
-				"_posts/2009-08-21-aint.markdown"
-			],
-			[
-				"english_newsletter_launch",
-				"_posts/2017-07-17-english_newsletter_launch.md"
-			],
-			[
-				"navigation",
-				"_includes/navigation.html"
-			],
-			[
-				"likel",
-				"js/likely.js"
-			],
-			[
-				"gridscss",
-				"_sass/basscss/_grid.scss"
-			],
-			[
-				"bascss",
-				"_sass/_basscss.scss"
-			],
-			[
-				"pixcs",
-				"_site/css/pixyll.css"
-			],
-			[
-				"rak",
+				"rakcss",
 				"_sass/rakhim.scss"
-			],
-			[
-				"rakh",
-				"_sass/rakhim.scss"
-			],
-			[
-				"varia",
-				"_sass/_variables.scss"
-			],
-			[
-				"bootvari",
-				"_sass/bootstrap/_variables.scss"
-			],
-			[
-				"indexht",
-				"index.html"
 			],
 			[
 				"pix",
 				"css/pixyll.scss"
 			],
 			[
-				"typog",
-				"_sass/_typography.scss"
+				"butt",
+				"_sass/basscss/_base-buttons.scss"
 			],
 			[
-				"typo",
-				"_sass/_typography.scss"
+				"naviga",
+				"_includes/navigation.html"
 			],
 			[
-				"css/pixyll.scss",
-				"css/pixyll.scss"
+				"header",
+				"_includes/header.html"
 			],
 			[
-				"bootsvaria",
-				"_sass/bootstrap/_variables.scss"
+				"layt",
+				"_layouts/default.html"
 			],
 			[
-				"base",
-				"_sass/_base.scss"
+				"indexh",
+				"index.html"
 			],
 			[
-				"var",
+				"indexht",
+				"index.html"
+			],
+			[
+				"posth",
+				"_layouts/post.html"
+			],
+			[
+				"varia",
 				"_sass/_variables.scss"
 			],
 			[
-				"navig",
-				"_includes/navigation.html"
+				"diljal",
+				"_posts/2017-07-14-dil_jalay.md"
 			],
 			[
-				"lincss",
-				"_sass/_links.scss"
+				"basebut",
+				"_sass/basscss/_base-buttons.scss"
 			],
 			[
-				"donta",
-				"donate.html"
-			],
-			[
-				"basscss",
+				"bass",
 				"_sass/_basscss.scss"
 			],
 			[
-				"gitig",
-				".gitignore"
+				"head",
+				"_includes/head.html"
 			],
 			[
-				"config",
-				"_config.yml"
+				"gpu",
+				"_posts/2017-07-19-cpu_vs_gpu.md"
 			],
 			[
-				"navi",
-				"_includes/navigation.html"
+				"ulcamp",
+				"_posts/2014-07-28-english-at-ulcamp14.markdown"
 			],
 			[
-				"tools",
-				"_posts/2017-07-22-tools_overhead.md"
+				"quebe",
+				"_posts/2012-08-19-quebec_profanity.markdown"
 			],
 			[
-				"engh",
-				"english.html"
+				"layout",
+				"_layouts/default.html"
+			],
+			[
+				"postfoot",
+				"_includes/post_footer.html"
+			],
+			[
+				"footercss",
+				"_sass/_footer.scss"
+			],
+			[
+				"pixscs",
+				"css/pixyll.scss"
+			],
+			[
+				"ixscss",
+				"_site/css/pixyll.css"
+			],
+			[
+				"pixy",
+				"css/pixyll.scss"
+			],
+			[
+				"footercs",
+				"_sass/_footer.scss"
 			],
 			[
 				"postfoo",
 				"_includes/post_footer.html"
 			],
 			[
-				"than",
-				"thanks.md"
+				"pixcss",
+				"_site/css/pixyll.css"
+			],
+			[
+				"css",
+				"_site/css/pixyll.css"
+			],
+			[
+				"typog",
+				"_sass/_typography.scss"
+			],
+			[
+				"rakh",
+				"_sass/rakhim.scss"
+			],
+			[
+				"sharebut",
+				"_includes/share_buttons.html"
+			],
+			[
+				"likely",
+				"_sass/likely.scss"
+			],
+			[
+				"share_buttons",
+				"_includes/share_buttons.html"
+			],
+			[
+				"whites",
+				"_sass/basscss/_utility-white-space.scss"
+			],
+			[
+				"lecture",
+				"lectures.html"
+			],
+			[
+				"engl",
+				"english.html"
+			],
+			[
+				"link",
+				"_sass/_links.scss"
+			],
+			[
+				"confi",
+				"_config.yml"
+			],
+			[
+				"post",
+				"_layouts/post.html"
+			],
+			[
+				"makef",
+				"Makefile"
+			],
+			[
+				"feynman",
+				"_posts/2009-10-10-feynman_chess.markdown"
+			],
+			[
+				"cpuvs",
+				"_posts/2017-07-19-cpu_vs_gpu.md"
+			],
+			[
+				"weeke",
+				"_posts/2017-07-16-weekend_cleanup.md"
 			],
 			[
 				"post_meta_category.html",
@@ -959,10 +860,6 @@
 				"_includes/footer.html"
 			],
 			[
-				"ssh",
-				"_posts/2017-07-10-ssh.md"
-			],
-			[
 				"fooe",
 				"_includes/footer.html"
 			],
@@ -973,10 +870,6 @@
 			[
 				"bootst",
 				"_posts/2017-07-10-bootstrap.md"
-			],
-			[
-				"head",
-				"_includes/head.html"
 			],
 			[
 				"markdo",
@@ -999,12 +892,12 @@
 				"css/hexlet_guides.css"
 			],
 			[
-				"posth",
-				"_layouts/post.html"
-			],
-			[
 				"head.",
 				"_includes/head.html"
+			],
+			[
+				"config",
+				"_config.yml"
 			],
 			[
 				"markd",
@@ -1021,6 +914,10 @@
 			[
 				"foot",
 				"_includes/footer.html"
+			],
+			[
+				"categ",
+				"_layouts/category.html"
 			],
 			[
 				"testq",
@@ -1055,8 +952,8 @@
 				"_posts/2017-01-11-producing_a_lesson.md"
 			],
 			[
-				"pixy",
-				"css/pixyll.scss"
+				"rak",
+				"_sass/rakhim.scss"
 			],
 			[
 				"pureq",
@@ -1079,12 +976,20 @@
 				"_sass/rakhim.scss"
 			],
 			[
+				"conf",
+				"_config.yml"
+			],
+			[
 				"trans",
 				"translations.html"
 			],
 			[
 				"transl",
 				"translations.html"
+			],
+			[
+				"intro",
+				"_includes/intro.html"
 			],
 			[
 				"welcomeru",
@@ -1253,18 +1158,6 @@
 			[
 				"ruvi",
 				"services/web/config/locales/ru.views.yml"
-			],
-			[
-				"enabled_subscription",
-				"services/web/app/views/web/account/subscriptions/_enabled_subscription.html.haml"
-			],
-			[
-				"subscshow",
-				"services/web/app/views/web/account/subscriptions/show.html.haml"
-			],
-			[
-				"aboutr",
-				"services/web/app/views/web/pages/about.ru.html.haml"
 			]
 		],
 		"width": 0.0
@@ -1277,7 +1170,15 @@
 		[
 			[
 				"",
+				"~/code/rakh.im/_sass/courses.sublime-workspace"
+			],
+			[
+				"ru",
 				"~/code/rakh.im/rakhim_blog.sublime-project"
+			],
+			[
+				"writ",
+				"~/Dropbox/Writing/writing.sublime-project"
 			]
 		],
 		"width": 380.0

@@ -115,6 +115,15 @@
 			}
 		},
 		{
+			"file": "_posts/2017-08-01-copyings_vs_moving_files.md",
+			"settings":
+			{
+				"buffer_size": 609,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "_layouts/post.html",
 			"settings":
 			{
@@ -166,10 +175,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 87.0,
-		"last_filter": "",
+		"height": 227.0,
+		"last_filter": "remove",
 		"selected_items":
 		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
 			[
 				"newpost",
 				"Jekyll: New post"
@@ -229,10 +242,6 @@
 			[
 				"jsx",
 				"Set Syntax: JSX"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
 			],
 			[
 				"sublimelinter",
@@ -359,6 +368,7 @@
 	],
 	"file_history":
 	[
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-19-cpu_vs_gpu.md",
 		"/Users/rakhim/code/rakh.im/_includes/footer.html",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-17-english_newsletter_launch.md",
 		"/Users/rakhim/code/rakh.im/_includes/head.html",
@@ -485,8 +495,7 @@
 		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/variables.scss",
 		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/my/application.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_landing.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_for_member.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/professions/_landing.html.haml"
+		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_for_member.html.haml"
 	],
 	"find":
 	{
@@ -688,7 +697,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -721,7 +730,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -754,7 +763,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -770,8 +779,8 @@
 						"selection":
 						[
 							[
-								1554,
-								1554
+								1497,
+								1497
 							]
 						],
 						"settings":
@@ -782,14 +791,45 @@
 							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1225.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
+					"file": "_posts/2017-08-01-copyings_vs_moving_files.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "_layouts/post.html",
 					"semi_transient": false,
 					"settings":
@@ -818,11 +858,11 @@
 						"translation.y": 466.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "_includes/post_footer.html",
 					"semi_transient": false,
 					"settings":
@@ -849,11 +889,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "english_newsletter_thanks.md",
 					"semi_transient": false,
 					"settings":
@@ -880,11 +920,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
@@ -908,14 +948,14 @@
 							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1201.0,
+						"translation.y": 460.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "Gemfile",
 					"semi_transient": false,
 					"settings":
@@ -942,7 +982,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
@@ -1008,6 +1048,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"gpu",
+				"_posts/2017-07-19-cpu_vs_gpu.md"
+			],
+			[
+				"copy",
+				"_posts/2017-08-01-copyings_vs_moving_files.md"
+			],
 			[
 				"postfoo",
 				"_includes/post_footer.html"
@@ -1511,14 +1559,6 @@
 			[
 				"varscss",
 				"services/web/app/assets/stylesheets/variables.scss"
-			],
-			[
-				"profformember",
-				"services/web/app/views/web/professions/_for_member.html.haml"
-			],
-			[
-				"footerru",
-				"services/web/app/views/layouts/_footer.ru.html.haml"
 			]
 		],
 		"width": 0.0
@@ -1526,9 +1566,17 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "wi",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/code/courses/courses.sublime-project"
+			],
+			[
+				"wr",
+				"~/Dropbox/Writing/writing.sublime-project"
+			],
 			[
 				"wi",
 				"~/Dropbox/Writing/writing.sublime-project"
@@ -1536,10 +1584,6 @@
 			[
 				"wri",
 				"~/Dropbox/Writing/writing.sublime-project"
-			],
-			[
-				"",
-				"~/code/rakh.im/rakhim_blog.sublime-project"
 			]
 		],
 		"width": 380.0
