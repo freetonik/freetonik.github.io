@@ -88,51 +88,6 @@
 	"buffers":
 	[
 		{
-			"file": "english_letter/index.html",
-			"settings":
-			{
-				"buffer_size": 2316,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/intro.html",
-			"settings":
-			{
-				"buffer_size": 2019,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2017-07-31-english_newsletter_update.markdown",
-			"settings":
-			{
-				"buffer_size": 1554,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2017-08-01-copyings_vs_moving_files.md",
-			"settings":
-			{
-				"buffer_size": 609,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_layouts/post.html",
-			"settings":
-			{
-				"buffer_size": 1989,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "_includes/post_footer.html",
 			"settings":
 			{
@@ -175,10 +130,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 227.0,
-		"last_filter": "remove",
+		"height": 247.0,
+		"last_filter": "html",
 		"selected_items":
 		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"newpo",
+				"Jekyll: New post"
+			],
 			[
 				"remove",
 				"Package Control: Remove Package"
@@ -190,10 +153,6 @@
 			[
 				"install",
 				"Package Control: Install Package"
-			],
-			[
-				"html",
-				"Set Syntax: HTML"
 			],
 			[
 				"jekyl",
@@ -340,7 +299,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 557.0
+		"width": 485.0
 	},
 	"console":
 	{
@@ -368,12 +327,18 @@
 	],
 	"file_history":
 	[
+		"/Users/rakhim/code/rakh.im/_layouts/post.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-18-mindfool.md",
+		"/Users/rakhim/code/rakh.im/english_letter/index.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-08-02-engbadass.markdown",
+		"/Users/rakhim/code/rakh.im/_posts/2017-07-31-english_newsletter_update.markdown",
+		"/Users/rakhim/code/rakh.im/_includes/intro.html",
+		"/Users/rakhim/code/rakh.im/_posts/2017-08-01-copyings_vs_moving_files.md",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-19-cpu_vs_gpu.md",
 		"/Users/rakhim/code/rakh.im/_includes/footer.html",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-17-english_newsletter_launch.md",
 		"/Users/rakhim/code/rakh.im/_includes/head.html",
 		"/Users/rakhim/code/rakh.im/thanks.md",
-		"/Users/rakhim/code/rakh.im/_layouts/post.html",
 		"/Users/rakhim/code/rakh.im/_config.yml",
 		"/Users/rakhim/code/rakh.im/english_club/english_letter_issue_1.html",
 		"/Users/rakhim/code/rakh.im/english_club/index.html",
@@ -393,7 +358,6 @@
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-25-instagram.md",
 		"/Users/rakhim/code/rakh.im/_includes/header.html",
 		"/Users/rakhim/code/rakh.im/_sass/_header.scss",
-		"/Users/rakhim/code/rakh.im/_includes/intro.html",
 		"/Users/rakhim/code/rakh.im/_includes/post_meta_category.html",
 		"/Users/rakhim/code/rakh.im/_layouts/default.html",
 		"/Users/rakhim/code/rakh.im/_posts/2017-07-24-boring.md",
@@ -490,12 +454,7 @@
 		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/challenges/_theory.html.haml",
 		"/Users/rakhim/code/hexlet/services/web/app/javascript/packs/user_preferences/index.jsx",
 		"/Users/rakhim/code/hexlet/services/web/app/javascript/packs/user_preferences/containers/Wizard.js",
-		"/Users/rakhim/code/hexlet/services/web/test/fixtures/users.yml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/pages/about.ru.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/assets/stylesheets/variables.scss",
-		"/Users/rakhim/code/hexlet/services/web/app/views/layouts/web/my/application.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_landing.html.haml",
-		"/Users/rakhim/code/hexlet/services/web/app/views/web/courses/_for_member.html.haml"
+		"/Users/rakhim/code/hexlet/services/web/test/fixtures/users.yml"
 	],
 	"find":
 	{
@@ -702,167 +661,6 @@
 			[
 				{
 					"buffer": 0,
-					"file": "english_letter/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2316,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1375,
-								1375
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 237.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/intro.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2019,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								645,
-								645
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_posts/2017-07-31-english_newsletter_update.markdown",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1554,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1497,
-								1497
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_posts/2017-08-01-copyings_vs_moving_files.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 609,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								136,
-								136
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_layouts/post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1989,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 466.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "_includes/post_footer.html",
 					"semi_transient": false,
 					"settings":
@@ -889,11 +687,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 1,
 					"file": "english_newsletter_thanks.md",
 					"semi_transient": false,
 					"settings":
@@ -920,11 +718,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 2,
 					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
@@ -951,11 +749,11 @@
 						"translation.y": 460.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 3,
 					"file": "Gemfile",
 					"semi_transient": false,
 					"settings":
@@ -982,7 +780,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1048,6 +846,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"mindfoo",
+				"_posts/2017-07-18-mindfool.md"
+			],
 			[
 				"letterind",
 				"english_letter/index.html"
@@ -1554,10 +1356,6 @@
 			],
 			[
 				"footeen",
-				"services/web/app/views/layouts/_footer.en.html.haml"
-			],
-			[
-				"footeren",
 				"services/web/app/views/layouts/_footer.en.html.haml"
 			]
 		],
