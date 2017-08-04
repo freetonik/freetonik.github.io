@@ -35,7 +35,7 @@
     {% elsif page.category == "Linker" %}
     <meta property="og:image" content="{{ '/images/posts/reading.jpg' | prepend: site.baseurl | prepend: site.url }}">
     {% else %}
-    <meta property="og:image" content="{{ '/images/posts/wanderer.jpg' | prepend: site.baseurl | prepend: site.url }}"
+    <meta property="og:image" content="{{ '/images/posts/wanderer.jpg' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
 
     <meta property="og:description" content="{% if page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
