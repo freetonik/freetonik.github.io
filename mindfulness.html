@@ -1,0 +1,29 @@
+---
+layout: category
+title: Осознанность и медитация
+permalink: /mindfulness/
+---
+
+<p>
+  <h1>Осознанность и медитация</h1>
+  <p>Фундаментальная проблема, с которой помогает совладать медитация, это разум. Он — безумие, хаотичное и неадекватное создание. Пьяная макака. Пока я писал эти абзацы, мой разум успел подумать о десятке разных вещей, вспомнить кучку разных моментов из жизни, поволноваться о том, как воспримут эту публикацию, а на фоне еще пел отрывки песен группы Outkast. А ведь я занят, зачем мне все это?</p>
+
+  <p>
+    <i class="fa fa-telegram" aria-hidden="true"></i> Я веду канал в Телеграме про осознанность и медитацию – <a href="https://t.me/mindfool">@mindfool</a>.
+  </p>
+</p>
+
+<div class="posts">
+  {% for post in site.posts %}
+
+  {% if post.category == 'Mindfulness' %}
+  <div class="post py3">
+    <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}{% if post.featured %}&nbsp;★{% endif %}</h3></a>
+    <p class="post-summary">
+      {{ post.content }}
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>

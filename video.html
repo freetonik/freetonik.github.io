@@ -1,0 +1,28 @@
+---
+layout: category
+title: Мои видео
+permalink: /video/
+---
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<p>
+  <h1>Мои видео</h1>
+  <p>У меня есть <a href="https://youtube.com/user/freetonik">канал на Ютубе</a>. Подписывайтесь :)</p>
+  <div class="g-ytsubscribe" data-channel="freetonik" data-layout="full" data-count="default"></div>
+</p>
+
+<div class="posts">
+  {% for post in site.posts %}
+
+  {% if post.category == 'Video' %}
+  <div class="post py3">
+    <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
+    <p class="post-summary">
+      {{ post.content }}
+    </p>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>

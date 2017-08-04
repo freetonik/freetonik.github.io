@@ -14,9 +14,7 @@
 
     <!-- Fonts -->
     <!-- <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'> -->
-    {% if site.show_social_icons or site.show_sharing_icons %}
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
-    {% endif %}
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Verifications -->
     {% if site.google_verification %}
@@ -38,7 +36,12 @@
     <meta property="og:image" content="{{ '/images/posts/wanderer.jpg' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
 
-    <meta property="og:description" content="{% if page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
+    {% if page.url == "/" %}
+    <meta property="og:description" content="{{ site.description | xml_escape }}">
+    {% elsif page.summary %}
+    <meta property="og:description" content="{{ page.summary | xml_escape }}">
+    {% endif %}
+
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.title | xml_escape }}">
 
