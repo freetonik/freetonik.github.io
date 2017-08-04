@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Видеоподкастинг"
-category: Video
+category: Notes
 minutes: 10
 ---
 

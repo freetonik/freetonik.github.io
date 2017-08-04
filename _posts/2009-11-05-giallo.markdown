@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Желтый фильм"
-category: Life
+category: Notes
 ---
 ![](http://freetonik.com/wp-content/uploads/2011/01/figliadisat2.jpg)
 

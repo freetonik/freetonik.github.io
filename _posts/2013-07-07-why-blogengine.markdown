@@ -2,6 +2,7 @@
 layout: post
 title: "Почему мой блог – на Эгее?"
 update_date: 2016-01-07
+category: Notes
 ---
 Этот блог работает на движке [Эгея](http://blogengine.ru/) от замечательного [Ильи Бирмана](http://ilyabirman.ru/).
 

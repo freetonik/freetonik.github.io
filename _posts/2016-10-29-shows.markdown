@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Лучшие сериалы"
-category: "Life"
+category: "Notes"
 cover_url: "/images/posts/seinfeld-1"
 summary: "Я очень люблю сериалы. Вот список моих любимых."
 ---

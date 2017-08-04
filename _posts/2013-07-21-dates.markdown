@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Даты для людей и машин"
+category: Design
 ---
 ![](/images/posts/photo_1.JPG)
 

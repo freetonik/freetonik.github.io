@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Кушаем со мной"
+category: Notes
 ---
 Продолжаем. To go будет aller, читается "аллей". Аллея как раз оттуда. Не нужно путать с venir – это to come.
 

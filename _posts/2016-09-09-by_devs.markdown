@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Продукты пока не для людей"
-category: "Life"
+category: "Design"
 featured: yes
 cover_url: "/images/posts/ncommander.png"
 summary: "Раньше программисты делали продукты для программистов, а теперь программисты думают, что делают продукты для людей."

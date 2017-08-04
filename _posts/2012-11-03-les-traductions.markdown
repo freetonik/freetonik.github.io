@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les traductions
+category: Notes
 ---
 
 Тип (kind) по-французски будет sort. What kind будет quelle sorte.

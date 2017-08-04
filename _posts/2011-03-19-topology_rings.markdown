@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Задача про кольца"
+category: Notes
 ---
 <a href="http://freetonik.com/wp-content/uploads/2011/03/rings1.png"><img class="alignnone size-full wp-image-2207" title="rings" src="http://freetonik.com/wp-content/uploads/2011/03/rings1.png" alt="" width="468" height="270" /></a>
 

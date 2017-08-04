@@ -1,7 +1,7 @@
 ---
 title: Канал в Телеграме про английский язык
-category: Notes
-cover_ur: "/images/posts/englishmofo.jpg"
+category: English
+cover_url: "/images/posts/englishmofo.jpg"
 ---
 
 Запустил в Телеграме новый канал — **[@engbadass](https://t.me/engbadass)**. На простом английском рассказываю о реальном английском, о которых не пишут в учебниках.

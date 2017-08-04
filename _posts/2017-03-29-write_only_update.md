@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Режим только для записи: пара проблем"
+category: Notes
 ---
 
 Недавно писал про [переход в режим write only](write_only).

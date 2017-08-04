@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Français québécois
+category: Notes
 ---
 Отгадайте, какой из этих знаков находится в Америке, а какой во Франции?
 

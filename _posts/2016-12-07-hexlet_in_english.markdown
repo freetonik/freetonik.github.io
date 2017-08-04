@@ -3,6 +3,7 @@ layout: post
 title: "Новый курс на английском языке"
 cover_url: "/images/posts/hexeng.png"
 summary: "Я запустил новый бесплатный курс по основам программирования на английском языке."
+category: Video
 ---
 
 ![](/images/posts/hexeng_line.png)

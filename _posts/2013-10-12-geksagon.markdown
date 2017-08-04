@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Гексагон"
+category: Notes
 ---
 Недавно узнал, что Францию иногда называют Hexagone из-за ее формы:
 

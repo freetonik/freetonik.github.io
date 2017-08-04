@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Французский язык"
+category: Notes
 ---
 ![delacroix liberty](/images/posts/delacroix-liberty.jpg)
 

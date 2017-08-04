@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Блог-пари"
+category: Notes
 ---
 Привет!
 Соскучились? Я тоже.

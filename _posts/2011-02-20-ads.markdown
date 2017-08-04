@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Состояние современной рекламы"
-category: Life
+category: Notes
 ---
 
 ![ads today](/images/posts/notfree.png)

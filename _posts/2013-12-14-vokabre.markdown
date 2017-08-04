@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Про Vokabre"
-category: Life
+category: Notes
 ---
 ![](/images/posts/msk.jpg)
 

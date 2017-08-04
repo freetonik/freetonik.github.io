@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Хром и закрытие окна
-category: Life
+category: Design
 cover_url: "/images/posts/chrome_logo.png"
 summary: "Хром под Мак не уважает твои вкладки."
 ---

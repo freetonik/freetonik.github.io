@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekend routine: мой ритуал чистки на выходных"
+featured: yes
 category: "Notes"
 cover_url: "/images/posts/weekend.jpg"
 ---

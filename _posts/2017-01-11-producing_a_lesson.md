@@ -4,6 +4,7 @@ title: "Процесс создания урока"
 cover_url: "/images/posts/itp_notes.jpg"
 summary: "Расскажу, как делаю уроки на английском языке: от каракулей на бумажке до готового видео с упражнением."
 featured: yes
+category: Notes
 ---
 
 Месяц назад [начал](https://rakh.im/hexlet_in_english/) новый курс по основам программирования на английском языке — [Intro to Programming](https://en.hexlet.io/courses/intro_to_programming). Уроки выходят дважды в неделю, и включают в себя видео, дополнительные тексты, конспекты, тесты, упражнения и ссылки для самостоятельного просмотра и прочтения. Видео публикуются на [YouTube](https://www.youtube.com/channel/UCBmKU1FHwhAoljWDORWgcRA). Подписывайтесь, кстати.
