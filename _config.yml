@@ -24,7 +24,8 @@ ajaxify_contact_form: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: "rakhim"
+# disqus_shortname: "rakhim"
+hypercomments_enabled: true
 
 # Social icons
 github_username:
