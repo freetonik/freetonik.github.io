@@ -1,17 +1,57 @@
-{% if page.category == "Translations" or post.category == "Translations" %}
-  · <a href="/translations">Переводы</a>
-{% elsif page.category == "Lectures" or post.category == "Lectures" %}
-  · <a href="/lectures">Лекции</a>
-{% elsif page.category == "Articles" or post.category == "Articles" %}
-  · <a href="/articles">Статьи</a>
-{% elsif page.category == "English" or post.category == "English" %}
-  · <a href="/english">Английский язык</a>
-{% elsif page.category == "Video" or post.category == "Video" %}
-  · Видео
-{% elsif page.category == "Linker" or post.category == "Linker" %}
-  · <a href="/linker">Ссылкомат</a>
-{% elsif page.category == "Books" or post.category == "Books" %}
-  · Книги
+{% if post %}
+  {% assign categories = post.categories %}
 {% else %}
-  · Заметки
+  {% assign categories = page.categories %}
 {% endif %}
+
+{% for category in categories %}
+
+  {% if category == "English" %}
+   · <a href="/english">Английский язык</a>
+  {% endif %}
+
+  {% if category == "Mindfulness" %}
+   · <a href="/mindfulness">Осознанность</a>
+  {% endif %}
+
+  {% if category == "Articles" %}
+   · <a href="/articles">Статьи</a>
+  {% endif %}
+
+  {% if category == "Lectures" %}
+   · <a href="/lectures">Лекции</a>
+  {% endif %}
+
+  {% if category == "Translations" %}
+   · <a href="/translations">Переводы</a>
+  {% endif %}
+
+  {% if category == "Travel" %}
+   · <a href="/travel">Велопутешествия</a>
+  {% endif %}
+
+  {% if category == "Notes" %}
+   · <a href="/notes">Заметки</a>
+  {% endif %}
+
+  {% if category == "Design" %}
+   · <a href="/design">Дизайн</a>
+  {% endif %}
+  
+  {% if category == "Linker" %}
+   · <a href="/linker">Ссылкомат</a>
+  {% endif %}
+
+  {% if category == "Video" %}
+   · <a href="/video">Видео</a>
+  {% endif %}
+
+  {% if category == "Veter" %}
+   · <a href="/veter">Фантастический роман</a>
+  {% endif %}
+
+  {% if category == "Books" %}
+   · Книги
+  {% endif %}
+
+{% endfor %}

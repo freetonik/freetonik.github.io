@@ -13,9 +13,7 @@ permalink: /video/
 </p>
 
 <div class="posts">
-  {% for post in site.posts %}
-
-  {% if post.category == 'Video' %}
+  {% for post in site.categories.Video %}
   <div class="post py3">
     <p class="post-meta">{{ post.date | date: site.date_format }}</p>
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
@@ -23,6 +21,5 @@ permalink: /video/
       {{ post.content }}
     </p>
   </div>
-  {% endif %}
   {% endfor %}
 </div>
