@@ -13,10 +13,9 @@ permalink: /english/
 
 {% comment %} This is pretty horrible, fix me, please, I want to die. {% endcomment %}
 {% assign postCount = '1' %}
-{% for post in site.posts %}
-{% if post.category == 'English' %}
+
+{% for post in site.categories.English %}
 {% capture postCount %}{{ postCount | plus: '1' }}{% endcapture %}
-{% endif %}
 {% endfor %}
 
 <table cellspacing="0" cellpadding="0" style="border: none;">

@@ -14,15 +14,14 @@ permalink: /veter/
 
 
 <div class="pt3">
-{% for post in site.posts reversed %}
+{% for post in site.categories.Veter reversed %}
 
-{% if post.category == 'Veter' %}
+
 <p>
   <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
     {{ post.title }}
   </a>
 </p>
-{% endif %}
 {% endfor %}
 
 <p class="mt3">До выхода следующей главы осталось от 3 до 3692 дней.</p>
@@ -32,9 +31,8 @@ permalink: /veter/
 <hr class="py3">
 
 <div class="posts">
-  {% for post in site.posts reversed %}
+  {% for post in site.categories.Veter reversed %}
 
-  {% if post.category == 'Veter' %}
   <div class="post py3">
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
       <h3 class="h2 post-title">{{ post.title }}</h3>
@@ -43,7 +41,6 @@ permalink: /veter/
       {{ post.content }}
     </p>
   </div>
-  {% endif %}
   {% endfor %}
 
 </div>

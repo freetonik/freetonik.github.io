@@ -13,12 +13,8 @@ permalink: /translations/
 
 <h2 class="center">Большие лекции о науке</h2>
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.categories.Translations %}
 
-    {% assign author = site.authors[post.author] %}
-    {{ author.display_name }}
-
-  {% if post.category == 'Translations' %}
     {% if post.subcat == 'Science_long' %}
     <div class="post py3">
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h4 class="post-title">{{ post.title }}</h4></a>
@@ -27,18 +23,12 @@ permalink: /translations/
       </p>
     </div>
     {% endif %}
-  {% endif %}
   {% endfor %}
 </div>
 
 <h2 class="center mt4">Речи Ричарда Фейнмана</h2>
 <div class="posts">
-  {% for post in site.posts %}
-
-    {% assign author = site.authors[post.author] %}
-    {{ author.display_name }}
-
-  {% if post.category == 'Translations' %}
+  {% for post in site.categories.Translations %}
     {% if post.subcat == 'Feynman' %}
     <div class="post py3">
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h4 class="post-title">{{ post.title }}</h4></a>
@@ -54,18 +44,12 @@ permalink: /translations/
       </p>
     </div>
     {% endif %}
-  {% endif %}
   {% endfor %}
 </div>
 
 <h2 class="center mt4">Короткие видео о науке</h2>
 <div class="posts">
-  {% for post in site.posts %}
-
-    {% assign author = site.authors[post.author] %}
-    {{ author.display_name }}
-
-  {% if post.category == 'Translations' %}
+  {% for post in site.categories.Translations %}
     {% if post.subcat == 'Science_short' %}
     <div class="post py3">
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h4 class="post-title">{{ post.title }}</h4></a>
@@ -83,19 +67,13 @@ permalink: /translations/
       </p>
     </div>
     {% endif %}
-  {% endif %}
   {% endfor %}
 </div>
 
 
 <h2 class="center mt4">Короткие видео о жизни</h2>
 <div class="posts">
-  {% for post in site.posts %}
-
-    {% assign author = site.authors[post.author] %}
-    {{ author.display_name }}
-
-  {% if post.category == 'Translations' %}
+  {% for post in site.categories.Translations %}
     {% if post.subcat == 'Life' %}
     <div class="post py3">
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h4 class="post-title">{{ post.title }}</h4></a>
@@ -113,6 +91,5 @@ permalink: /translations/
       </p>
     </div>
     {% endif %}
-  {% endif %}
   {% endfor %}
 </div>

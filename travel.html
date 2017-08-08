@@ -9,8 +9,7 @@ permalink: /travel/
 </p>
 
 <div class="posts">
-  {% for post in site.posts %}
-  {% if post.category == 'Travel' %}
+  {% for post in site.categories.Travel %}
   <div class="post py3">
     <p class="post-meta">{{ post.date | date: site.date_format }}</p>
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
@@ -23,7 +22,6 @@ permalink: /travel/
       {{ post.summary }} <a class="bike" href="{{ post.url | prepend: site.baseurl }}">Поехали</a>&nbsp;<img width="29" height="17" src="/images/bicycle.png">
     </p>
   </div>
-  {% endif %}
   {% endfor %}
 </div>
 

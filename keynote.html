@@ -5,17 +5,11 @@ permalink: /keynote/
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
-
-    {% assign author = site.authors[post.author] %}
-    {{ author.display_name }}
-
-  {% if post.category == 'Keynote' %}
+  {% for post in site.categories.Keynote %}
   <div class="post">
     <p class="post-meta">{{ post.date | date: site.date_format }}</p>
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="post-title">{{ post.title }}</h3></a>
 
   </div>
-  {% endif %}
   {% endfor %}
 </div>

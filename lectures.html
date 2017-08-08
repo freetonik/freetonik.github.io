@@ -12,12 +12,8 @@ permalink: /lectures/
 </div>
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.categories.Lectures %}
 
-    {% assign author = site.authors[post.author] %}
-    {{ author.display_name }}
-
-  {% if post.category == 'Lectures' %}
     <div class="post py3">
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h4 class="post-title">{{ post.title }}</h4></a>
 
@@ -37,6 +33,5 @@ permalink: /lectures/
         {{ post.summary }}
       </p>
     </div>
-  {% endif %}
   {% endfor %}
 </div>
