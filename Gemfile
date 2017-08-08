@@ -5,4 +5,3 @@ source 'https://rubygems.org'
 # https://github.com/github/pages-gem
 gem 'github-pages'
 gem 'rouge'
-gem "html-proofer"
