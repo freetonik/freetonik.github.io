@@ -91,7 +91,7 @@
 			"file": "_posts/2017-08-29-me_forever.md",
 			"settings":
 			{
-				"buffer_size": 2917,
+				"buffer_size": 2916,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "Многие стремятся всю жизнь испытывать подобное. Через р"
@@ -652,7 +652,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -661,15 +661,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2917,
+						"buffer_size": 2916,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2917,
-								2917
+								2803,
+								2803
 							]
 						],
 						"settings":
@@ -680,10 +680,10 @@
 							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1915.0,
+						"translation.y": 1366.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -716,7 +716,7 @@
 						"translation.y": 13.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1300,9 +1300,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "hex",
+		"last_filter": "hexlet",
 		"selected_items":
 		[
+			[
+				"hexlet",
+				"~/code/hexlet/hexlet.sublime-project"
+			],
 			[
 				"hex",
 				"~/code/hexlet/hexlet.sublime-project"
