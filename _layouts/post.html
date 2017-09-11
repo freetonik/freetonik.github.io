@@ -8,6 +8,11 @@ layout: default
 
 <article class="post-content">
   {{ content }}
+
+  {% if page.category == 'English' %}
+    {% include english_promo.html %}
+  {% endif %}
+
 </article>
 
 {% if site.show_sharing_icons %}
