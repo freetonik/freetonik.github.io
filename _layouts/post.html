@@ -10,13 +10,15 @@ layout: default
   {{ content }}
 
   {% if page.category == 'English' %}
-    {% include english_promo.html %}
+    <div class="mt2">
+      {% include english_promo.html %}
+    </div>
   {% endif %}
 
 </article>
 
 {% if site.show_sharing_icons %}
-  {% include share_buttons.html %}
+    {% include share_buttons.html %}
 {% endif %}
 
 <div>
