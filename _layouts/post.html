@@ -15,6 +15,12 @@ layout: default
     </div>
   {% endif %}
 
+  {% if page.category == 'Mindfulness' %}
+    <div class="mt2">
+      {% include mindfool_promo.html %}
+    </div>
+  {% endif %}
+
 </article>
 
 {% if site.show_sharing_icons %}
