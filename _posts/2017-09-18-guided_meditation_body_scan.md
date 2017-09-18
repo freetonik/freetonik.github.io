@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Аудио-медиатация: сканирование тела"
+title: "Аудио-медитация: сканирование тела"
 category: Mindfulness
 featured: yes
 cover_url: "/images/posts/universe_eye.jpg"
