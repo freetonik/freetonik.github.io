@@ -88,20 +88,10 @@
 	"buffers":
 	[
 		{
-			"file": "_posts/2017-08-29-me_forever.md",
+			"file": "_posts/2017-09-22-all_in_apple.md",
 			"settings":
 			{
-				"buffer_size": 2916,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "Многие стремятся всю жизнь испытывать подобное. Через р"
-			}
-		},
-		{
-			"file": "_sass/rakhim.scss",
-			"settings":
-			{
-				"buffer_size": 1288,
+				"buffer_size": 8183,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -321,6 +311,10 @@
 	],
 	"file_history":
 	[
+		"/Users/rakhim/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/rakhim/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/rakhim/code/rakh.im/_posts/2017-08-29-me_forever.md",
+		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
 		"/Users/rakhim/code/rakh.im/_posts/2017-08-23-wireless_mouse_interference.md",
 		"/Users/rakhim/Desktop/Привет!.html",
 		"/Users/rakhim/Desktop/Привет!.mdown",
@@ -352,7 +346,6 @@
 		"/Users/rakhim/Google Drive/Translations/Work:Life Balance.md",
 		"/Users/rakhim/code/rakh.im/_posts/2017-03-29-write_only_update.md",
 		"/Users/rakhim/code/rakh.im/_sass/_links.scss",
-		"/Users/rakhim/code/rakh.im/_sass/rakhim.scss",
 		"/Users/rakhim/code/rakh.im/_includes/intro.html",
 		"/Users/rakhim/code/rakh.im/README.md",
 		"/Users/rakhim/Downloads/rakhim-2017-08-05T11-31-40.948946-all.xml",
@@ -445,18 +438,15 @@
 		"/Users/rakhim/code/rakh.im/_posts/2014-04-17-alien.markdown",
 		"/Users/rakhim/code/rakh.im/_posts/2014-02-06-kopek.markdown",
 		"/Users/rakhim/code/rakh.im/_posts/2014-01-22-ssylki-dlya-programmistov.markdown",
-		"/Users/rakhim/code/rakh.im/_posts/2013-12-17-pie.markdown",
-		"/Users/rakhim/code/rakh.im/_posts/2013-12-14-vokabre.markdown",
-		"/Users/rakhim/code/rakh.im/_posts/2014-04-18-remote.markdown",
-		"/Users/rakhim/code/rakh.im/_posts/2014-05-02-enterta.markdown"
+		"/Users/rakhim/code/rakh.im/_posts/2013-12-17-pie.markdown"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 111.0,
 		"where_history":
 		[
 			"/Users/rakhim/code/rakh.im/_posts",
@@ -652,68 +642,36 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_posts/2017-08-29-me_forever.md",
+					"file": "_posts/2017-09-22-all_in_apple.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2916,
+						"buffer_size": 8183,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2803,
-								2803
+								8157,
+								8157
 							]
 						],
 						"settings":
 						{
+							"git_gutter_is_enabled": true,
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1366.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_sass/rakhim.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1288,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1037,
-								1037
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 13.0,
+						"translation.y": 4314.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -724,11 +682,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 35.0
+		"height": 30.0
 	},
 	"input":
 	{
-		"height": 34.0
+		"height": 43.0
 	},
 	"layout":
 	{
@@ -773,7 +731,7 @@
 	"project": "rakhim_blog.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -782,6 +740,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"allin",
+				"_posts/2017-09-22-all_in_apple.md"
+			],
 			[
 				"rakcss",
 				"_sass/rakhim.scss"
@@ -1289,10 +1251,6 @@
 			[
 				"pureq",
 				"18-pure/questions.yml"
-			],
-			[
-				"09-iterative/questions.yml",
-				"09-iterative/questions.yml"
 			]
 		],
 		"width": 0.0
@@ -1300,15 +1258,15 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "hexlet",
+		"last_filter": "hex",
 		"selected_items":
 		[
 			[
-				"hexlet",
+				"hex",
 				"~/code/hexlet/hexlet.sublime-project"
 			],
 			[
-				"hex",
+				"hexlet",
 				"~/code/hexlet/hexlet.sublime-project"
 			],
 			[
