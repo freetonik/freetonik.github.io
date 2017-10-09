@@ -5,7 +5,7 @@ category: English
 ---
 Free – свободный, бесплатный. «Free WiFi zone» означает, что тут бесплатный вай-фай. А «WiFi free zone» это зона свободная от вай-фая, то есть тут точно интернета нет. К чему это я? На картинке – MacDonald's Free Countries – страны, куда еще не успел прийти МакДоналдс.
 
-<a href="http://freetonik.com/wp-content/uploads/2012/05/mcdfree.png"><img src="http://freetonik.com/wp-content/uploads/2012/05/mcdfree-545x320.png" alt="" title="mcdfree" width="545" height="320" class="alignnone size-large wp-image-3610" /></a>
+![](/images/posts/countries-without-a-mcdonalds.png)
 
 Означающий принадлежность __'s__ постоянно попадает в русский язык. В английском он означает место, дом, заведение, принадлежащее человеку. В нашем случае МакДоналдс это «У МакДоналда». Американцы и канадцы любят называть его Mickey D's.
 
