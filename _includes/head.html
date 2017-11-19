@@ -32,6 +32,8 @@
     <meta property="og:image" content="{{ page.cover_url | prepend: site.baseurl | prepend: site.url }}">
     {% elsif page.category == "Linker" %}
     <meta property="og:image" content="{{ '/images/posts/reading.jpg' | prepend: site.baseurl | prepend: site.url }}">
+    {% elsif page.category == "Mindfulness" %}
+    <meta property="og:image" content="{{ '/images/posts/universe_eye.jpg' | prepend: site.baseurl | prepend: site.url }}">
     {% else %}
     <meta property="og:image" content="{{ '/images/posts/wanderer.jpg' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
