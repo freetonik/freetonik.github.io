@@ -34,5 +34,5 @@ _Картинка из [англоязычного блога Никиты](http
 4. Включите "Change Hyper + I/J/K/L to Arrow Keys, X to forward delete". Стрелки работают!
 5. По желанию можете включить еще два правила: одно добавит Home/PageUp/PageDown/End на те же стрелки, но с зажатым Fn; второе превратит Tab в Fn.
 
-Никита также правильно советует отключить стрелки чтобы форсировать новую привычку. Используйте правила из [его конфигурации](https://s.tonsky.me/karabiner/capslock_ijkl_fn.json) чтобы сделать это.
+Никита также правильно советует отключить стрелки чтобы форсировать новую привычку. Используйте правила из [его конфигурации](karabiner://karabiner/assets/complex_modifications/import?url=https://s.tonsky.me/karabiner/capslock_ijkl_fn.json) чтобы сделать это.
 
