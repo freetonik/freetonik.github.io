@@ -117,7 +117,7 @@
       ]
     },
     {
-      "description": "Change Fn + Hyper + H/J/K/L to Home / Page Down / Page Up / End",
+      "description": "Change Fn + Hyper + I/J/K/L to Home / Page Down / Page Up / End",
       "manipulators": [
         {
           "from": {
