@@ -9,7 +9,9 @@ header a {
 
 .intro {
   background-color: $footer-bg-color;
-  padding-bottom: 1rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #fff6be;
+  border-top: 1px solid #fff6be;
 }
 
 .topline {
@@ -20,7 +22,7 @@ header a {
   width: 20%;
   display: inline;
   float: left;
-  height: 5px;
+  height: 3px;
 }
 
 .topline #topline-block-1 {
