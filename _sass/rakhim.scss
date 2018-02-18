@@ -7,6 +7,12 @@ header a {
   background-image: none;
 }
 
+a.link_nodecor {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: none;
+}
+
 .intro {
   background-color: $footer-bg-color;
   padding-bottom: 1.2rem;
@@ -57,6 +63,49 @@ li {
   display: flex;
 }
 
+.bookshelf_wrapper h1, h2, h3, h4, h5, h6, p, small {
+  font-family: Georgia, serif;
+}
+
+.bookshelf_wrapper .bookshelf_year {
+  overflow: hidden;
+  text-align: center;
+}
+
+.bookshelf_wrapper .bookshelf_year:before,
+.bookshelf_wrapper .bookshelf_year:after {
+  background-color: #cacaca;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+
+.bookshelf_wrapper .bookshelf_year:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+.bookshelf_wrapper .bookshelf_year:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+
+.bookshelf_image_placeholder, .bookshelf_image {
+  width: 120px;
+  flex: 0 0 100px;
+}
+
+.bookshelf_book_author {
+  color: #b7b7b7;
+  font-weight: 100;
+}
+
+.bookshelf_featured_mark {
+  color: #ada200;
+}
 
 #subscribe-btn {
   color: #6b0055;
@@ -84,4 +133,12 @@ li {
 
 .hcc .hc__right {
   padding: 0;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
 }

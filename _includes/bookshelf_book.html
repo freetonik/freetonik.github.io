@@ -1,0 +1,15 @@
+<div class="d-flex flex-row mb4">
+  <span class="bookshelf_image_placeholder">
+    <img class="bookshelf_image" src="/images/book_covers/{{ book.isbn }}.jpg" alt="{{ book.title }}"/>
+  </span>
+  <div class="ml3">
+    <h4 class="mt0 mb0">
+      {% if book.featured %}
+        <span alt="Great book!" class="bookshelf_featured_mark">★</span>
+      {% endif %}
+      <a class="link_nodecor" href="https://www.goodreads.com/search?q={{ book.title }}">
+        {{ book.title }}</a>, <i class="bookshelf_book_author">by {{ book.author }}</i>
+    </h4>
+    <p class="mt2">{{ book.comment }}</p>
+  </div>
+</div>
