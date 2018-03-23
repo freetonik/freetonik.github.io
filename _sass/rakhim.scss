@@ -63,7 +63,14 @@ li {
   display: flex;
 }
 
-.bookshelf_wrapper h1, h2, h3, h4, h5, h6, p, small {
+.bookshelf_wrapper h1,
+.bookshelf_wrapper h2,
+.bookshelf_wrapper h3,
+.bookshelf_wrapper h4,
+.bookshelf_wrapper h5,
+.bookshelf_wrapper h6,
+.bookshelf_wrapper p,
+.bookshelf_wrapper small {
   font-family: Georgia, serif;
 }
 
