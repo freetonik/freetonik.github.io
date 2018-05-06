@@ -69,3 +69,8 @@ gems:
   - jekyll-redirect-from
 
 exclude: [vendor]
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://rakh.im'
+  media: 'images/posts'
