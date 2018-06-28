@@ -13,21 +13,11 @@ cover_url: "/images/posts/me_happy_eng.jpg"
 - автоматическое ежемесячное продление
 - доступ к всему архиву выпусков
 
-Подписка, доступ в личный кабинет и другая информация – **[на странице рассылки](/english_letter/)**. Или можете подписаться прямо здесь:
-
-<div class="mt3 mb3">
-<a href="https://rakhim.memberful.com/checkout?plan=22420" class="button-link">Подписаться за $4.99 в месяц</a>
-
-<p class="mt1 h2" style="color: rgba(78, 78, 78, 0.72);">
-  <i class="fa fa-cc-visa" aria-hidden="true"></i>
-  <i class="fa fa-cc-mastercard" aria-hidden="true"></i>
-  <i class="fa fa-cc-amex" aria-hidden="true"></i>
-</p>
-</div>
-
 Очередной выпуск – сегодня вечером (31 июля в 22:00 МСК), успейте подписаться :)
 
 **Если вы оплатили первый месяц через Яндекс.Деньги:**
 
 1. Во-первых, спасибо! Вы первыми поверили в этот проект и стали [early adopter](https://en.wikipedia.org/wiki/Early_adopter)'ом :)
 2. Вам на почту придет купон на 50% скидку на первые два месяца рассылки по новой системе.
+
+UPD: Рассылка закрыта в июне 2018.

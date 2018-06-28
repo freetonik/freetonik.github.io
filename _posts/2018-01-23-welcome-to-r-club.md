@@ -27,17 +27,4 @@ _Жду вас у входа в клуб._
 - Ссылка на ваш сайт на странице [клуба](/club) (если хотите).
 - Приятное тёплое чувство, что вы помогаете мне делиться изученным :-)
 
-<section class="center mt3 mb3" style="background-color: #ffffed; padding-top: 1.65em; padding-bottom: 0.6em; border: 2px dashed #013c13;">
-
-<a href="https://rakhim.memberful.com/checkout?plan=22420" class="button-link">Подписаться за $4.99 в месяц</a>
-
-<p class="mt1 h2" style="color: rgba(78, 78, 78, 0.72);">
-<i class="fa fa-cc-visa" aria-hidden="true"></i>
-<i class="fa fa-cc-mastercard" aria-hidden="true"></i>
-<i class="fa fa-cc-amex" aria-hidden="true"></i>
-</p>
-
-<small>Я крутой, хочу <a href="https://rakhim.memberful.com/checkout?plan=26877">подписаться за $49.9 в год</a>.</small>
-</section>
-
-P.S. Если вы уже подписаны на платную рассылку об английском, то вы автоматически стали членом R-клуба. Магия!
+UPD: Клуб закрыт в июне 2018.
