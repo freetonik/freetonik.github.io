@@ -34,8 +34,8 @@ summary: "Я никогда не видел океан. В начале осен
 <p>А&nbsp;эти неплохо нагнали предыдущие всего за&nbsp;следующие 8&nbsp;дней:</p>
 <p><img src="https://img-fotki.yandex.ru/get/5309/25330526.16/0_67341_4e20acc2_XL.jpg" alt="" /></p>
 <p><strong>День&nbsp;1. Оттава&nbsp;&mdash; Бобриа (Монреаль). 180&nbsp;км.</strong></p>
-<p><a href="http://g.co/maps/vwxyd"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.20.48-PM.png" alt="" title="Screen shot 2011-09-26 at 9.20.48 PM" width="502" height="154" class="alignnone size-full wp-image-2543" /></a></p>
-<p><img src="http://freetonik.com/wp-content/uploads/2011/09/ottawa-–-boisbriand.png" alt="" title="ottawa – boisbriand" width="700" height="400" class="alignnone size-full wp-image-2537" /></a></p>
+<p><a href="http://g.co/maps/vwxyd"><img src="/images/posts/bike/Screen-shot-2011-09-26-at-9.20.48-PM.png" alt="" title="Screen shot 2011-09-26 at 9.20.48 PM" width="502" height="154" class="alignnone size-full wp-image-2543" /></a></p>
+<p><img src="/images/posts/bike/ottawa-–-boisbriand.png" alt="" title="ottawa – boisbriand" width="700" height="400" class="alignnone size-full wp-image-2537" /></a></p>
 <p>Утром второго сентября я&nbsp;поехал на&nbsp;работу, где встретился с&nbsp;вице-президентом компании и&nbsp;мы&nbsp;вместе выехали на&nbsp;восток. Он&nbsp;давно увлекается шоссейными велосипедами и&nbsp;находится в&nbsp;куда лучшей форме, чем я&nbsp;&mdash; его план был доехать до&nbsp;Квебека (примерно 550&nbsp;км) за&nbsp;два дня. Мой план&nbsp;&mdash; три дня, но&nbsp;вместе ехать веселей, поэтому мы&nbsp;начали вместе. Через километров 60&nbsp;я решил попрощаться&nbsp;&mdash; слишком уж&nbsp;он&nbsp;быстр. Дальше я&nbsp;поехал медленно и&nbsp;размеренно, с&nbsp;большой остановкой на&nbsp;обед.</p>
 <p>В&nbsp;первый день нужно добраться до&nbsp;пригорода Монреаля, благо, это расстояние уже было &laquo;взято&raquo; ранее. В&nbsp;этот раз маршрут был изменен, я&nbsp;ехал постоянно по&nbsp;северному берегу реки Оттава.</p>
 <p>Погода была чудная.</p>
@@ -54,8 +54,8 @@ summary: "Я никогда не видел океан. В начале осен
 <p><img src="https://img-fotki.yandex.ru/get/4814/25330526.16/0_67346_a913f71f_XL.jpg" alt="" /></p>
 <p>В&nbsp;путешествиях намного интереснее останавливаться в&nbsp;живом доме у&nbsp;простых людей, чем в&nbsp;мотелях. Уютно и&nbsp;приятно, можно пообщаться с&nbsp;аборигенами. Заодно я&nbsp;постирал свою форму и&nbsp;заморозил две бутылки свежеразведенного напитка (тот белый порошок в&nbsp;мешочке, напоминающий кокаин из&nbsp;американских фильмов). Одну бутылку заполнил водой наполовину, вторую&nbsp;&mdash; полностью, и&nbsp;в&nbsp;морозильник. С&nbsp;утра&nbsp;ту, где половина, дозаполняешь водой и&nbsp;следующие три-четыре часа наслаждаешься холодным напитком (вторая бутылка тает, пока опустошаешь первую). </p>
 <p><strong>День&nbsp;2. Бобриа&nbsp;&mdash; Труа-Ривьер. 149&nbsp;км.</strong></p>
-<p><a href="http://g.co/maps/rs77w"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.23.23-PM.png" alt="" title="Boisbriand – Trois Riviere" width="520" height="477" class="alignnone size-full wp-image-2545" /></a><br />
-<img src="http://freetonik.com/wp-content/uploads/2011/09/boisbriand-–-trois_riviere.png" alt="" title="boisbriand – trois_riviere" width="700" height="400" class="alignnone size-full wp-image-2546" /></p>
+<p><a href="http://g.co/maps/rs77w"><img src="/images/posts/bike/Screen-shot-2011-09-26-at-9.23.23-PM.png" alt="" title="Boisbriand – Trois Riviere" width="520" height="477" class="alignnone size-full wp-image-2545" /></a><br />
+<img src="/images/posts/bike/boisbriand-–-trois_riviere.png" alt="" title="boisbriand – trois_riviere" width="700" height="400" class="alignnone size-full wp-image-2546" /></p>
 <p>Начинался замечательный день, и&nbsp;я&nbsp;чувствовал себя отлично!</p>
 <p><img src="https://img-fotki.yandex.ru/get/4814/25330526.16/0_67348_17f98674_XL.jpg" alt="" /></p>
 <p>Цель на&nbsp;второй день&nbsp;&mdash; Труа-Ривье (местные произносят просто &laquo;Тревье&raquo;), второе по&nbsp;древности поселение современной Канады (1634&nbsp;год). К&nbsp;сожалению, по&nbsp;большей части он&nbsp;выглядит так, как если&nbsp;бы был основан пятьдесят лет назад. Уступает по&nbsp;древности он&nbsp;только самому Квебеку (или Квебек-сити, чтобы не&nbsp;путать с&nbsp;провинцией), в&nbsp;который я&nbsp;попаду на&nbsp;третий день.</p>
@@ -65,8 +65,8 @@ summary: "Я никогда не видел океан. В начале осен
 <p><img src="https://img-fotki.yandex.ru/get/4612/25330526.16/0_6734a_399c9d8b_XL.jpg" alt="" /></p>
 <p>Не&nbsp;удалось даже постирать одежду. Отведав невкусной лазаньи (которую я&nbsp;с&nbsp;трудом заказал на&nbsp;ломаном французском), я&nbsp;отправился спать.</p>
 <p><strong>День&nbsp;3. Труа-Ривье&nbsp;&mdash; Квебек. 144&nbsp;км.</strong></p>
-<p><a href="http://g.co/maps/j3y7f"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.26.15-PM.png" alt="" title="trois riviere – quebec" width="434" height="233" class="alignnone size-full wp-image-2547" /></a><br />
-<img src="http://freetonik.com/wp-content/uploads/2011/09/Trois_riviere-–-quebec.png" alt="" title="Trois_riviere – quebec" width="700" height="400" class="alignnone size-full wp-image-2548" /></p>
+<p><a href="http://g.co/maps/j3y7f"><img src="/images/posts/bike/Screen-shot-2011-09-26-at-9.26.15-PM.png" alt="" title="trois riviere – quebec" width="434" height="233" class="alignnone size-full wp-image-2547" /></a><br />
+<img src="/images/posts/bike/Trois_riviere-–-quebec.png" alt="" title="Trois_riviere – quebec" width="700" height="400" class="alignnone size-full wp-image-2548" /></p>
 <p>До&nbsp;500-километровой отметки осталось совсем немного, цель третьего дня&nbsp;&mdash; Квебек.<br />
 Квебек был основан в&nbsp;1608 году и&nbsp;почти 400 лет был столицей&nbsp;&mdash; сначала Канады и&nbsp;всей Новой Франции, потом провинции Квебек, потом столицей Нижней Канады, потом столицей провинции Канада, и, наконец, с&nbsp;1867 года по&nbsp;наши дни город Квебек&nbsp;&mdash; вновь столица Квебека.</p>
 <p>Квебек-Квебек-Квебек!</p>
@@ -98,8 +98,8 @@ summary: "Я никогда не видел океан. В начале осен
 <p>Хозяйка еще предупредила про черного кота на&nbsp;балконе: его пускать нельзя, но&nbsp;пусть там сидит. Я&nbsp;проверил&nbsp;&mdash; и&nbsp;правда, сидит.</p>
 <p><img src="https://img-fotki.yandex.ru/get/4709/25330526.16/0_67356_1552d735_XL.jpg" alt="" /></p>
 <p><strong>День четвертый. Квебек&nbsp;&mdash; Монмани. 53&nbsp;км.</strong></p>
-<p><a href="http://g.co/maps/twvca"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.29.51-PM.png" alt="" title="levis – montmagny" width="566" height="265" class="alignnone size-full wp-image-2549" /></a><br />
-<img src="http://freetonik.com/wp-content/uploads/2011/09/Levis-–-Montmagny.png" alt="" title="Levis – Montmagny" width="700" height="400" class="alignnone size-full wp-image-2550" /></p>
+<p><a href="http://g.co/maps/twvca"><img src="/images/posts/bike/Screen-shot-2011-09-26-at-9.29.51-PM.png" alt="" title="levis – montmagny" width="566" height="265" class="alignnone size-full wp-image-2549" /></a><br />
+<img src="/images/posts/bike/Levis-–-Montmagny.png" alt="" title="Levis – Montmagny" width="700" height="400" class="alignnone size-full wp-image-2550" /></p>
 <p>Утро казалось теплым и&nbsp;солнечным.</p>
 <p><img src="https://img-fotki.yandex.ru/get/4814/25330526.17/0_6737b_89fc45ea_XL.jpg" alt="" /></p>
 <p>Но&nbsp;температура упала до&nbsp;+15&nbsp;и&nbsp;задул восточный ветер (в&nbsp;морду) 15&nbsp;км/ч. Вскоре после выезда начался ливень. Айпод шаффл умер (как оказалось, просто села батарейка). Не&nbsp;выдержав больше 50&nbsp;километров, я&nbsp;остановился в&nbsp;городке Монмани. Расстроился.</p>
@@ -107,8 +107,8 @@ summary: "Я никогда не видел океан. В начале осен
 <p>Я&nbsp;люблю путешествовать без четкого плана. Иметь цель и&nbsp;импровизировать намного интереснее. Я&nbsp;решил проверить расписание поездов, чтобы понять точно, сколько у&nbsp;меня осталось дней. Оказалось, поезд выезжает из&nbsp;Галифакса в&nbsp;полдень и&nbsp;едет в&nbsp;Оттаву сутки. Значит, через 5&nbsp;дней вечером уже нужно быть в&nbsp;Галифаксе, а&nbsp;ехать оставалось чуть меньше тысячи километров.</p>
 <p>Поначалу подумалось&nbsp;&mdash; а&nbsp;не&nbsp;взять&nbsp;ли поезд отсюда, из&nbsp;Монмани и&nbsp;проехать километров эдак 300, а&nbsp;дальше&nbsp;&mdash; сам. Но&nbsp;такой вариант быстро отпал. В&nbsp;итоге я&nbsp;решил просто ехать дальше. На&nbsp;душе все равно было противно&nbsp;&mdash; в&nbsp;очередной поставил слишком сложную для себя цель...</p>
 <p><strong>День пятый. Монмани&nbsp;&mdash; Нотр-дам-д&rsquo;Портаж. 120&nbsp;км.</strong></p>
-<p><a href="http://g.co/maps/6qwxj"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.32.30-PM.png" alt="" title="Монмани – Нотр-дам-д&#039;Портаж" width="471" height="513" class="alignnone size-full wp-image-2551" /></a><br />
-<img src="http://freetonik.com/wp-content/uploads/2011/09/montmagny-–-notrdameduportage.png" alt="" title="montmagny – notrdameduportage" width="700" height="400" class="alignnone size-full wp-image-2552" /></p>
+<p><a href="http://g.co/maps/6qwxj"><img src="/images/posts/bike/Screen-shot-2011-09-26-at-9.32.30-PM.png" alt="" title="Монмани – Нотр-дам-д&#039;Портаж" width="471" height="513" class="alignnone size-full wp-image-2551" /></a><br />
+<img src="/images/posts/bike/montmagny-–-notrdameduportage.png" alt="" title="montmagny – notrdameduportage" width="700" height="400" class="alignnone size-full wp-image-2552" /></p>
 <p>На&nbsp;пятый день вчерашние переживания растопило редкое, но&nbsp;все-таки солнце, ветер все еще дул в&nbsp;лицо, но&nbsp;дождя не&nbsp;было и&nbsp;последний речной город на&nbsp;моем пути был целью на&nbsp;вечер.</p>
 <p>Святой Лаврентий здесь уже довольно широкий, говорят, в&nbsp;этих местах уже можно встретить китовых.</p>
 <p><img src="https://img-fotki.yandex.ru/get/5411/25330526.16/0_67358_84ce77ef_XL.jpg" alt="" /></p>
@@ -141,8 +141,8 @@ summary: "Я никогда не видел океан. В начале осен
 </blockquote>
 <p>Но&nbsp;было жутко вкусно!</p>
 <p><strong>День шестой. Нотр-дам-д&rsquo;Портаж&nbsp;&mdash; Эдмундстон. 156&nbsp;км.</strong></p>
-<p><a href="http://g.co/maps/x63hy"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.41.00-PM.png" alt="" title="trois_riviere – edmundston" width="525" height="306" class="alignnone size-full wp-image-2554" /></a><br />
-<img src="http://freetonik.com/wp-content/uploads/2011/09/troisriviere-edmundston.png" alt="" title="troisriviere - edmundston" width="700" height="400" class="alignnone size-full wp-image-2555" /></p>
+<p><a href="http://g.co/maps/x63hy"><img src="/images/posts/bike/Screen-shot-2011-09-26-at-9.41.00-PM.png" alt="" title="trois_riviere – edmundston" width="525" height="306" class="alignnone size-full wp-image-2554" /></a><br />
+<img src="/images/posts/bike/troisriviere-edmundston.png" alt="" title="troisriviere - edmundston" width="700" height="400" class="alignnone size-full wp-image-2555" /></p>
 <p>Самое классное утро!</p>
 <p>Прямо за&nbsp;двориком&nbsp;&mdash; водопад.</p>
 <p><img src="https://img-fotki.yandex.ru/get/4413/25330526.17/0_67361_51e1b455_XL.jpg" alt="" /></p>
@@ -162,8 +162,8 @@ summary: "Я никогда не видел океан. В начале осен
 <p><img src="https://img-fotki.yandex.ru/get/5309/25330526.17/0_67367_1f2e994f_XL.jpg" alt="" /></p>
 <p>Снова пошел дождь и&nbsp;я&nbsp;остановился в&nbsp;мотеле.</p>
 <p><strong>День седьмой. Эдмундстон&nbsp;&mdash; Пластер Рок. 97&nbsp;км.</strong></p>
-<p><a href="http://g.co/maps/vcyhv"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.43.19-PM.png" alt="" title="edmundston – plaster rock" width="438" height="317" class="alignnone size-full wp-image-2556" /></a><br />
-<img src="http://freetonik.com/wp-content/uploads/2011/09/edmundston-–-plaster-rock.png" alt="" title="edmundston – plaster rock" width="700" height="400" class="alignnone size-full wp-image-2557" /></p>
+<p><a href="http://g.co/maps/vcyhv"><img src="/images/posts/bike/Screen-shot-2011-09-26-at-9.43.19-PM.png" alt="" title="edmundston – plaster rock" width="438" height="317" class="alignnone size-full wp-image-2556" /></a><br />
+<img src="/images/posts/bike/edmundston-–-plaster-rock.png" alt="" title="edmundston – plaster rock" width="700" height="400" class="alignnone size-full wp-image-2557" /></p>
 <p>Я&nbsp;решил свернуть на&nbsp;восток и&nbsp;поехать в&nbsp;Мирамичи, город недалеко от&nbsp;берега залива Святого Лаврентия. Это не&nbsp;открытый океан, но&nbsp;залив в&nbsp;Атлантическом океане. Поэтому в&nbsp;седьмой день я&nbsp;решил расслабиться и&nbsp;медленно и&nbsp;спокойной проехать 97&nbsp;км. Большая часть пути&nbsp;&mdash; вдоль границы с&nbsp;США. На&nbsp;другой стороне реки Мадаваска&nbsp;&mdash; такие&nbsp;же домики, церкви и&nbsp;люди. </p>
 <p><img src="https://img-fotki.yandex.ru/get/4612/25330526.17/0_6736a_796aa818_XL.jpg" alt="" /></p>
 <p>Мадаваска, как вы&nbsp;наверное догадались, тоже индейское название.</p>
@@ -180,8 +180,8 @@ summary: "Я никогда не видел океан. В начале осен
 <p><img src="https://img-fotki.yandex.ru/get/4708/25330526.17/0_67370_f8b7931d_XL.jpg" alt="" /></p>
 <p>Замечательный день подошел к&nbsp;концу и&nbsp;я&nbsp;оказался в&nbsp;небольшом мотеле в&nbsp;молодом городе Пластер Рок, в&nbsp;котором все еще не&nbsp;было мобильного покрытия. Борясь с&nbsp;медленным интернетом, я&nbsp;сумел таки купить билет на&nbsp;поезд из&nbsp;Мирамичи в&nbsp;Оттаву на&nbsp;послезавтра, плотно поужинал и&nbsp;уснул.</p>
 <p><strong>День восьмой. Пластер Рок&nbsp;&mdash; Мирамичи. 166&nbsp;км.</strong></p>
-<p><a href="http://g.co/maps/bhyzs"><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-26-at-9.46.04-PM.png" alt="" title="plaster rock – miramichi" width="743" height="206" class="alignnone size-full wp-image-2558" /></a><br />
-<img src="http://freetonik.com/wp-content/uploads/2011/09/plaster-rock-–-miramichi.png" alt="" title="plaster rock – miramichi" width="700" height="400" class="alignnone size-full wp-image-2559" /></p>
+<p><a href="http://g.co/maps/bhyzs"><img src="/images/posts/bike/Screen-shot-2011-09-26-at-9.46.04-PM.png" alt="" title="plaster rock – miramichi" width="743" height="206" class="alignnone size-full wp-image-2558" /></a><br />
+<img src="/images/posts/bike/plaster-rock-–-miramichi.png" alt="" title="plaster rock – miramichi" width="700" height="400" class="alignnone size-full wp-image-2559" /></p>
 <p>Финальный день. Марш-бросок через всю провинцию&nbsp;&mdash; почти от&nbsp;границы с&nbsp;США до&nbsp;восточного побережья. </p>
 <p>166 километров диких лесов, в&nbsp;которых я&nbsp;успел повидать лисицу и&nbsp;лося и&nbsp;лосеньком. Все еще никакого сигнала. Редкая машина раз в&nbsp;40-50 минут.</p>
 <p><img src="https://img-fotki.yandex.ru/get/5812/25330526.17/0_67371_fa0ea4a9_XL.jpg" alt="" /></p>
@@ -226,7 +226,7 @@ summary: "Я никогда не видел океан. В начале осен
 <p><img src="https://img-fotki.yandex.ru/get/5812/25330526.17/0_67377_61eaaa94_XL.jpg" alt="" /></p>
 <p>По&nbsp;прибытию в&nbsp;Оттаву оказалось, что велосипед прилично пострадал при перевозке&nbsp;&mdash; переключатель скоростей, тормоз, лежаки и&nbsp;велокомпьютер были разбиты. В&nbsp;последствии Via Rail дали мне $250, но&nbsp;ремонт оказался дороже.</p>
 <p>Здорово осознавать, что пройденный маршрут виден даже в масштабах континента.</p>
-<p><img src="http://freetonik.com/wp-content/uploads/2011/09/Screen-shot-2011-09-28-at-10.29.08-PM.png" alt="" title="america" width="700" height="455" class="alignnone size-full wp-image-2588" /></p>
+<p><img src="/images/posts/bike/Screen-shot-2011-09-28-at-10.29.08-PM.png" alt="" title="america" width="700" height="455" class="alignnone size-full wp-image-2588" /></p>
 <p>Велосипед&nbsp;&mdash; лучший способ увидеть страну. Ты&nbsp;видишь каждый домик, каждый дворик, поле, ферму, холм, водопад, реку, тысячи людей, сотни городов... </p>
 <p>Боюсь, теперь я&nbsp;не&nbsp;скоро слезу с&nbsp;велосипеда.</p>
 <p>Все, что по-настоящему хочется сказать об&nbsp;этом путешествии:</p>
